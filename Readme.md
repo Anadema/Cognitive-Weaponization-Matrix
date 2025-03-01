@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" height="300" src="./Image/matrix.jpg">
+  <img width="400" height="300" src="./Image/matrix.jpg">
 </p>
 
 <br>
