@@ -1,6 +1,6 @@
-<center>
-  <img src="./Image/matrix.jpg" alt="Matrix" width="300">
-</center>
+<div style="text-align: center;">
+  <img src="./Image/matrix.jpg" alt="Matrix" style="display: block; margin: 0 auto;" width="300">
+</div>
 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You are free to share and adapt the material for non-commercial purposes, 
