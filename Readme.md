@@ -1,4 +1,6 @@
 
+# Cognitive Weaponization Matrix
+
 <p align="center">
   <img width="450" height="300" src="./Image/matrix.jpg">
 </p>
@@ -17,8 +19,7 @@ I have no conflicts of interest, meaning I am not acting on behalf of any govern
 with the sole aim of trying to get closer to the truth—nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
 <br><br>
 
-# Cognitive Weaponization Matrix
-
+# Matrix
 
 <p align="center">
   <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
