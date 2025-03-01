@@ -15,10 +15,10 @@ The research focus is both scientific and military, with the originality lying i
 
 I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
 with the sole aim of trying to get closer to the truth—nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
-
+<br><br>
 
 # Cognitive Weaponization Matrix
-<br><br>
+
 
 <p align="center">
   <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
@@ -27,7 +27,6 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 
 # Links
-<br><br>
 
 Shadow Ban : https://fr.wikipedia.org/wiki/Shadow_banning<br>
 Nudge : https://en.wikipedia.org/wiki/Nudge_theory
@@ -36,7 +35,6 @@ To be continued ...
 <br><br>
 
 # Licence
-<br><br>
 
 Cognitive Weaponization Matrix has been released under CC BY-NC-SA 4.0 :
 
