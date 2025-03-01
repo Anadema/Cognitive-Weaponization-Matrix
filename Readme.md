@@ -1,7 +1,10 @@
-<div style="text-align: center;">
-  <img src="./Image/matrix.jpg" alt="Matrix" style="display: block; margin: 0 auto;" width="300">
-</div>
 
+<p align="center">
+  <img width="300" height="300" src="./Image/matrix.jpg">
+</p>
+
+<br>
+<br>
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You are free to share and adapt the material for non-commercial purposes, 
 as long as you give appropriate credit to Arsène White [BONE FLAG]. Commercial use is prohibited without explicit permission from the author.
