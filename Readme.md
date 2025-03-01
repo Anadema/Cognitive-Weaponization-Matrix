@@ -1,6 +1,7 @@
-<div style="text-align: center;">
+<center>
   <img src="./Image/matrix.jpg" alt="Matrix" width="300">
-</div>
+</center>
+
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. You are free to share and adapt the material for non-commercial purposes, 
 as long as you give appropriate credit to Arsène White [BONE FLAG]. Commercial use is prohibited without explicit permission from the author.
