@@ -28,10 +28,10 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 # Links
 
-Shadow Ban : https://fr.wikipedia.org/wiki/Shadow_banning<br>
-Nudge : https://en.wikipedia.org/wiki/Nudge_theory
-Character Assassination : https://en.wikipedia.org/wiki/Character_assassination
-Sock Puppet : https://en.wikipedia.org/wiki/Sock_puppet_account
+<b>Shadow Ban :</b> https://fr.wikipedia.org/wiki/Shadow_banning<br>
+<b>Nudge :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
+<b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
+<b>Sock Puppet :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
 
 To be continued ...
 <br><br>
