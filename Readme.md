@@ -18,23 +18,25 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 
 # Cognitive Weaponization Matrix
-<br>
+<br><br>
 
 <p align="center">
   <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
 </p>
-<br>
+<br><br>
 
 
 # Links
+<br><br>
 
 Shadow Ban : https://fr.wikipedia.org/wiki/Shadow_banning<br>
 Nudge : https://en.wikipedia.org/wiki/Nudge_theory
 
 To be continued ...
-
+<br><br>
 
 # Licence
+<br><br>
 
 Cognitive Weaponization Matrix has been released under CC BY-NC-SA 4.0 :
 
