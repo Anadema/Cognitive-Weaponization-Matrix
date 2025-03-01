@@ -30,6 +30,8 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 Shadow Ban : https://fr.wikipedia.org/wiki/Shadow_banning<br>
 Nudge : https://en.wikipedia.org/wiki/Nudge_theory
+Character Assassination : https://en.wikipedia.org/wiki/Character_assassination
+Sock Puppet : https://en.wikipedia.org/wiki/Sock_puppet_account
 
 To be continued ...
 <br><br>
