@@ -28,9 +28,10 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 # Links
 
-Shadow Ban : https://fr.wikipedia.org/wiki/Shadow_banning
+Shadow Ban : https://fr.wikipedia.org/wiki/Shadow_banning<br>
 Nudge : https://en.wikipedia.org/wiki/Nudge_theory
-...
+
+To be continued ...
 
 
 # Licence
