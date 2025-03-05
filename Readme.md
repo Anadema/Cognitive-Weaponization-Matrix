@@ -33,7 +33,7 @@ Some quotes to enlighten this article:
 
 🔷General Valery Gerasimov - 2013: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
 
-🔷 If you want to know how to protect yourself against this new type of warfare, study the ICWM
+🔷 If you understand we are all soldier in the same battlefield and you want to know how to protect yourself against this new type of warfare, study the CWM
 
 
 # Purpose
