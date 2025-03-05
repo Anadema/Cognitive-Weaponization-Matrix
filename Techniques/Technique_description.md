@@ -87,7 +87,7 @@ Cyberbullying is repeated online harassment to humiliate or distress a target. U
 Seed distortions plant small lies or half-truths to grow broader misinformation. Subtle and strategic, they spread naturally via shares. Think rumors taking root online. It’s insidious because it feels organic.
 <br><br><br>
 
-<b>Bait Influencer :</b> https://www.rollingstone.com/culture/culture-features/what-is-rage-bait-influencers-making-people-angry-1234976621/<br>
+<b>Bait Influencer :</b> https://en.wikipedia.org/wiki/Rage-baiting<br>
 
 Bait influencers provoke outrage or reactions to boost engagement. They post inflammatory content, like rage-bait, to go viral. Think divisive TikTok rants. It exploits emotions for attention.
 <br><br><br>
