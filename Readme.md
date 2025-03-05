@@ -88,7 +88,6 @@ Unlike DISARM, which targets disinformation broadly, the CWM focuses on empoweri
 <b>Firehose of Falsehood :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
 <b>Dismiss / Distract / Distort / Dismay :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
 <b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
-<b>Create Inauthentic News Sites :</b> https://disarmframework.herokuapp.com/technique/141/view<br>
 <b>Censorship :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
 <b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 <b>Microtarget :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
