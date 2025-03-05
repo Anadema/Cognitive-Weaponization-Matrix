@@ -30,6 +30,8 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 ## Techniques
 
+With Description : https://github.com/Anadema/Cognitive-Weaponization-Matrix/tree/main/Techniques<br><br>
+
 <b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 <b>Nudge :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 <b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
