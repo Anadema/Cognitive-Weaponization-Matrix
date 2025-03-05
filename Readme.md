@@ -97,7 +97,7 @@ Unlike DISARM, which targets disinformation broadly, the CWM focuses on empoweri
 To be continued ...
 <br><br>
 
-# Personal comment
+# Personal comments
 
 
 This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
