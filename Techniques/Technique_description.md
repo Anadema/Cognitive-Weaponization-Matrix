@@ -1,5 +1,7 @@
 # Techniques
 
+
+
 <b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 
 Shadow banning is a practice on social media where a user’s content is made invisible or less visible to others without their knowledge. It’s used to curb spam or inappropriate behavior, reducing post reach without deleting the account. Platforms like Twitter, Instagram, or YouTube are said to have used it, though it’s often unofficial and controversial. Users may suspect a shadow ban if they notice a sudden drop in visibility or engagement. The technique raises debates about transparency, censorship, and online free speech.
