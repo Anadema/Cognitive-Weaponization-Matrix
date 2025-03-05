@@ -52,7 +52,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Echo Chamber :</b> https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)<br>
 <b>Copypasta :</b> https://fr.wikipedia.org/wiki/Copypasta<br>
 <b>Information Pollution :</b> https://en.wikipedia.org/wiki/Information_pollution<br>
-<b>Motivate Mediocrity :</b> https://medium.com/@raquelfreelancer777/10-mass-manipulation-techniques-explored-by-noam-chomsky-4dd5cf497c89<br>
+<b>Motivate Mediocrity :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Develop Deep/Cheap Fakes :</b> https://datasociety.net/library/deepfakes-and-cheap-fakes/<br>
 <b>Firehose of falsehood :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
 <b>Dismiss / Distract / Distort / Dismay :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
@@ -61,7 +61,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Censorship :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
 <b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 <b>Microtarget :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
-<b>Maintening Guild and ingorance :</b> https://medium.com/@raquelfreelancer777/10-mass-manipulation-techniques-explored-by-noam-chomsky-4dd5cf497c89<br>
+<b>Maintening Guild and ingorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>vManipulate Platform Algorithm :</b> https://www.onenought.one/post/how-to-manipulate-social-media-algorithms-for-organic-growth<br>
 <b>Create Inauthentic News Sites :</b></b>https://disarmframework.herokuapp.com/technique/141/view<br>
 
