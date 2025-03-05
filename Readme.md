@@ -65,9 +65,9 @@ Kompromat is compromising material, like scandals or secrets, collected to black
 Cherry picking is selectively presenting data or evidence to support a claim while ignoring contradictions. Common in debates or media, it distorts reality for persuasion. Scientists and propagandists alike use it. It misleads by crafting a one-sided narrative.
 
 
-<b>Persona :</b> https://en.wikipedia.org/wiki/Persona<br>
+<b>Emotional Hijacking :</b> https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it<br>
 
-A persona is a fabricated identity or role adopted online to influence perception. Used in marketing or manipulation, it builds trust or credibility artificially. Think influencers faking expertise. It’s powerful until the mask slips and authenticity is questioned.
+Emotional hijacking triggers an intense emotional response (fear, anger, joy) to bypass rational thinking. Once emotionally charged, a person is more likely to accept a message uncritically. Example: pairing propaganda with shocking imagery.
 
 
 <b>Ignorant Agent :</b> https://disarmframework.herokuapp.com/technique/7/view<br>
