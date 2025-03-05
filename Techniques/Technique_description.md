@@ -5,12 +5,12 @@
 <b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 
 Shadow banning is a practice on social media where a user’s content is made invisible or less visible to others without their knowledge. It’s used to curb spam or inappropriate behavior, reducing post reach without deleting the account. Platforms like Twitter, Instagram, or YouTube are said to have used it, though it’s often unofficial and controversial. Users may suspect a shadow ban if they notice a sudden drop in visibility or engagement. The technique raises debates about transparency, censorship, and online free speech.
-<br>
+<br><br>
 
 <b>Nudge :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 
 Nudge theory involves subtly influencing people’s behavior without restricting choices, often for their benefit. It uses small cues or design changes, like placing healthier food at eye level, to guide decisions. Popularized in behavioral economics, it’s applied in policy and marketing. Critics argue it can feel manipulative if not transparent.
-<br>
+<br><br>
 
 <b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination
 
