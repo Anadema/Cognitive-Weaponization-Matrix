@@ -56,7 +56,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Develop Deep/Cheap Fakes :</b> https://datasociety.net/library/deepfakes-and-cheap-fakes/<br>
 <b>Firehose of falsehood :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
 <b>Dismiss / Distract / Distort / Dismay :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
-<b>Undermine :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0135.mdhttps:/github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0135.md<br>
+<b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
 <b>Create Inauthentic News Sites :</b> https://disarmframework.herokuapp.com/technique/141/view<br>
 <b>Censorship :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
 <b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
