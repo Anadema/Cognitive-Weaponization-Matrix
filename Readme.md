@@ -135,9 +135,9 @@ An echo chamber is an online space where ideas are reinforced without challenge.
 Copypasta is repetitive, copied text spammed online, often for humor or disruption. Think meme walls flooding comments. It annoys or derails discussions. It’s low-effort noise.
 
 
-<b>Information Pollution :</b> https://en.wikipedia.org/wiki/Information_pollution<br>
+<b>Scarcity Manipulation :</b> https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb<br>
 
-Information pollution is the spread of irrelevant or false data clogging discourse. Like spam or hoaxes, it overwhelms and confuses. Think junk news sites. It drowns out truth.
+This technique uses the fear of missing out (on time, resources, or opportunities) to prompt quick action without reflection. For example, spreading a rumor that critical information will soon be censored to push people to share it immediately.
 
 
 <b>Motivate Mediocrity :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
@@ -193,6 +193,16 @@ Maintaining guilt and ignorance keeps people submissive via shame and confusion.
 <b>Manipulate Platform Algo :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md
 
 Manipulating platform algorithms games systems to boost content visibility. Using bots or trends, it cheats reach. Think SEO for disinformation. It hijacks attention.
+
+<b>Framing :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)
+
+Framing manipulates how information is presented to shape its interpretation. For instance, saying "90% success rate" instead of "10% failure rate" alters perception without changing the facts. It’s often used to make a narrative more favorable or alarming.
+
+<b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect
+
+The bandwagon effect exploits the human tendency to follow the majority. By creating the illusion that an idea or belief is widely accepted ("everyone thinks this"), it pressures individuals to conform without questioning it.
+
+
 
 
 
