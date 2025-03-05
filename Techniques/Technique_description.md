@@ -1,6 +1,6 @@
 # Techniques
 
-
+<br><br>
 
 <b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 
