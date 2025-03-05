@@ -137,11 +137,6 @@ The 4 Ds discredit foes by dismissing, distracting, distorting, or dismaying. Th
 Gaslighting manipulates someone into doubting their reality or sanity. Using denial or lies, like “that never happened,” it confuses victims. Think abusive relationships online. It’s psychological sabotage.
 <br><br><br>
 
-<b>Create Inauthentic News Sites :</b> https://disarmframework.herokuapp.com/technique/141/view<br>
-
-Inauthentic news sites mimic legit sources to spread lies. Built for disinformation, they trick readers with fake credibility. Think “breaking news” clones. They pollute trust.
-<br><br><br>
-
 <b>Censorship :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
 
 Censorship suppresses information to control narratives. Governments or platforms block content, like banned posts. Think authoritarian media clamps. It limits free expression.
