@@ -27,12 +27,12 @@ A sock puppet is a fake online identity used to deceive others, often to push ag
 Bad jacketing is falsely labeling someone as an informant or traitor within a group to sow distrust. Used by authorities or rivals, it isolates targets and disrupts unity, especially in activist circles. Historically linked to COINTELPRO, it’s a covert betrayal tactic. Suspicion alone can ruin relationships.
 <br><br><br>
 
-<b>Kompromat :</b> https://fr.wikipedia.org/wiki/Kompromat_(renseignement)<br>
+<b>Kompromat :</b> https://en.wikipedia.org/wiki/Kompromat<br>
 
 Kompromat is compromising material, like scandals or secrets, collected to blackmail or discredit someone. Often used in espionage or politics, it leverages fear of exposure to control targets. Russia’s intelligence is famously associated with it. It’s effective because it exploits personal vulnerabilities.
 <br><br><br>
 
-<b>Cherry Picking :</b> https://fr.wikipedia.org/wiki/Cherry_picking<br>
+<b>Cherry Picking :</b> https://en.wikipedia.org/wiki/Cherry_picking<br>
 
 Cherry picking is selectively presenting data or evidence to support a claim while ignoring contradictions. Common in debates or media, it distorts reality for persuasion. Scientists and propagandists alike use it. It misleads by crafting a one-sided narrative.
 <br><br><br>
@@ -47,7 +47,7 @@ Emotional hijacking triggers an intense emotional response (fear, anger, joy) to
 An ignorant agent is someone unknowingly spreading disinformation, manipulated by others. They act sincerely, making their message convincing, often on social media. Part of disinformation campaigns, it exploits trust. Their ignorance shields the true orchestrators.
 <br><br><br>
 
-<b>Clickbait :</b> https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics<br>
+<b>Clickbait :</b> https://en.wikipedia.org/wiki/Clickbait<br>
 
 Clickbait uses sensational or misleading headlines to lure users into clicking content. It prioritizes engagement over substance, common in online media. Titles like “You Won’t Believe This!” drive traffic but often disappoint. It thrives on curiosity and frustration.
 <br><br><br>
@@ -67,12 +67,12 @@ Swarming is coordinated online attacks by many accounts to overwhelm or harass a
 Fake experts are unqualified individuals presented as authorities to push a narrative. Common in disinformation, they deceive with credentials or charisma. Think anti-vaccine “doctors.” It exploits trust in expertise to mislead.
 <br><br><br>
 
-<b>Contradictory Injunction :</b> https://fr.wikipedia.org/wiki/Double_contrainte<br>
+<b>Contradictory Injunction :</b> https://en.wikipedia.org/wiki/Double_bind<br>
 
 Contradictory injunction, or double bind, is giving conflicting demands where no response wins. Used in manipulation, it traps victims in confusion or guilt, like “be spontaneous” orders. Psychologically draining, it’s a control tactic.
 <br><br><br>
 
-<b>Doxing :</b> https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles<br>
+<b>Doxing :</b> https://en.wikipedia.org/wiki/Doxing<br>
 
 Doxing is publicly revealing private information, like addresses, to harm or intimidate someone. Often a revenge tactic online, it violates privacy and invites harassment. Think hackers targeting critics. It’s a weapon of exposure.
 <br><br><br>
@@ -97,12 +97,12 @@ Bait influencers provoke outrage or reactions to boost engagement. They post inf
 Online polls are informal surveys open to manipulation, skewing public perception. Unregulated and unscientific, they’re gamed by bots or brigades. Think Twitter polls swaying opinion. They mimic legitimacy but lack rigor.
 <br><br><br>
 
-<b>Echo Chamber :</b> https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)<br>
+<b>Echo Chamber :</b> https://en.wikipedia.org/wiki/Echo_chamber_(media)<br>
 
 An echo chamber is an online space where ideas are reinforced without challenge. Algorithms and groupthink amplify biases, like on partisan forums. It isolates users from dissent. Reality becomes distorted.
 <br><br><br>
 
-<b>Copypasta :</b> https://fr.wikipedia.org/wiki/Copypasta<br>
+<b>Copypasta :</b> https://en.wikipedia.org/wiki/Copypasta<br>
 
 Copypasta is repetitive, copied text spammed online, often for humor or disruption. Think meme walls flooding comments. It annoys or derails discussions. It’s low-effort noise.
 <br><br><br>
