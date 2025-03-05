@@ -20,9 +20,11 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 # Purpose
 
-The Cognitive Warfare Matrix (CWM) is a conceptual tool designed to analyze and understand cognitive attacks, with the aim of enhancing detection and protection capabilities before these attacks deliver their payloads. Drawing inspiration from frameworks like MITRE ATT&CK in cybersecurity, the CWM maps out the tactics, techniques, and procedures employed in cognitive warfare—a domain focused on manipulating perceptions, emotions, and decision-making processes of individuals or groups. By organizing these elements into a dynamic grid, it enables the identification of early warning signs of a cognitive offensive, whether it involves targeted disinformation, exploitation of cognitive biases through social media, or the use of artificial intelligence to amplify confusion.
+The Cognitive Warfare Matrix (CWM) is a tool to analyze cognitive attacks and enhance defenses before their payloads hit. Inspired by MITRE ATT&CK, it maps tactics and techniques of cognitive warfare—manipulating perceptions and decisions via disinformation, social media, or AI—into a grid to spot early warning signs.
 
-Unlike the DISARM framework, which primarily focuses on countering disinformation at a broader societal or systemic level, the CWM distinguishes itself by specifically aiming to empower the individual, providing them with a clear vision of the cognitive battlefield. This individualized approach allows users to better comprehend the theater of cognitive warfare, anticipate adversarial intentions, and neutralize psychological effects before they take hold. Thus, the CWM offers a proactive strategy to safeguard the mental and strategic integrity of potential targets, equipping them with the tools to resist manipulation in an increasingly complex information environment.
+Unlike DISARM, which targets disinformation broadly, the CWM focuses on empowering individuals with a clear view of the cognitive battlefield. It helps users anticipate and counter psychological effects, offering a proactive way to protect mental and strategic integrity in a complex info landscape.
+
+
 
 
 # Matrix
