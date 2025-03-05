@@ -26,8 +26,9 @@ To summarize:
 
 ● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.<br><br>
 
+<p align="center">
 <img width="500" height="200" src="./Image/5Gw.png"><br><br>
-
+</p>
 
 Some quotes to enlighten this article:
 
