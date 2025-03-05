@@ -14,11 +14,8 @@
 
 🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date.<br><br>
 
-<p align="center">
-<img width="400" height="300" src="./Image/malone.png"><br><br>
-</p>
 
-To summarize:
+To summarize his analyze:
 
 ● 5th generation warfare is a war of information and perception.
 
