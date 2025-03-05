@@ -49,7 +49,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Doxing :</b> https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles<br>
 <b>Cyberbullying :</b> https://disarmframework.herokuapp.com/technique/193/view<br>
 <b>Seed Distortions :</b> https://disarmframework.herokuapp.com/technique/35/view<br>
-<b>Bait Influencer :</b> https://www.rollingstone.com/culture/culture-features/what-is-rage-bait-influencers-making-people-angry-1234976621/<br>
+<b>Bait Influencer :</b> https://en.wikipedia.org/wiki/Rage-baiting<br>
 <b>Online Polls :</b> https://en.wikipedia.org/wiki/Open-access_poll<br>
 <b>Echo Chamber :</b> https://en.wikipedia.org/wiki/Echo_chamber_(media)<br>
 <b>Copypasta :</b> https://en.wikipedia.org/wiki/Copypasta<br>
