@@ -74,7 +74,7 @@ To be continued ...
 
 Cognitive Weaponization Matrix has been released under CC BY-NC-SA 4.0 :
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br>
+https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br><br><br><br><br>
 
 <p align="center">
   <img width="500" height="300" src="./Image/truman.jpg">
