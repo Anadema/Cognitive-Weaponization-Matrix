@@ -31,6 +31,9 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 ## Techniques
 
 <b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Shadow_banning<br>
+
+Shadow banning is a practice on social media where a user’s content is made invisible or less visible to others without their knowledge. It’s used to curb spam or inappropriate behavior, reducing post reach without deleting the account. Platforms like Twitter, Instagram, or YouTube are said to have used it, though it’s often unofficial and controversial. Users may suspect a shadow ban if they notice a sudden drop in visibility or engagement. The technique raises debates about transparency, censorship, and online free speech.
+
 <b>Nudge :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 <b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 <b>Sock Puppet :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
