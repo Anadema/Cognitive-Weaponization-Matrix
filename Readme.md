@@ -66,7 +66,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Maintaining Guilt and Ignorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Manipulate Platform Algo :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md<br>
 <b>Framing :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
-<b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
+<b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br><br><br>
 
 
 To be continued ...
