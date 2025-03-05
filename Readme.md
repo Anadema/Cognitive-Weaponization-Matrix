@@ -14,7 +14,7 @@
 
 🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date. He gave a presentation on this topic even though it's not his field of research. Some are mono-specialized, and others are multi-specialized. Respect to you, sir!
 
-
+<img width="500" height="300" src="./Image/malone.jpg">
 
 To summarize:
 
@@ -23,6 +23,8 @@ To summarize:
 ● It's a strange game; the only way to win is not to play.
 
 ● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.
+
+<img width="500" height="300" src="./Image/5Gw.jpg">
 
 
 Some quotes to enlighten this article:
