@@ -30,7 +30,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 ## Techniques
 
-<a href="./Techniques/Technique_description.md">With Description</a><br>
+<a href="./Techniques/Technique_description.md">With Description</a><br><br>
 
 <b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 <b>Nudge :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
