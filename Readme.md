@@ -30,7 +30,7 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 ## Techniques
 
-<b>Shadow Ban :</b> https://fr.wikipedia.org/wiki/Shadow_banning<br>
+<b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Shadow_banning<br>
 <b>Nudge :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 <b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 <b>Sock Puppet :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
