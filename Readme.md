@@ -65,7 +65,7 @@ Shadow banning is a practice on social media where a user’s content is made in
 <b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 <b>Microtarget :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
 <b>Maintening Guild and ingorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
-<b>vManipulate Platform Algorithm :</b> https://www.onenought.one/post/how-to-manipulate-social-media-algorithms-for-organic-growth<br>
+<b>Manipulate Platform Algo :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md<br>
 <b>Create Inauthentic News Sites :</b></b>https://disarmframework.herokuapp.com/technique/141/view<br>
 
 
