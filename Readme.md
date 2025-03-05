@@ -15,7 +15,7 @@
 🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date.<br><br>
 
 <p align="center">
-<img width="300" height="220" src="./Image/malone.png"><br><br>
+<img width="400" height="300" src="./Image/malone.png"><br><br>
 </p>
 
 To summarize:
