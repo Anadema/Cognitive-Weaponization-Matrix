@@ -12,7 +12,7 @@
 
 🔷 This battlefield is one of communication and information, inevitably leading to the exploitation of the cognitive biases of the adversary in order to render them incapable of any movement and, consequently, to win the battle without firing a single shot.
 
-🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date. He gave a presentation on this topic even though it's not his field of research. Some are mono-specialized, and others are multi-specialized. Respect to you, sir!
+🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date.<br><br>
 
 <img width="300" height="220" src="./Image/malone.png">
 
