@@ -30,7 +30,7 @@ To summarize:
 <img width="500" height="200" src="./Image/5Gw.png"><br><br>
 </p>
 
-Some quotes to enlighten this article:
+Some quotes to enlighten this research:
 
 🔷Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
