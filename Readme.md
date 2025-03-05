@@ -67,39 +67,6 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 To be continued ...
 <br><br>
 
@@ -107,4 +74,8 @@ To be continued ...
 
 Cognitive Weaponization Matrix has been released under CC BY-NC-SA 4.0 :
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br>
+
+<p align="center">
+  <img width="500" height="300" src="./Image/truman.jpg">
+</p>
