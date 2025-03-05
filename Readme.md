@@ -8,15 +8,29 @@
 
 # Cognitive Weaponization Matrix
 
+🔷 We talk about cognitive warfare, but before diving deeper, it's good to place ourselves in the context of the evolution of war history. This will help us understand that the battlefield will define the form of combat we can lead, and not the other way around.
 
-This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
-The objective is to provide keys to understanding this domain of cognitive warfare in numerical environment. That have nothing to do with fact-checking, and even less with ideologies or modern approaches to skepticism (zététique). 
+🔷 This battlefield is one of communication and information, inevitably leading to the exploitation of the cognitive biases of the adversary in order to render them incapable of any movement and, consequently, to win the battle without firing a single shot.
 
-The research focus is both scientific and military, with the originality lying in making a high level of resources available, rather than engaging in mass vulgarization that hides behind influence methods.
+🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date. He gave a presentation on this topic even though it's not his field of research. Some are mono-specialized, and others are multi-specialized. Respect to you, sir!
 
-I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
-with the sole aim of trying to get closer to the truth—nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
-<br><br><br>
+To summarize:
+
+● 5th generation warfare is a war of information and perception.
+
+● It's a strange game; the only way to win is not to play.
+
+● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.
+
+
+Some quotes to enlighten this article:
+
+🔷Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
+
+🔷General Valery Gerasimov - 2013: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
+
+🔷 If you want to know how to protect yourself against this new type of warfare, study the ICWM
+
 
 # Purpose
 
@@ -78,6 +92,18 @@ Unlike DISARM, which targets disinformation broadly, the CWM focuses on empoweri
 
 To be continued ...
 <br><br>
+
+# Personal comment
+
+
+This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
+The objective is to provide keys to understanding this domain of cognitive warfare in numerical environment. That have nothing to do with fact-checking, and even less with ideologies or modern approaches to skepticism (zététique). 
+
+The research focus is both scientific and military, with the originality lying in making a high level of resources available, rather than engaging in mass vulgarization that hides behind influence methods.
+
+I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
+with the sole aim of trying to get closer to the truth—nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
+<br><br><br>
 
 # Licence
 
