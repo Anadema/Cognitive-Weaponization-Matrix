@@ -16,15 +16,14 @@ The research focus is both scientific and military, with the originality lying i
 
 I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
 with the sole aim of trying to get closer to the truth—nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
-<br><br>
+<br><br><br>
 
 # Purpose
 
 The Cognitive Warfare Matrix (CWM) is a tool to analyze cognitive attacks and enhance defenses before their payloads hit. Inspired by MITRE ATT&CK, it maps tactics and techniques of cognitive warfare—manipulating perceptions and decisions via disinformation, social media, or AI—into a grid to spot early warning signs.
 
 Unlike DISARM, which targets disinformation broadly, the CWM focuses on empowering individuals with a clear view of the cognitive battlefield. It helps users anticipate and counter psychological effects, offering a proactive way to protect mental and strategic integrity in a complex info landscape.
-
-
+<br><br><br>
 
 
 # Matrix
