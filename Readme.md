@@ -22,7 +22,7 @@ To summarize:
 
 ● It's a strange game; the only way to win is not to play.
 
-● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.
+● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.<br><br>
 
 <img width="500" height="200" src="./Image/5Gw.png">
 
