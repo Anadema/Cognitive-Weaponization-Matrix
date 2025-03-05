@@ -37,22 +37,22 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 <b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 <b>Sock Puppet :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
 <b>Bad Jacketing :</b> https://en.wikipedia.org/wiki/Bad-jacketing<br>
-<b>Kompromat :</b> https://fr.wikipedia.org/wiki/Kompromat_(renseignement)<br>
-<b>Cherry Picking :</b> https://fr.wikipedia.org/wiki/Cherry_picking<br>
+<b>Kompromat :</b> https://en.wikipedia.org/wiki/Kompromat<br>
+<b>Cherry Picking :</b> https://en.wikipedia.org/wiki/Cherry_picking<br>
 <b>Emotional Hijacking :</b> https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it<br>
 <b>Ignorant Agent :</b> https://disarmframework.herokuapp.com/technique/7/view<br>
-<b>Clickbait :</b> https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics<br>
+<b>Clickbait :</b> https://en.wikipedia.org/wiki/Clickbait<br>
 <b>Keyword Squatting :</b> https://mediamanipulation.org/definitions/keyword-squatting/<br>
 <b>Swarming :</b> https://disarmframework.herokuapp.com/technique/49/view<br>
 <b>Fake Experts :</b> https://disarmframework.herokuapp.com/technique/5/view<br>
-<b>Contradictory Injunction :</b> https://fr.wikipedia.org/wiki/Double_contrainte<br>
+<b>Contradictory Injunction :</b> https://en.wikipedia.org/wiki/Double_bind<br>
 <b>Doxing :</b> https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles<br>
 <b>Cyberbullying :</b> https://disarmframework.herokuapp.com/technique/193/view<br>
 <b>Seed Distortions :</b> https://disarmframework.herokuapp.com/technique/35/view<br>
 <b>Bait Influencer :</b> https://www.rollingstone.com/culture/culture-features/what-is-rage-bait-influencers-making-people-angry-1234976621/<br>
 <b>Online Polls :</b> https://en.wikipedia.org/wiki/Open-access_poll<br>
-<b>Echo Chamber :</b> https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)<br>
-<b>Copypasta :</b> https://fr.wikipedia.org/wiki/Copypasta<br>
+<b>Echo Chamber :</b> https://en.wikipedia.org/wiki/Echo_chamber_(media)<br>
+<b>Copypasta :</b> https://en.wikipedia.org/wiki/Copypasta<br>
 <b>Scarcity Manipulation :</b> https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb<br>
 <b>Motivate Mediocrity :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Develop Deep/Cheap Fakes :</b> https://datasociety.net/library/deepfakes-and-cheap-fakes/<br>
