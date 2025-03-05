@@ -14,7 +14,7 @@
 
 🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date.<br><br>
 
-<img width="300" height="220" src="./Image/malone.png">
+<img width="300" height="220" src="./Image/malone.png"><br><br>
 
 To summarize:
 
@@ -24,7 +24,7 @@ To summarize:
 
 ● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.<br><br>
 
-<img width="500" height="200" src="./Image/5Gw.png">
+<img width="500" height="200" src="./Image/5Gw.png"><br><br>
 
 
 Some quotes to enlighten this article:
