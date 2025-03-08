@@ -15,6 +15,7 @@
 # Some quotes
 
 <br>
+<br>
 
 🔷 General Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
