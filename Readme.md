@@ -14,6 +14,8 @@
 
 # Some quotes
 
+<br>
+
 🔷 General Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
 🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
