@@ -12,23 +12,6 @@
 
 🔷 This battlefield is one of communication and information, inevitably leading to the exploitation of the cognitive biases of the adversary in order to render them incapable of any movement and, consequently, to win the battle without firing a single shot.
 
-🔷 Doctor, researcher, and professor Robert Malone is the one who best explains 5th generation warfare to date.<br><br>
-
-
-To summarize his analyze:
-
-● 5th generation warfare is a war of information and perception.
-
-● It's a strange game; the only way to win is not to play.
-
-● In the modern era, wars are no longer fought by armies or militias, but in the minds of ordinary citizens.<br><br>
-
-<p align="center">
-<img width="600" height="250" src="./Image/5Gw.png"><br><br>
-</p>
-
-Some quotes to enlighten this research:
-
 🔷Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
 🔷General Valery Gerasimov - 2013: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
