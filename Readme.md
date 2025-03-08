@@ -12,11 +12,13 @@
 
 🔷 This battlefield is one of communication and information, inevitably leading to the exploitation of the cognitive biases of the adversary in order to render them incapable of any movement and, consequently, to win the battle without firing a single shot.
 
-🔷Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
+# Some quotes
 
-🔷General Valery Gerasimov - 2013: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
+🔷 General Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
-🔷Arsène White - 2025: "If you understand we are all soldier in the same battlefield and you want to know how to protect yourself, your friends and your family against this new type of warfare, study and share the CWM"<br><br>
+🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
+
+🔷 Arsène White - 2025 AD: "If you understand we are all soldier in the same battlefield and you want to know how to protect yourself, your friends and your family against this new type of warfare, study and share the CWM"<br><br>
 
 
 # Purpose
