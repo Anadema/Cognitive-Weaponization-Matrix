@@ -14,6 +14,14 @@
 
 <br>
 
+# Purpose
+
+The Cognitive Warfare Matrix (CWM) is a tool to analyze cognitive attacks and enhance defenses before their payloads hit. Inspired by MITRE ATT&CK, it maps only techniques of cognitive warfare, and others key-concepts to manipulate perceptions and decisions into a grid to spot early warning signs.
+
+Unlike DISARM framework, which targets disinformation broadly, the CWM focuses on empowering individuals with a clear view of the cognitive battlefield. It helps users anticipate and counter psychological effects, offering a proactive way to protect mental and strategic integrity in a complex info landscape.
+
+<br>
+
 # Some quotes
 
 🔷 General Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
@@ -21,15 +29,7 @@
 🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely 
 
 🔷 Arsène White - 2025 AD: "If you understand we are all soldier in the same battlefield and you want to know how to protect yourself, your friends and your family against this new type of warfare, study and share the CWM"<br><br>
-
-
-# Purpose
-
-The Cognitive Warfare Matrix (CWM) is a tool to analyze cognitive attacks and enhance defenses before their payloads hit. Inspired by MITRE ATT&CK, it maps only techniques of cognitive warfare, and others key-concepts to manipulate perceptions and decisions into a grid to spot early warning signs.
-
-Unlike DISARM framework, which targets disinformation broadly, the CWM focuses on empowering individuals with a clear view of the cognitive battlefield. It helps users anticipate and counter psychological effects, offering a proactive way to protect mental and strategic integrity in a complex info landscape.
-<br><br><br>
-
+<br><br>
 
 # Matrix
 
