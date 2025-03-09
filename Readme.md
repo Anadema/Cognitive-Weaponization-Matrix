@@ -72,7 +72,8 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 🔷 Arsène White - 2025 AD: "If you realize that we are all soldiers on the same battlefield and want to learn how to protect yourself, your friends, and your family from this new type of warfare, study and share the CWM."<br><br>
 <br>
 
-# Matrix
+# Cognitive Weaponization Matrix
+<br>
 
 <p align="center">
   <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
