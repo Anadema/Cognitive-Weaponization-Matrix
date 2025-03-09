@@ -172,8 +172,17 @@ Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour
 # Licence
 
 La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :
-
 Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée.<br>
+
+
+Tous les documents stocké ici provienne de source ouverte sur Internet :<br>
+https://apps.dtic.mil/sti/citations/ADA507172<br>
+https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
+https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
+https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf<br>
+https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
+https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth<br>
+
 <br><br><br><br><br>
 
 <p align="center">
