@@ -69,8 +69,8 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 🔷 Troisième loi de Clarke - 1973 av. J.-C. : "Toute technologie suffisamment avancée est indiscernable de la magie."
 
 🔷 Général Valery Gerasimov - 2013 ap. J.-C. : "La guerre de l’information ne nécessite ni soldats, ni canons, ni chars, mais uniquement des ordinateurs et des esprits bien entraînés pour mener une guerre discrète mais extrêmement efficace."
+<br>
 
-🔷 Arsène White - 2025 ap. J.-C. : "Si vous réalisez que nous sommes tous des soldats sur le même champ de bataille et que vous voulez apprendre à vous protéger, ainsi que vos amis et votre famille, de ce nouveau type de guerre, étudiez et partagez la CWM."<br><br>
 <br>
 
 # Matrice d'Armement Cognitif
