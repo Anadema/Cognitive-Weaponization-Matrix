@@ -172,6 +172,16 @@ with the sole aim of trying to get closer to the truth, nothing more, nothing le
 Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :
 
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
+
+All documents store here come from Internet and are avalaible in open source access:<br>
+
+https://apps.dtic.mil/sti/citations/ADA507172<br>
+https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
+https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
+https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf<br>
+https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
+https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth<br>
+
 <br><br><br><br><br>
 
 <p align="center">
