@@ -129,6 +129,8 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 <a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
 
+<b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
+<b>Titytainment :</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>Problème-Réaction-Solution - PRS :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Vides de données :</b> https://datasociety.net/library/data-voids/<br>
 <b>Vulnérabilité du public :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
@@ -142,8 +144,6 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Auto-justification :</b> https://en.wikipedia.org/wiki/Self-licensing<br>
 <b>Expérience de Milgram :</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
 <b>Expérience de Asch :</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
-<b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
-<b>Titytainment :</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>Peur, incertitude et doute :</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
 <b>Peur de rater quelque chose :</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
 <b>Opérations psychologiques :</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
