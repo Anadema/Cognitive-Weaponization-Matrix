@@ -137,14 +137,14 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Bulle de filtres:</b> https://en.wikipedia.org/wiki/Filter_bubble<br>
 <b>Boucle de dopamine:</b> https://en.wikipedia.org/wiki/Compulsion_loop<br>
 <b>Fenêtre d'Overton:</b> https://en.wikipedia.org/wiki/Overton_window<br>
-<b>VUCA:</b> https://en.wikipedia.org/wiki/VUCA (VUCA reste tel quel, acronyme universel)<br>
+<b>VUCA:</b> https://en.wikipedia.org/wiki/VUCA<br>
 <b>Biais de confirmation:</b> https://en.wikipedia.org/wiki/Confirmation_bias<br>
 <b>Biais d'ancrage:</b> https://en.wikipedia.org/wiki/Anchoring_effect<br>
 <b>Auto-justification:</b> https://en.wikipedia.org/wiki/Self-licensing<br>
 <b>Expérience de Milgram:</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
 <b>Expérience d'Asch:</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
 <b>Guerre de cinquième génération:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
-<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm (terme non traduit, concept spécifique)<br>
+<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>Peur, incertitude et doute:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
 <b>Peur de rater quelque chose:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
 <b>Mémétique militaire:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
