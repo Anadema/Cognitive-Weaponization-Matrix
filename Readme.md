@@ -30,7 +30,7 @@
     <li>It targets the pre-existing cognitive biases of individuals and organizations.</li><br>
     <li>It creates new cognitive biases (social engineering).</li><br>
     <li>It differs from conventional warfare for the following reasons:
-        <ul><br>
+        <ul>
             <li>It focuses on the individual observer/decision-maker.</li>
             <li>It is difficult or impossible to attribute.</li>
             <li>The nature of the attack is concealed.</li>
