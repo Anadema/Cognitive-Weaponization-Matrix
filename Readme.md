@@ -101,6 +101,8 @@ Cognitive Weaponization Matrix has been released under CC BY-NC-SA 4.0 :
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br><br><br><br><br>
 
+You can use it for free for research and training purposes; however, commercialization is not authorized.
+
 <p align="center">
   <img width="500" height="300" src="./Image/truman.jpg"><br>
   <a href="https://en.wikipedia.org/wiki/The_Truman_Show">The Truman Show</a>
