@@ -54,6 +54,11 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 # Some quotes
 
+<p align="center">
+  <img width="900" height="500" src="./image/st.jpg">
+</p>
+<br><br>
+
 🔷 General Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
 🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely."
