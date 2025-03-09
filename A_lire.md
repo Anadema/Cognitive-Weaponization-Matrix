@@ -116,7 +116,6 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Déluge de faussetés :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
 <b>Rejeter / Distraire / Distordre / Consternation :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
 <b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
-<b>Censure :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
 <b>Effet de vérité illusoire :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 <b>Micro-ciblage :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
 <b>Maintenir la culpabilité et l’ignorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
