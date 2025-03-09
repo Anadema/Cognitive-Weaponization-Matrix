@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   <img width="500" height="300" src="./Image/matrix.jpg"><br><br>
-  "If you think you have nothing to hide, it means you have already lost everything."<br><br>
+  "If you think you have nothing to hide, it means you have already lost everything."<br>
   <i>Arsène White</i>
 </p>
 
