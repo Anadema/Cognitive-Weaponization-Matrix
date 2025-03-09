@@ -125,7 +125,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 ## Key Concepts
 
-<a href="./Techniques/Technique_description.md">With Description</a><br><br>
+<a href="./Techniques/Key_concepts_description.md">With Description</a><br><br>
 
 <b>Problem-Reaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Emotional Manipulation:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX<br>
