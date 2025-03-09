@@ -16,12 +16,20 @@
 
 🔷 Summary of 5GW (Fifth-Generation Warfare):
         
+<br>
+
+<p align="center">
+  <img width="700" height="250" src="./Image/5Gw.png">
+</p>
+
+<br>
+
 <h3>Summary of 5GW (Fifth-Generation Warfare):</h3>
-<ul>
+<ul><br>
     <li>It is a war of information and perception.</li>
     <li>It targets the pre-existing cognitive biases of individuals and organizations.</li>
     <li>It creates new cognitive biases (social engineering).</li>
-    <li>It differs from conventional warfare for the following reasons:
+    <li>It differs from conventional warfare for the following reasons:<br>
         <ul>
             <li>It focuses on the individual observer/decision-maker.</li>
             <li>It is difficult or impossible to attribute.</li>
@@ -29,12 +37,6 @@
         </ul>
     </li>
 </ul>
-
-<br>
-
-<p align="center">
-  <img width="700" height="250" src="./Image/5Gw.png">
-</p>
 
 <br>
 
