@@ -1,5 +1,5 @@
 # Key Concepts
-
+<br><br>
 
 <b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br><br>
 Fifth-generation warfare blends physical conflict with information and psychological tactics. It’s decentralized and targets perceptions over territory. The Wikipedia page frames it as modern warfare’s evolution. Non-state actors often drive it. Defending against it requires resilience in thought.<br>
