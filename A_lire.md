@@ -55,6 +55,13 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 # Quelques citations
 
+<br>
+
+<p align="center">
+  <img width="400" height="420" src="./Image/st.jpg">
+</p>
+<br><br>
+
 🔷 Général Sun Tzu - 500 av. J.-C. : "L’art suprême de la guerre est de soumettre l’ennemi sans combattre."
 
 🔷 Général Valery Gerasimov - 2013 ap. J.-C. : "La guerre de l’information ne nécessite ni soldats, ni canons, ni chars, mais uniquement des ordinateurs et des esprits bien entraînés pour mener une guerre discrète mais extrêmement efficace."
