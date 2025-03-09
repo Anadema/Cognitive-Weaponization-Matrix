@@ -122,7 +122,8 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>Maintaining Guilt and Ignorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Framing :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
 <b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
-<b>Manipulate Platform Algorithme :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md<br><br>
+<b>Astroturfing: </b> https://disarmframework.herokuapp.com/technique/145/view<br>
+<b>Butterfly attacks: </b> https://disarmframework.herokuapp.com/technique/134/view<br>
 
 <br>
 
