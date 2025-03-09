@@ -1,6 +1,12 @@
 # Key Concepts
 
 
+<b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br><br>
+Fifth-generation warfare blends physical conflict with information and psychological tactics. It’s decentralized and targets perceptions over territory. The Wikipedia page frames it as modern warfare’s evolution. Non-state actors often drive it. Defending against it requires resilience in thought.<br>
+<br><br>
+<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br><br>
+Titytainment suggests entertaining the masses to pacify them amid inequality. Coined by Zbigniew Brzezinski, it’s a cynical view of control. The linked article explores its cultural critique. It assumes distraction trumps rebellion. Awareness disrupts its effectiveness.<br>
+<br><br>
 <b>Problem-Reaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br><br><br>
 This strategy, often linked to manipulation tactics, involves creating a problem to provoke a reaction from the public, then offering a pre-planned solution. It’s a method to control narratives and push agendas under the guise of necessity. The linked article attributes this to Noam Chomsky’s analysis of media and power. Governments or entities might use it to justify policies that would otherwise face resistance. It thrives on fear and urgency to bypass critical thinking.<br>
 <br><br>
@@ -42,12 +48,6 @@ The Milgram Experiment tested obedience to authority, showing people’s willing
 <br><br>
 <b>Ash Experience:</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br><br>
 The Asch Experiments demonstrated how social pressure leads to conformity, even against obvious truth. Subjects aligned with the majority despite knowing better. The Wikipedia entry details its findings on group dynamics. It highlights the power of social influence. Independence of thought is the counterforce.<br>
-<br><br>
-<b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br><br>
-Fifth-generation warfare blends physical conflict with information and psychological tactics. It’s decentralized and targets perceptions over territory. The Wikipedia page frames it as modern warfare’s evolution. Non-state actors often drive it. Defending against it requires resilience in thought.<br>
-<br><br>
-<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br><br>
-Titytainment suggests entertaining the masses to pacify them amid inequality. Coined by Zbigniew Brzezinski, it’s a cynical view of control. The linked article explores its cultural critique. It assumes distraction trumps rebellion. Awareness disrupts its effectiveness.<br>
 <br><br>
 <b>FUD:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br><br>
 FUD—Fear, Uncertainty, and Doubt—is a tactic to destabilize opponents or consumers. It’s common in marketing and politics to sow hesitation. The French Wikipedia page ties it to strategic disinformation. Clarity and facts neutralize its impact. It preys on emotional insecurity.<br>
