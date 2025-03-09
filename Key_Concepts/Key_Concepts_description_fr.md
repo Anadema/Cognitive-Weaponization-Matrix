@@ -1,5 +1,5 @@
 # Concepts Clés
-
+<br><br>
 
 <b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br><br>
 La guerre de cinquième génération mêle conflit physique à des tactiques d’information et psychologiques. Elle est décentralisée et cible les perceptions plutôt que le territoire. La page Wikipédia la présente comme une évolution de la guerre moderne. Les acteurs non étatiques la dominent souvent. S’en défendre exige une résilience mentale.<br>
