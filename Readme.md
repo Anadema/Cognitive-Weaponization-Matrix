@@ -57,7 +57,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <br>
 
 <p align="center">
-  <img width="400" height="420" src="./Image/st.jpg">
+  <img width="300" height="320" src="./Image/st.jpg">
 </p>
 <br><br>
 
