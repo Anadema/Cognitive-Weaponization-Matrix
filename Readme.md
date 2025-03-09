@@ -99,9 +99,9 @@ with the sole aim of trying to get closer to the truth—nothing more, nothing l
 
 Cognitive Weaponization Matrix has been released under CC BY-NC-SA 4.0 :
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br><br><br><br><br>
+https://creativecommons.org/licenses/by-nc-sa/4.0/<br>
 
-You can use it for free for research and training purposes; however, commercialization is not authorized.
+You can use it for free for research and training purposes; however, commercialization is not authorized.<br><br><br><br><br>
 
 <p align="center">
   <img width="500" height="300" src="./Image/truman.jpg"><br>
