@@ -43,7 +43,7 @@
 
 # Objectif
 
-La Matrice de la Guerre Cognitive (CWM) est un outil permettant d’analyser les attaques cognitives et de renforcer les défenses avant que leurs charges utiles ne frappent. Inspirée par <a href="https://attack.mitre.org/matrices/enterprise/">MITRE ATT&CK</a>, elle cartographie uniquement les techniques de la guerre cognitive et d’autres concepts clés pour manipuler les perceptions et les décisions dans une grille afin de repérer les signes avant-coureurs.
+La Matrice d'Armement Cognitive (CWM) est un outil permettant d’analyser les attaques cognitives et de renforcer les défenses avant que leurs charges utiles ne frappent. Inspirée par <a href="https://attack.mitre.org/matrices/enterprise/">MITRE ATT&CK</a>, elle cartographie uniquement les techniques de la guerre cognitive et d’autres concepts clés pour manipuler les perceptions et les décisions dans une grille afin de repérer les signes avant-coureurs.
 
 Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui vise largement la désinformation, la CWM se concentre sur l’autonomisation des individus en leur offrant une vision claire du champ de bataille cognitif. Elle aide les utilisateurs à anticiper et contrer les effets psychologiques, offrant une manière proactive de protéger l’intégrité mentale et stratégique dans un paysage informationnel complexe.
 
@@ -60,7 +60,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 🔷 Arsène White - 2025 ap. J.-C. : "Si vous réalisez que nous sommes tous des soldats sur le même champ de bataille et que vous voulez apprendre à vous protéger, ainsi que vos amis et votre famille, de ce nouveau type de guerre, étudiez et partagez la CWM."<br><br>
 <br>
 
-# Matrice
+# Matrice d'Armement Cognitif
 
 <p align="center">
   <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
@@ -124,7 +124,7 @@ Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour
 
 # Licence
 
-La Matrice de l’Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :
+La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :
 
 Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée.<br>
 <br><br><br><br><br>
