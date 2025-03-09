@@ -12,6 +12,24 @@
 
 🔷 This battlefield is one of communication and information, inevitably leading to the exploitation of the cognitive biases of the adversary in order to render them incapable of any movement and, consequently, to win the battle without firing a single shot.
 
+🔷 Mass surveillance promotes these technologies through datasets available on the open market and the gray market.
+
+🔷 Summary of 5GW (Fifth-Generation Warfare):
+        
+<h3>Summary of 5GW (Fifth-Generation Warfare):</h3>
+<ul>
+    <li>It is a war of information and perception.</li>
+    <li>It targets the pre-existing cognitive biases of individuals and organizations.</li>
+    <li>It creates new cognitive biases (social engineering).</li>
+    <li>It differs from conventional warfare for the following reasons:
+        <ul>
+            <li>It focuses on the individual observer/decision-maker.</li>
+            <li>It is difficult or impossible to attribute.</li>
+            <li>The nature of the attack is concealed.</li>
+        </ul>
+    </li>
+</ul>
+
 <br>
 
 <p align="center">
@@ -33,6 +51,8 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 🔷 General Sun Tzu - 500 BC: "The supreme art of war is to subdue the enemy without fighting."
 
 🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely."
+
+🔷 Clarke's Third Law: "Any sufficiently advanced technology is indistinguishable from magic."
 
 🔷 Arsène White - 2025 AD: "If you realize that we are all soldiers on the same battlefield and want to learn how to protect yourself, your friends, and your family from this new type of warfare, study and share the CWM."<br><br>
 <br>
