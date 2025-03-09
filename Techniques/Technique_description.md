@@ -162,11 +162,24 @@ Maintaining guilt and ignorance keeps people submissive via shame and confusion.
 Manipulating platform algorithms games systems to boost content visibility. Using bots or trends, it cheats reach. Think SEO for disinformation. It hijacks attention.
 <br><br><br>
 
-<b>Framing :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)
+<b>Framing :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
 
 Framing manipulates how information is presented to shape its interpretation. For instance, saying "90% success rate" instead of "10% failure rate" alters perception without changing the facts. It’s often used to make a narrative more favorable or alarming.
 <br><br><br>
 
-<b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect
+<b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
 
 The bandwagon effect exploits the human tendency to follow the majority. By creating the illusion that an idea or belief is widely accepted ("everyone thinks this"), it pressures individuals to conform without questioning it.
+<br><br><br>
+
+<b>Astroturfing : </b> https://disarmframework.herokuapp.com/technique/145/view<br>
+
+Astroturfing is a manipulation technique that involves creating a false impression of popular support or grassroots opinion (from the ground up). It uses fake accounts, bots, or paid individuals to simulate a spontaneous movement on social media or other platforms. This can amplify a cause, brand, or idea while concealing its orchestrated origin. For example, fake positive comments about a product can deceive consumers. This method exploits the perceived credibility of crowds to influence.
+<br><br><br>
+
+<b>Butterfly attacks : </b> https://disarmframework.herokuapp.com/technique/134/view<br>
+
+Butterfly attacks, on the other hand, are a disinformation tactic where multiple small attacks or distractions are launched simultaneously to overwhelm and destabilize a target. They aim to divert attention from a main event or exhaust the adversary’s resources by forcing them to respond on multiple fronts. This can include rumors, misleading posts, or coordinated minor provocations. This dispersion makes defense difficult and blurs the perception of truth. It’s a strategy of calculated chaos.<br><br>
+<br><br><br>
+
+
