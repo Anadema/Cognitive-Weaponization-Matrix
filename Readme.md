@@ -38,8 +38,8 @@
             <li>It focuses on the individual observer/decision-maker.</li>
             <li>It is difficult or impossible to attribute.</li>
             <li>The nature of the attack is concealed.</li>
-            <li>They is no ethic.</li>
-            <li>Focus on Subversion, Infiltration & Winning influencers over to your camp;</li>
+            <li>There is no ethic.</li>
+            <li>Strategy focus on Subversion, Infiltration & Trun influencers</li>
         </ul>
     </li>
 </ul>
