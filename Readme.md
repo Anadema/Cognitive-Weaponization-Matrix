@@ -103,5 +103,5 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/<br><br><br><br><br><br>
 
 <p align="center">
   <img width="500" height="300" src="./Image/truman.jpg"><br>
-  <a href="https://fr.wikipedia.org/wiki/The_Truman_Show">The Truman Show</a>
+  <a href="https://en.wikipedia.org/wiki/The_Truman_Show">The Truman Show</a>
 </p>
