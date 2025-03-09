@@ -127,7 +127,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 ## Key Concepts
 
-<a href="./Techniques/Concept_cle.md">Avec Description</a><br><br>
+<a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
 
 <b>Problème-Réaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Manipulation émotionnelle:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
