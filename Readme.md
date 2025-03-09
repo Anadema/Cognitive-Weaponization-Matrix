@@ -14,7 +14,7 @@
 
 🔷 Mass surveillance promotes these technologies through datasets available on the open market and the gray market.
 
-🔷 Summary of 5GW (Fifth-Generation Warfare):
+🔷 Evolution of War:
         
 <br>
 
