@@ -72,7 +72,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 ## Techniques
 
-<a href="./Techniques/Technique_description.md">Avec description</a><br><br>
+<a href="./Techniques/Technique_description_fr.md">Avec description</a><br><br>
 
 <b>Ban de l’ombre :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 <b>Nudge :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
