@@ -65,7 +65,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely."
 
-🔷 Clarke's Third Law: "Any sufficiently advanced technology is indistinguishable from magic."
+🔷 Clarke's Third Law - 1973 AD: "Any sufficiently advanced technology is indistinguishable from magic."
 
 🔷 Arsène White - 2025 AD: "If you realize that we are all soldiers on the same battlefield and want to learn how to protect yourself, your friends, and your family from this new type of warfare, study and share the CWM."<br><br>
 <br>
