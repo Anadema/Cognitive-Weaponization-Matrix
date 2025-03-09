@@ -41,7 +41,7 @@
             <li>Elle est difficile ou impossible à attribuer.</li>
             <li>La nature de l’attaque est dissimulée.</li>
             <li>Il n'y a pas d'éthique.</li>
-            <li>Stratégie portée sur la subversion, l'infiltration et le retournement d'influenceurs dans votre camp.</li>
+            <li>Stratégie portée sur la subversion, l'infiltration et le retournement d'influenceurs.</li>
         </ul>
     </li>
 </ul>
