@@ -98,7 +98,7 @@ The objective is to provide keys to understanding this domain of cognitive warfa
 The research focus is both scientific and military, with the originality lying in making a high level of resources available, rather than engaging in mass vulgarization that hides behind influence methods.
 
 I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
-with the sole aim of trying to get closer to the truth—nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
+with the sole aim of trying to get closer to the truth, nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
 <br><br><br>
 
 # Licence
