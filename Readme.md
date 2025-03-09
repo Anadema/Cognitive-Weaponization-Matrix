@@ -84,8 +84,8 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 <a href="./Techniques/Technique_description.md">With Description</a><br><br>
 
-<b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
-<b>Nudge :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
+<b>Shadow Ban :</b> https://fr.wikipedia.org/wiki/Shadow_banning<br> 
+<b>Nudge :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
 <b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 <b>Sock Puppet :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
 <b>Bad Jacketing :</b> https://en.wikipedia.org/wiki/Bad-jacketing<br>
