@@ -1,5 +1,12 @@
 # Concepts Clés
 
+
+<b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br><br>
+La guerre de cinquième génération mêle conflit physique à des tactiques d’information et psychologiques. Elle est décentralisée et cible les perceptions plutôt que le territoire. La page Wikipédia la présente comme une évolution de la guerre moderne. Les acteurs non étatiques la dominent souvent. S’en défendre exige une résilience mentale.<br>
+<br><br>
+<b>Titytainment :</b> http://www.gandalf.it/arianna/titty.htm<br><br>
+Le titytainment propose de divertir les masses pour les apaiser face aux inégalités. Inventé par Zbigniew Brzezinski, c’est une vision cynique du contrôle. L’article lié explore sa critique culturelle. Il suppose que la distraction l’emporte sur la révolte. La prise de conscience perturbe son efficacité.<br>
+<br><br>
 <b>Problème-Réaction-Solution - PRS :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br><br><br>
 Cette stratégie, souvent liée à des tactiques de manipulation, consiste à créer un problème pour provoquer une réaction du public, puis à proposer une solution pré-planifiée. C’est une méthode pour contrôler les récits et imposer des agendas sous couvert de nécessité. L’article lié attribue cela à l’analyse de Noam Chomsky sur les médias et le pouvoir. Les gouvernements ou entités peuvent l’utiliser pour justifier des politiques qui rencontreraient autrement une résistance. Elle prospère sur la peur et l’urgence pour contourner la pensée critique.<br>
 <br><br>
@@ -41,12 +48,6 @@ L’expérience de Milgram a testé l’obéissance à l’autorité, montrant l
 <br><br>
 <b>Expérience d'Asch :</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br><br>
 Les expériences d’Asch ont montré comment la pression sociale mène à la conformité, même contre l’évidence. Les sujets se sont alignés sur la majorité malgré la vérité. L’entrée Wikipédia détaille ses découvertes sur la dynamique de groupe. Elle met en lumière le pouvoir de l’influence sociale. L’indépendance de pensée est la contre-force.<br>
-<br><br>
-<b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br><br>
-La guerre de cinquième génération mêle conflit physique à des tactiques d’information et psychologiques. Elle est décentralisée et cible les perceptions plutôt que le territoire. La page Wikipédia la présente comme une évolution de la guerre moderne. Les acteurs non étatiques la dominent souvent. S’en défendre exige une résilience mentale.<br>
-<br><br>
-<b>Titytainment :</b> http://www.gandalf.it/arianna/titty.htm<br><br>
-Le titytainment propose de divertir les masses pour les apaiser face aux inégalités. Inventé par Zbigniew Brzezinski, c’est une vision cynique du contrôle. L’article lié explore sa critique culturelle. Il suppose que la distraction l’emporte sur la révolte. La prise de conscience perturbe son efficacité.<br>
 <br><br>
 <b>FUD :</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br><br>
 FUD—Peur, Incertitude et Doute—est une tactique pour déstabiliser adversaires ou consommateurs. Courante en marketing et politique, elle sème l’hésitation. La page Wikipédia française la lie à la désinformation stratégique. La clarté et les faits neutralisent son impact. Elle exploite l’insécurité émotionnelle.<br>
