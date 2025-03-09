@@ -130,6 +130,8 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 <a href="./Key_Concepts/Key_Concepts_description.md">With Description</a><br><br>
 
+<b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
+<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>Problem-Reaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Data Voids:</b> https://datasociety.net/library/data-voids/<br>
 <b>Audience Vulnerability:</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
@@ -143,8 +145,6 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>Self-licensing:</b> https://en.wikipedia.org/wiki/Self-licensing<br>
 <b>Milgram Experience:</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
 <b>Ash Experience:</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
-<b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
-<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>FUD:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
 <b>FOMO:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
 <b>PSYOPS:</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
