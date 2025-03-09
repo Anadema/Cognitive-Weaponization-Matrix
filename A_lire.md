@@ -121,7 +121,40 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Effet de bande :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
 <b>Manipuler les algorithmes de la plateforme :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md<br><br>
 
-À suivre ...
+<br>
+
+## Key Concepts
+
+<a href="./Techniques/Concept_cle.md">Avec Description</a><br><br>
+
+<b>Problème-Réaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm
+<b>Manipulation émotionnelle:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX
+<b>Vides de données:</b> https://datasociety.net/library/data-voids/
+<b>Vulnérabilité du public:</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md
+<b>Asymétrie d'information:</b> https://en.wikipedia.org/wiki/Information_asymmetry
+<b>Bulle de filtres:</b> https://en.wikipedia.org/wiki/Filter_bubble
+<b>Boucle de dopamine:</b> https://en.wikipedia.org/wiki/Compulsion_loop
+<b>Fenêtre d'Overton:</b> https://en.wikipedia.org/wiki/Overton_window
+<b>VUCA:</b> https://en.wikipedia.org/wiki/VUCA (VUCA reste tel quel, acronyme universel)
+<b>Biais de confirmation:</b> https://en.wikipedia.org/wiki/Confirmation_bias
+<b>Biais d'ancrage:</b> https://en.wikipedia.org/wiki/Anchoring_effect
+<b>Auto-justification:</b> https://en.wikipedia.org/wiki/Self-licensing
+<b>Expérience de Milgram:</b> https://en.wikipedia.org/wiki/Milgram_experiment
+<b>Expérience d'Asch:</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments
+<b>Guerre de cinquième génération:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare
+<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm (terme non traduit, concept spécifique)
+<b>Peur, incertitude et doute:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt
+<b>Peur de rater quelque chose:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out
+<b>Mémétique militaire:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf
+<b>Opérations psychologiques:</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)
+<b>Ferme de trolls/bots:</b> https://en.wikipedia.org/wiki/Troll_farm
+<b>Identité numérique:</b> https://en.wikipedia.org/wiki/Digital_identity
+<b>Renseignement de sources ouvertes:</b> https://en.wikipedia.org/wiki/Open-source_intelligence
+<b>Sécurité des opérations:</b> https://en.wikipedia.org/wiki/Operations_security
+<b>Boucle OODA:</b> https://fr.wikipedia.org/wiki/Boucle_OODA (OODA reste un acronyme reconnu)
+<b>Pouvoir doux:</b> https://en.wikipedia.org/wiki/Soft_power
+
+
 <br><br>
 
 # Commentaires personnels
