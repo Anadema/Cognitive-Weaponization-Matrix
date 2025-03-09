@@ -55,7 +55,12 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 # Quelques citations
 
+<br>
 
+<p align="center">
+  <img width="300" height="320" src="./Image/st.jpg">
+</p>
+<br><br>
 
 🔷 Général Sun Tzu - 500 av. J.-C. : "L’art suprême de la guerre est de soumettre l’ennemi sans combattre."
 
