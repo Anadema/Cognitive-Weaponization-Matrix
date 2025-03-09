@@ -12,8 +12,10 @@
 
 🔷 This battlefield is one of communication and information, inevitably leading to the exploitation of the cognitive biases of the adversary in order to render them incapable of any movement and, consequently, to win the battle without firing a single shot.
 
+<br>
+
 <p align="center">
-  <img width="500" height="300" src="./Image/5Gw.jpg">
+  <img width="500" height="300" src="./Image/5Gw.png">
 </p>
 
 <br>
