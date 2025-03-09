@@ -154,10 +154,6 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>OODA Loop:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
 <b>Soft Power:</b> https://en.wikipedia.org/wiki/Soft_power<br><br>
 
-<p align="center">
-  <img width="500" height="500" src="./Image/emotional_manip.jpg"><br>
-</p>
-<br>
 
 # Personal comments
 
