@@ -122,8 +122,8 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Maintenir la culpabilité et l’ignorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
 <b>Cadrage :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
 <b>Effet de bande :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
-<b>Manipuler les algorithmes de la plateforme :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md<br><br>
-
+<b>Astroturfing: </b> https://disarmframework.herokuapp.com/technique/145/view<br>
+<b>Butterfly attacks: </b> https://disarmframework.herokuapp.com/technique/134/view<br><br>
 <br>
 
 ## Key Concepts
