@@ -22,9 +22,9 @@
 
 # Purpose
 
-The Cognitive Warfare Matrix (CWM) is a tool to analyze cognitive attacks and enhance defenses before their payloads hit. Inspired by MITRE ATT&CK, it maps only techniques of cognitive warfare, and others key-concepts to manipulate perceptions and decisions into a grid to spot early warning signs.
+The Cognitive Warfare Matrix (CWM) is a tool to analyze cognitive attacks and enhance defenses before their payloads hit. Inspired by <a href="https://attack.mitre.org/matrices/enterprise/">MITRE ATT&CK</a>, it maps only techniques of cognitive warfare, and others key-concepts to manipulate perceptions and decisions into a grid to spot early warning signs.
 
-Unlike DISARM framework, which targets disinformation broadly, the CWM focuses on empowering individuals with a clear view of the cognitive battlefield. It helps users anticipate and counter psychological effects, offering a proactive way to protect mental and strategic integrity in a complex info landscape.
+Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targets disinformation broadly, the CWM focuses on empowering individuals with a clear view of the cognitive battlefield. It helps users anticipate and counter psychological effects, offering a proactive way to protect mental and strategic integrity in a complex info landscape.
 
 <br>
 
