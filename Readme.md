@@ -55,7 +55,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 # Some quotes
 
 <p align="center">
-  <img width="900" height="500" src="./image/st.jpg">
+  <img width="300" height="500" src="./image/st.jpg">
 </p>
 <br><br>
 
