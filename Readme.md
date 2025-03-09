@@ -170,11 +170,9 @@ with the sole aim of trying to get closer to the truth, nothing more, nothing le
 # Licence
 
 Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :
-
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
 
 All documents store here come from Internet and are avalaible in open source access:<br>
-
 https://apps.dtic.mil/sti/citations/ADA507172<br>
 https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
 https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
