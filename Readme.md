@@ -35,7 +35,7 @@ Unlike DISARM framework, which targets disinformation broadly, the CWM focuses o
 🔷 General Valery Gerasimov - 2013 AD: "Information warfare does not require soldiers, cannons, or tanks, but only computers and well-trained minds to conduct a discreet yet extremely."
 
 🔷 Arsène White - 2025 AD: "If you realize that we are all soldiers on the same battlefield and want to learn how to protect yourself, your friends, and your family from this new type of warfare, study and share the CWM."<br><br>
-<br><br>
+<br>
 
 # Matrix
 
