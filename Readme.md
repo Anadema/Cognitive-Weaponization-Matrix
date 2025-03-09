@@ -24,7 +24,7 @@
 
 <br>
 
-<h3>Summary of 5GW (Fifth-Generation Warfare):</h3>
+## Summary of 5GW (Fifth-Generation Warfare):
 <ul><br>
     <li>It is a war of information and perception.</li>
     <li>It targets the pre-existing cognitive biases of individuals and organizations.</li>
