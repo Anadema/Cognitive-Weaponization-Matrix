@@ -128,7 +128,6 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <a href="./Key_Concepts/Key_Concepts_description.md">With Description</a><br><br>
 
 <b>Problem-Reaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
-<b>Emotional Manipulation:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX<br>
 <b>Data Voids:</b> https://datasociety.net/library/data-voids/<br>
 <b>Audience Vulnerability:</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
 <b>Information Asymmetry:</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
@@ -145,7 +144,6 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>FUD:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
 <b>FOMO:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
-<b>Military Memetic:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
 <b>PSYOPS:</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
 <b>Troll/bot farm:</b> https://en.wikipedia.org/wiki/Troll_farm<br>
 <b>Digital Identity:</b> https://en.wikipedia.org/wiki/Digital_identity<br>
@@ -153,6 +151,8 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>OPSEC:</b> https://en.wikipedia.org/wiki/Operations_security<br>
 <b>OODA Loop:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
 <b>Soft Power:</b> https://en.wikipedia.org/wiki/Soft_power<br><br>
+<b>Emotional Manipulation:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX<br>
+<b>Military Memetic:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
 
 
 # Personal comments
