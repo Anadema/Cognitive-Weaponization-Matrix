@@ -175,7 +175,7 @@ La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativeco
 Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée.<br>
 
 
-Tous les documents stockés ici proviennent de sources ouverte accessibles sur Internet :<br>
+Tous les documents stockés ici proviennent de sources ouvertes accessibles sur Internet :<br>
 https://apps.dtic.mil/sti/citations/ADA507172<br>
 https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
 https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
