@@ -116,7 +116,6 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>Firehose of Falsehood :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
 <b>Dismiss / Distract / Distort / Dismay :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
 <b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
-<b>Censorship :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
 <b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 <b>Microtarget :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
 <b>Maintaining Guilt and Ignorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
