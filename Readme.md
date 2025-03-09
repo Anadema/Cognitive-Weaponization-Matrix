@@ -38,6 +38,8 @@
             <li>It focuses on the individual observer/decision-maker.</li>
             <li>It is difficult or impossible to attribute.</li>
             <li>The nature of the attack is concealed.</li>
+            <li>They is no ethic.</li>
+            <li>Focus on Subversion, Infiltration & Winning influencers over to your camp;</li>
         </ul>
     </li>
 </ul>
@@ -119,8 +121,38 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
 <b>Manipulate Platform Algorithme :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md<br><br>
 
-To be continued ...
-<br><br>
+<br>
+
+## Key Concepts
+
+<a href="./Techniques/Technique_description.md">With Description</a><br><br>
+
+<b>Problem-Reaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
+<b>Emotional Manipulation:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX<br>
+<b>Data Voids:</b> https://datasociety.net/library/data-voids/<br>
+<b>Audience Vulnerability:</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
+<b>Information Asymmetry:</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
+<b>Filter Buble:</b> https://en.wikipedia.org/wiki/Filter_bubble<br>
+<b>Dopamine loop:</b> https://en.wikipedia.org/wiki/Compulsion_loop<br>
+<b>Overton Windows:</b> https://en.wikipedia.org/wiki/Overton_window<br>
+<b>VUCA:</b> https://en.wikipedia.org/wiki/VUCA<br>
+<b>Confirmation Bias:</b> https://en.wikipedia.org/wiki/VUCA<br>
+<b>Anchor Bias:</b> https://en.wikipedia.org/wiki/Anchoring_effect<br>
+<b>Self-licensing:</b> https://en.wikipedia.org/wiki/Self-licensing<br>
+<b>Milgram Experience:</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
+<b>Ash Experience:</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
+<b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
+<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
+<b>FUD:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
+<b>FOMO:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
+<b>Military Memetic:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
+<b>PSYOPS:</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
+<b>Troll/bot farm:</b> https://en.wikipedia.org/wiki/Troll_farm<br>
+<b>Digital Identity:</b> https://en.wikipedia.org/wiki/Digital_identity<br>
+<b>OSINT:</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br>
+<b>OPSEC:</b> https://en.wikipedia.org/wiki/Operations_security<br>
+<b>OODA Loop:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
+<b>Soft Power:</b> https://en.wikipedia.org/wiki/Soft_power<br>
 
 # Personal comments
 
