@@ -137,11 +137,6 @@ Les 4 D discréditent les adversaires en rejetant, distrayant, distordant ou con
 Le gaslighting manipule quelqu’un pour qu’il doute de sa réalité ou de sa santé mentale. En utilisant le déni ou des mensonges, comme « ça n’est jamais arrivé », il confond les victimes. Pensez aux relations abusives en ligne. C’est un sabotage psychologique.
 <br><br><br>
 
-<b>Censure :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
-
-La censure supprime des informations pour contrôler les récits. Les gouvernements ou plateformes bloquent du contenu, comme des publications interdites. Pensez aux restrictions médiatiques autoritaires. Elle limite la liberté d’expression.
-<br><br><br>
-
 <b>Effet de vérité illusoire :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 
 L’effet de vérité illusoire fait que des mensonges répétés semblent vrais. La familiarité engendre la croyance, même si c’est faux. Pensez aux slogans de propagande. Il exploite un biais cognitif.
