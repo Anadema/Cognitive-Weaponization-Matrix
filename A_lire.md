@@ -184,6 +184,7 @@ https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
 https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf<br>
 https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
 https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth<br>
+https://disarmframework.herokuapp.com<br>
 
 <br><br><br><br><br>
 
