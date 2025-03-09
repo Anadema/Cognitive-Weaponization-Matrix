@@ -86,8 +86,8 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 <a href="./Techniques/Technique_description_fr.md">Avec description</a><br><br>
 
-<b>Ban de l’ombre :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
-<b>Nudge :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
+<b>Ban de l’ombre :</b> https://fr.wikipedia.org/wiki/Shadow_banning<br>
+<b>Nudge :</b> https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge<br>
 <b>Assassinat de caractère :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
 <b>Compte fantoche :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
 <b>Mauvais étiquetage :</b> https://en.wikipedia.org/wiki/Bad-jacketing<br>
