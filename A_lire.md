@@ -34,7 +34,7 @@
 <ul>
     <li>C’est une guerre d’information et de perception.</li><br>
     <li>Elle cible les biais cognitifs et les biais culturels préexistants des individus et des organisations.</li><br>
-    <li>Elle crée de nouveaux biais cognitifs (ingénierie sociale).</li><br>
+    <li>Elle crée de nouveaux biais cognitifs (<a href="https://fr.wikipedia.org/wiki/Ing%C3%A9nierie_sociale_(s%C3%A9curit%C3%A9_de_l%27information)">ingénierie sociale</a>).</li><br>
     <li>Elle diffère de la guerre conventionnelle pour les raisons suivantes :<br>
         <ul>
             <li>Elle se concentre sur l’observateur individuel/le décideur.</li>
