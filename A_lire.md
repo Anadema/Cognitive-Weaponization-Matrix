@@ -130,7 +130,6 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
 
 <b>Problème-Réaction-Solution - PRS:</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
-<b>Manipulation émotionnelle:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
 <b>Vides de données:</b> https://datasociety.net/library/data-voids/<br>
 <b>Vulnérabilité du public:</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
 <b>Asymétrie d'information:</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
@@ -147,7 +146,6 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
 <b>Peur, incertitude et doute:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
 <b>Peur de rater quelque chose:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
-<b>Mémétique militaire:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
 <b>Opérations psychologiques:</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
 <b>Ferme de trolls/bots:</b> https://en.wikipedia.org/wiki/Troll_farm<br>
 <b>Identité numérique:</b> https://en.wikipedia.org/wiki/Digital_identity<br>
@@ -155,6 +153,8 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Sécurité des opérations:</b> https://en.wikipedia.org/wiki/Operations_security<br>
 <b>Boucle OODA:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
 <b>Pouvoir doux:</b> https://en.wikipedia.org/wiki/Soft_power<br>
+<b>Manipulation émotionnelle:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
+<b>Mémétique militaire:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
 
 
 <br><br>
