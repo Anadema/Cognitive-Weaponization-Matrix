@@ -153,7 +153,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Identité numérique:</b> https://en.wikipedia.org/wiki/Digital_identity<br>
 <b>Renseignement de sources ouvertes:</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br>
 <b>Sécurité des opérations:</b> https://en.wikipedia.org/wiki/Operations_security<br>
-<b>Boucle OODA:</b> https://fr.wikipedia.org/wiki/Boucle_OODA (OODA reste un acronyme reconnu)<br>
+<b>Boucle OODA:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
 <b>Pouvoir doux:</b> https://en.wikipedia.org/wiki/Soft_power<br>
 
 
