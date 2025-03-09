@@ -153,7 +153,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <b>OODA Loop:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
 <b>Soft Power:</b> https://en.wikipedia.org/wiki/Soft_power<br>
 <b>Emotional Manipulation:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX<br>
-<b>Military Memetic:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br><br>
+<b>Military Memetic:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br><br><br>
 
 
 # Personal comments
