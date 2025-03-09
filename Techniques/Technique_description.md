@@ -109,7 +109,7 @@ Copypasta is repetitive, copied text spammed online, often for humor or disrupti
 
 <b>Scarcity Manipulation :</b> https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb<br>
 
-This technique uses the fear of missing out (on time, resources, or opportunities) to prompt quick action without reflection. For example, spreading a rumor that critical information will soon be censored to push people to share it immediately.
+This technique uses the fear of missing out (on time, resources, or opportunities) to prompt quick action without reflection. For example, spreading a rumor that critical information will soon be ored to push people to share it immediately.
 <br><br><br>
 
 <b>Motivate Mediocrity :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
@@ -135,11 +135,6 @@ The 4 Ds discredit foes by dismissing, distracting, distorting, or dismaying. Th
 <b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
 
 Gaslighting manipulates someone into doubting their reality or sanity. Using denial or lies, like “that never happened,” it confuses victims. Think abusive relationships online. It’s psychological sabotage.
-<br><br><br>
-
-<b>Censorship :</b> https://disarmframework.herokuapp.com/counter/9/view<br>
-
-Censorship suppresses information to control narratives. Governments or platforms block content, like banned posts. Think authoritarian media clamps. It limits free expression.
 <br><br><br>
 
 <b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
