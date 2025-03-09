@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img width="500" height="300" src="./Image/5Gw.png">
+  <img width="700" height="250" src="./Image/5Gw.png">
 </p>
 
 <br>
