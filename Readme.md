@@ -164,7 +164,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 </p>
 <br>
 
-## Albert Biderman - 1957 - NY Acad Med
+## Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med
 
 **The table includes the following coercion methods:**
 
