@@ -142,7 +142,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Attaques papillon : </b> https://disarmframework.herokuapp.com/technique/134/view<br><br>
 <br>
 
-## Concepts Clé
+## Concepts Clés
 
 <a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
 
