@@ -218,9 +218,9 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
    - Develop habits of submission to authority, even for completely absurd, useless, and baseless orders.  
    - Break the victim’s free will and judgment capacities.  
 
-<br><br>
+<br>
 
-## Refeences
+## References
 
 - [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)  
