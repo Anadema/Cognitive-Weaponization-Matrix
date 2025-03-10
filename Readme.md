@@ -163,11 +163,11 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4
 https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion
 
 ## Albert Biderman - 1957 - NY Acad Med
-
+<br>
 <br>
 
-**The table includes the following coercion methods:**
-<br>
+## The table includes the following coercion methods:
+<br><br>
 <b>1- Isolate the victim:</b> Deprive the person of the social supports and connections that would give them the ability to resist. Develop intense self-concern in the victim. Make the victim dependent on the authority.
 
 <b>2- Monopolize perception:</b> Fix the victim’s attention on a difficult and urgent situation, forcing introspection. Eliminate information that could contradict the authority’s narrative. Punish all acts of defiance.
