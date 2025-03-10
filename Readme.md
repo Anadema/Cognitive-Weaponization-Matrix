@@ -160,6 +160,11 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 # Biderman's Chart of Coercion
 
+<p align="center">
+  <img width="500" height="300" src="./Documents/methode_coercion_technique.pdf"><br>
+</p>
+
+
 ## Albert Biderman - 1957 - NY Acad Med
 
 **The table includes the following coercion methods:**
