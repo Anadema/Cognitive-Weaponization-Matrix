@@ -97,7 +97,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 </p>
 <br><br>
 
-## Links
+## Link
 
 <br>
 
