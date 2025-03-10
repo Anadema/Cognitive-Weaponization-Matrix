@@ -186,7 +186,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 </p>
 <br>
 
-## Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med
+## Albert Biderman (sociologue Ph.D. - US Air Force) - 1957 - NY Acad Med
 
 **Le tableau inclut les méthodes de coercition suivantes :**
 
