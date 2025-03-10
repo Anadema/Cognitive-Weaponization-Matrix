@@ -43,7 +43,7 @@
 
 <br>
 
-## Résumé de la 5GW (Guerre de cinquième génération) :
+## Résumé de la 5GW (Guerre de Cinquième Génération) :
 <ul>
     <li>C’est une guerre d’information et de perception.</li><br>
     <li>Elle cible les biais cognitifs et les biais culturels préexistants des individus et des organisations.</li><br>
