@@ -219,6 +219,7 @@ Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, l
 
 
 Tous les documents stockés ici proviennent de sources ouvertes accessibles sur Internet :<br>
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf<br>
 https://apps.dtic.mil/sti/citations/ADA507172<br>
 https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
 https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
