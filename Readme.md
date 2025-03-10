@@ -161,7 +161,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 # Biderman's Chart of Coercion
 
 <p align="center">
-  <img width="500" height="300" src="./Documents/biderman.jpg"><br>
+  <img width="700" height="200" src="./Documents/biderman.jpg"><br>
 </p>
 
 
