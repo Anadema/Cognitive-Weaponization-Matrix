@@ -161,8 +161,6 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 ## Albert Biderman - 1957 - NY Acad Med
 
----
-
 **Le tableau inclut les méthodes de coercition suivantes :**
 
 1. **Isoler la victime :**  
