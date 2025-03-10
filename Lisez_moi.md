@@ -158,14 +158,14 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 # Tableau de la coercition de Biderman
 
-# Biderman's Chart of Coercion
+# La charte de la coercition d'Albert Biderman
 <br>
 <p align="center">
   <img width="300" height="700" src="./Documents/biderman.jpg"><br>
 </p>
 <br>
 
-## Albert Biderman - 1957 - NY Acad Med
+## Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med
 
 **Le tableau inclut les méthodes de coercition suivantes :**
 
