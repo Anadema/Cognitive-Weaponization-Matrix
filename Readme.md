@@ -14,7 +14,7 @@
   - [Sous-section 2.1](#sous-section-21)
 
 
-# Introduction & Context
+## Introduction & Context
 
 🔷 We talk about cognitive warfare, but before diving deeper, it's good to place ourselves in the context of the evolution of war history. This will help us understand that the battlefield will define the form of combat we can lead, and not the other way around.
 
