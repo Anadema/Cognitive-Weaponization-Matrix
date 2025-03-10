@@ -152,11 +152,6 @@ Le micro-ciblage adapte des publicités ou messages à des individus spécifique
 Maintenir la culpabilité et l’ignorance garde les gens soumis via la honte et la confusion. Une tactique de manipulation, elle blâme les masses. Pensez à « tu es trop bête pour savoir ». Cela tue la pensée critique.
 <br><br><br>
 
-<b>Manipuler les algorithmes de la plateforme :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0121.md
-
-Manipuler les algorithmes de la plateforme truque les systèmes pour augmenter la visibilité du contenu. En utilisant des bots ou des tendances, cela fausse la portée. Pensez au SEO pour la désinformation. Cela détourne l’attention.
-<br><br><br>
-
 <b>Cadrage :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)
 
 Le cadrage manipule la manière dont l’information est présentée pour façonner son interprétation. Par exemple, dire « taux de succès de 90 % » au lieu de « taux d’échec de 10 % » modifie la perception sans changer les faits. Il est souvent utilisé pour rendre un récit plus favorable ou alarmant.
@@ -165,3 +160,11 @@ Le cadrage manipule la manière dont l’information est présentée pour façon
 <b>Effet de bande :</b> https://en.wikipedia.org/wiki/Bandwagon_effect
 
 L’effet de bande exploite la tendance humaine à suivre la majorité. En créant l’illusion qu’une idée ou une croyance est largement acceptée (« tout le monde pense ça »), il pousse les individus à se conformer sans la remettre en question.
+
+<b>Astroturfing :</b> https://disarmframework.herokuapp.com/technique/145/view
+
+L’astroturfing crée une fausse impression de soutien populaire pour manipuler l’opinion publique. En utilisant des faux comptes ou des campagnes coordonnées, il amplifie des récits pour les faire paraître largement acceptés, masquant leur nature orchestrée. Cela inonde les plateformes d’un consensus artificiel pour promouvoir des agendas ou discréditer l’opposition.
+
+<b>Attaques papillons :</b> https://disarmframework.herokuapp.com/technique/134/view
+
+Les attaques papillons consistent en des frappes rapides et multiplateformes de désinformation pour submerger les cibles. Avec vitesse et volume, elles sèment la confusion et le chaos de manière imprévisible, comme des papillons. Elles exploitent les failles en temps réel pour perturber les récits ou semer le doute rapidement.
