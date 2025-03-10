@@ -22,6 +22,7 @@
 - [The 10 Strategies of Mass Manipulation](#the-10-strategies-of-mass-manipulation)
   - [List Inspired by Pressenza Based on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010](#list-inspired-by-pressenza-based-on-the-works-of-noam-chomsky-phd-linguistics-united-states-2010)
   - [References](#references)
+- [Personal comments](#personal-comments)
 - [Licence](#licence)
 
 <br>
@@ -281,7 +282,6 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 <br><br><br>
 
 # Personal comments
-
 
 This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
 The objective is to provide keys to understanding this domain of cognitive warfare in numerical environment. That have nothing to do with fact-checking, and even less with ideologies or modern approaches to skepticism (zététique). 
