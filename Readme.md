@@ -18,7 +18,7 @@
   - [Key Concepts](#key-concepts)
 - [Biderman's Chart of Coercion](#bidermans-chart-of-coercion)
   - [Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologist-phd---us-air-force---1957---ny-acad-med)
-  - [References](#references)
+  - [Références](#references-1)
 - [The 10 Strategies of Mass Manipulation](#the-10-strategies-of-mass-manipulation)
   - [List Inspired by Pressenza Based on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010](#list-inspired-by-pressenza-based-on-the-works-of-noam-chomsky-phd-linguistics-united-states-2010)
 - [Licence](#licence)
@@ -216,7 +216,7 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
    - Develop habits of submission to authority, even for completely absurd, useless, and baseless orders.  
    - Break the victim’s free will and judgment capacities.  
 
-## References:  
+# Références-1
 - [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)  
 <br><br><br>
@@ -236,7 +236,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 <br>
 
 ## List Inspired by Pressenza Based on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010
-<br><br>
+<br>
 
 1. **Distraction**: Divert attention from important issues with constant entertainment.<br>
    *"The mass media serve as a communication system to manage and distract public opinion."* — *Manufacturing Consent* (1988)<br><br>
@@ -269,7 +269,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
    *"Technological advances give the powerful tools to monitor and manipulate the masses."* — Conference, 2000s<br><br>
 
 *Note: List popularized by Pressenza (2010), inspired by Chomsky’s ideas and "Silent Weapons for Quiet Wars" (not written by Chomsky). Quotes are drawn from his verified works or conferences.*
-<br><br>
+<br><br>br>
 
 # Personal comments
 
