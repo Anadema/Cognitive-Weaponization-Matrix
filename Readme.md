@@ -234,7 +234,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 <br><br><br>
 
 <p align="center">
-  <img width="300" height="400" src="./Image/Chomsky.jpg"><br>
+  <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
 </p>
 
 <br>
