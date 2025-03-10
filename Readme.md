@@ -299,6 +299,7 @@ Cognitive Weaponization Matrix has been released under <a href="https://creative
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
 All documents store here come from Internet and are avalaible in open source access:<br><br>
 
+https://fr.wikipedia.org/wiki/Biais_cognitif
 https://apps.dtic.mil/sti/citations/ADA507172<br>
 https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
 https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
