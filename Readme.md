@@ -159,11 +159,11 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 
 # Biderman's Chart of Coercion
-
+<br>
 <p align="center">
   <img width="300" height="700" src="./Documents/biderman.jpg"><br>
 </p>
-
+<br>
 
 ## Albert Biderman - 1957 - NY Acad Med
 
