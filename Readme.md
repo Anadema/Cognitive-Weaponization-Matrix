@@ -159,8 +159,6 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 
 # Biderman's Chart of Coercion
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4
-https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion
 
 ## Albert Biderman - 1957 - NY Acad Med
 <br>
@@ -168,21 +166,17 @@ https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion
 <b>The table includes the following coercion methods:</b>
 <br><br>
 <b>1- Isolate the victim:</b> Deprive the person of the social supports and connections that would give them the ability to resist. Develop intense self-concern in the victim. Make the victim dependent on the authority.
-
 <b>2- Monopolize perception:</b> Fix the victim’s attention on a difficult and urgent situation, forcing introspection. Eliminate information that could contradict the authority’s narrative. Punish all acts of defiance.
-
 <b>3- Induce exhaustion:</b> Weaken the victim’s physical or mental will to resist.
-
 <b>4- Present threats:</b> Cultivate anxiety, stress, and despair.
-
 <b>5- Show occasional indulgences:</b> Provide motivation to comply with orders, obey, and submit. Also prevent the victim from becoming accustomed to the imposed deprivations.
-
 <b>6- Demonstrate the omnipotence of power:</b> Suggest the uselessness and futility of resisting authority.
-
 <b>7- Degrade the victim:</b> Make the cost of resistance appear more damaging to self-esteem than capitulation. Reduce the victim to the level of animal survival.
-
 <b>8- Demand stupid and senseless actions:</b> Develop habits of submission to authority, even for completely absurd, useless, and baseless orders. Break the victim’s free will and judgment capacities.
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4<br>
+https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion
+<br><br>
 
 # Personal comments
 
