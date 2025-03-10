@@ -229,7 +229,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 <br>
 
 <p align="center">
-  <img width="200" height="500" src="./Image/Chomsky.jpg"><br>
+  <img width="300" height="500" src="./Image/Chomsky.jpg"><br>
 </p>
 
 <br>
