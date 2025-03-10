@@ -235,7 +235,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 <br><br><br>
 
 <p align="center">
-  <img width="300" height="400" src="./Image/Chomsky.jpg"><br>
+  <img width="250" height="350" src="./Image/Chomsky.jpg"><br>
 </p>
 
 <br>
