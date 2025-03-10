@@ -14,9 +14,9 @@
 - [Purpose](#purpose)
   - [Some quotes](#some-quotes)
 - [Cognitive Weaponization Matrix](#cognitive-weaponization-matrix)
-- [Link](#link)
-  - [Techniques](#techniques)
-  - [Key Concepts](#key-concepts)
+  - [Link](#link)
+    - [Techniques](#techniques)
+    - [Key Concepts](#key-concepts)
 - [Biderman's Chart of Coercion](#bidermans-chart-of-coercion)
   - [Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologist-phd---us-air-force---1957---ny-acad-med)
   - [References](#references)
@@ -97,11 +97,11 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 </p>
 <br><br>
 
-# Links
+## Links
 
 <br>
 
-## Techniques
+### Techniques
 
 <a href="./Techniques/Technique_description.md">With Description</a><br><br>
 
@@ -142,7 +142,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 <br>
 
-## Key Concepts
+### Key Concepts
 
 <a href="./Key_Concepts/Key_Concepts_description.md">With Description</a><br><br>
 
