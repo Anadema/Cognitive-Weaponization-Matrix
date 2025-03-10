@@ -18,7 +18,7 @@
   - [Concepts Clés](#concepts-clés)
 - [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
   - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
-- [Les 10 stratégies de manipulation de masses (Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010)](#les-10-stratégies-de-manipulation-de-masses-noam-chomsky-doctorat-linguistique-états-unis-2010)
+- [Les 10 stratégies de manipulation de masses](#les-10-stratégies-de-manipulation-de-masses)
 - [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
 
@@ -224,37 +224,37 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 <br>
 
-# Les 10 stratégies de manipulation de masses (Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010)
+# Les 10 stratégies de manipulation de masses
 <br>
 
-1. **Distraction** : Détourner l'attention des problèmes importants avec des divertissements constants.<br><br>
+1. **Distraction** : Détourner l'attention des problèmes importants avec des divertissements constants.<br>
    *"Les médias de masse servent de système de communication pour gérer et distraire l’opinion publique."* — *Manufacturing Consent* (1988)<br><br>
 
-2. **Problème-réaction-solution** : Créer des crises pour imposer des solutions préparées.<br><br>
+2. **Problème-réaction-solution** : Créer des crises pour imposer des solutions préparées.<br>
    *"Les élites créent des conditions pour que leurs décisions soient acceptées comme inévitables."* — *The Chomsky Reader* (1987)<br><br>
 
-3. **Dégradation progressive** : Habituer le public à des mesures inacceptables sur le long terme.<br><br>
+3. **Dégradation progressive** : Habituer le public à des mesures inacceptables sur le long terme.<br>
    *"Le pouvoir ne peut pas imposer des changements radicaux immédiatement ; il doit les introduire graduellement."* — Conférence, années 1990<br><br>
 
-4. **Différé** : Présenter des sacrifices comme "nécessaires" pour un futur hypothétique.<br><br>
+4. **Différé** : Présenter des sacrifices comme "nécessaires" pour un futur hypothétique.<br>
    *(Inspiré de ses analyses sur la propagande néolibérale, pas de citation directe précise.)*<br><br>
 
-5. **Infantilisation** : S'adresser au public comme à des enfants pour limiter la réflexion critique.<br><br>
+5. **Infantilisation** : S'adresser au public comme à des enfants pour limiter la réflexion critique.<br>
    *"On réduit les débats complexes à des slogans simples, pour que les gens ne réfléchissent pas trop."* — *Understanding Power* (2002)<br><br>
 
-6. **Émotion vs Raison** : Privilégier l’émotion pour manipuler l’inconscient.<br><br>
+6. **Émotion vs Raison** : Privilégier l’émotion pour manipuler l’inconscient.<br>
    *"La propagande fonctionne mieux quand elle joue sur la peur et l’insécurité, pas sur la logique."* — *Media Control* (1997)<br><br>
 
-7. **Ignorance** : Maintenir un faible niveau d'éducation pour creuser le fossé social.<br><br>
+7. **Ignorance** : Maintenir un faible niveau d'éducation pour creuser le fossé social.<br>
    *"Un public éduqué et informé est le pire cauchemar des puissants."* — *Chomsky on Mis-Education* (2000)<br><br>
 
-8. **Médiocrité** : Promouvoir la bêtise et la vulgarité comme des qualités.<br><br>
+8. **Médiocrité** : Promouvoir la bêtise et la vulgarité comme des qualités.<br>
    *(Inspiré de ses critiques de la culture de masse, pas de citation directe précise.)*<br><br>
 
-9. **Culpabilité** : Faire croire que l’individu est seul responsable de ses échecs.<br><br>
+9. **Culpabilité** : Faire croire que l’individu est seul responsable de ses échecs.<br>
    *"On fait porter aux individus la responsabilité des échecs systémiques."* — *Profit Over People* (1999)<br><br>
 
-10. **Connaissance supérieure** : Utiliser la science pour mieux contrôler les individus qu’eux-mêmes.<br><br>
+10. **Connaissance supérieure** : Utiliser la science pour mieux contrôler les individus qu’eux-mêmes.<br>
    *"Les avancées technologiques donnent aux puissants des outils pour surveiller et manipuler les masses."* — Conférence, années 2000<br><br>
 
 *Note : Liste popularisée par Pressenza (2010), inspirée des idées de Chomsky et de "Armes silencieuses pour guerres tranquilles" (non écrit par Chomsky). Les citations sont tirées de ses travaux ou conférences vérifiés.*
