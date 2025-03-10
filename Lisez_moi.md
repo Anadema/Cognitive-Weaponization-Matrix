@@ -18,10 +18,10 @@
   - [Concepts Clés](#concepts-clés)
 - [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
   - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
-  - [Références-1](#references-1)
+  - [Références](#references-1)
 - [Les 10 stratégies de manipulation de masses](#les-10-stratégies-de-manipulation-de-masses)
   - [Liste inspirée par Pressenza sur les travaux de Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010](#liste-inspirée-par-pressenza-sur-les-travaux-de-noam-chomsky-doctorat-linguistique-états-unis-2010)
-  - [Références-2](#references-2)
+  - [Références](#references-2)
 - [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
 
@@ -221,7 +221,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
    - Développer des habitudes de soumission à l'autorité, même pour des ordres complètement absurdes, inutiles et sans fondement.  
    - Briser la volonté libre et les capacités de jugement de la victime.  
 
-## Références-1 :  
+## Références-1  
 - [Article PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)
 
@@ -277,7 +277,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 <br><br>
 
 
-## Références-2 : 
+## Références-2 
 - [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm
 - [Liste FR with details](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf
 <br><br><br>
