@@ -221,7 +221,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
    - Développer des habitudes de soumission à l'autorité, même pour des ordres complètement absurdes, inutiles et sans fondement.  
    - Briser la volonté libre et les capacités de jugement de la victime.  
 
-## Références-1  
+## Références
 - [Article PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)
 
@@ -277,7 +277,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 <br><br>
 
 
-## Références-2 
+## Références
 - [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm
 - [Liste FR with details](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf
 <br><br><br>
