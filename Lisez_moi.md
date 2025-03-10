@@ -18,8 +18,10 @@
   - [Concepts Clés](#concepts-clés)
 - [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
   - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
+  - [References](#references)
 - [Les 10 stratégies de manipulation de masses](#les-10-stratégies-de-manipulation-de-masses)
   - [Liste inspirée par Pressenza sur les travaux de Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010](#liste-inspirée-par-pressenza-sur-les-travaux-de-noam-chomsky-doctorat-linguistique-états-unis-2010)
+  - [References](#references)
 - [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
 
@@ -274,6 +276,11 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 *Note : Liste popularisée par Pressenza (2010), inspirée des idées de Chomsky et de "Armes silencieuses pour guerres tranquilles" (non écrit par Chomsky). Les citations sont tirées de ses travaux ou conférences vérifiés.*
 <br><br>
 
+
+## Références : 
+- [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm
+- [Liste FR with details](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf
+<br><br><br>
 
 # Commentaires personnels
 
