@@ -274,7 +274,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
    *"Technological advances give the powerful tools to monitor and manipulate the masses."* — Conference, 2000s<br><br>
 
 *Note: List popularized by Pressenza (2010), inspired by Chomsky’s ideas and "Silent Weapons for Quiet Wars" (not written by Chomsky). Quotes are drawn from his verified works or conferences.*
-<br><br>br>
+<br><br>
 
 ## References
 - [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm)
