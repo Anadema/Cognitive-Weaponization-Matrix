@@ -19,7 +19,7 @@
 - [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
   - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
 - [Les 10 stratégies de manipulation de masses](#les-10-stratégies-de-manipulation-de-masses)
-  - [Liste inspirée par Pressenza (Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010)](#liste-inspirée-par-pressenza-noam-chomsky-doctorat-linguistique-états-unis-2010)
+  - [Liste inspirée par Pressenza sur les travaux de Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010](#liste-inspirée-par-pressenza-sur-les-travaux-de-noam-chomsky-doctorat-linguistique-états-unis-2010)
 - [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
 
@@ -234,7 +234,8 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 <br>
 
-## Liste inspirée par Pressenza (Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010)
+## Liste inspirée par Pressenza sur les travaux de Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010
+<br><br>
 
 1. **Distraction** : Détourner l'attention des problèmes importants avec des divertissements constants.<br>
    *"Les médias de masse servent de système de communication pour gérer et distraire l’opinion publique."* — *Manufacturing Consent* (1988)<br><br>
