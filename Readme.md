@@ -219,7 +219,7 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
 
 <br><br>
 
-## Refeences-1
+## Refeences
 
 - [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)  
@@ -275,7 +275,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 *Note: List popularized by Pressenza (2010), inspired by Chomsky’s ideas and "Silent Weapons for Quiet Wars" (not written by Chomsky). Quotes are drawn from his verified works or conferences.*
 <br><br>br>
 
-## Références
+## References
 - [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm)
 - [Liste FR with details](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
 <br><br><br>
