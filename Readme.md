@@ -2,7 +2,6 @@
 <p align="center">
   <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
   "If you think you have nothing to hide, it means you have already lost everything."<br>
-  "Algorithm is like ego; you can control it or be controlled by it."<br>
   <i>Arsène White</i>
 </p>
 
