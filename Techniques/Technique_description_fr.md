@@ -12,14 +12,14 @@ Le ban de l’ombre est une pratique sur les réseaux sociaux où le contenu d�
 La théorie du nudge consiste à influencer subtilement le comportement des gens sans restreindre leurs choix, souvent pour leur propre bien. Elle utilise de petits indices ou des changements de conception, comme placer des aliments sains à hauteur des yeux, pour orienter les décisions. Popularisée en économie comportementale, elle est appliquée dans les politiques publiques et le marketing. Les critiques estiment qu’elle peut sembler manipulatrice si elle manque de transparence.
 <br><br><br>
 
-<b>Assassinat de caractère :</b> https://en.wikipedia.org/wiki/Character_assassination
+<b>Assassinat social :</b> https://en.wikipedia.org/wiki/Character_assassination
 
-L’assassinat de caractère est la diffusion délibérée d’informations fausses ou nuisibles pour ruiner la réputation de quelqu’un. Il implique souvent des calomnies, des rumeurs ou des revendications exagérées, ciblant des figures publiques ou des rivaux. Historiquement utilisé en politique, il vise à discréditer sans preuves. Les dommages peuvent être durables et difficiles à réfuter.
+L’assassinat social est la diffusion délibérée d’informations fausses ou nuisibles pour ruiner la réputation de quelqu’un. Il implique souvent des calomnies, des rumeurs ou des revendications exagérées, ciblant des figures publiques ou des rivaux. Historiquement utilisé en politique, il vise à discréditer sans preuves. Les dommages peuvent être durables et difficiles à réfuter.
 <br><br><br>
 
-<b>Compte fantoche :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
+<b>Compte fictif :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
 
-Un compte fantoche est une fausse identité en ligne utilisée pour tromper les autres, souvent pour promouvoir des agendas ou simuler un soutien. Courant sur les forums ou les réseaux sociaux, il amplifie des opinions ou attaque des adversaires anonymement. Les plateformes tentent de les détecter, mais ils persistent. Cela nuit à la confiance dans le discours en ligne.
+Un compte fictif est une fausse identité en ligne utilisée pour tromper les autres, souvent pour promouvoir des agendas ou simuler un soutien. Courant sur les forums ou les réseaux sociaux, il amplifie des opinions ou attaque des adversaires anonymement. Les plateformes tentent de les détecter, mais ils persistent. Cela nuit à la confiance dans le discours en ligne.
 <br><br><br>
 
 <b>Mauvais étiquetage :</b> https://en.wikipedia.org/wiki/Bad-jacketing<br>
