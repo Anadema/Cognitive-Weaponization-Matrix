@@ -19,7 +19,7 @@
 
 🔷 Évolution de la guerre :
         
-<br>---<br>
+<br>
 
 <p align="center">
   <img width="700" height="250" src="./Image/5Gw.png"><br>
@@ -45,7 +45,7 @@
     </li>
 </ul>
 
-<br>---<br>
+<br>
 
 # Objectif
 
@@ -53,7 +53,7 @@ La Matrice d'Armement Cognitive (CWM) est un outil permettant d’analyser les a
 
 Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui vise largement la désinformation, la CWM se concentre sur l’autonomisation des individus en leur offrant une vision claire du champ de bataille cognitif. Elle aide les utilisateurs à anticiper et contrer les effets psychologiques, offrant une manière proactive de protéger l’intégrité mentale et stratégique dans un paysage informationnel complexe.
 
-<br>---<br>
+<br>
 
 # Quelques citations
 
@@ -79,7 +79,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <p align="center">
   <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
 </p>
-<br>---<br>
+<br>
 
 
 # Liens
@@ -155,7 +155,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Méthodes douce :</b> https://en.wikipedia.org/wiki/Soft_power<br>
 <b>Manipulation émotionnelle :</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
 <b>Mémétique militaire :</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
-<br>---<br>
+<br>
 
 # Tableau de la coercition de Biderman
 
@@ -198,7 +198,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 - [Article PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)
 
-<br>---<br>
+<br>
 
 # Commentaires personnels
 
