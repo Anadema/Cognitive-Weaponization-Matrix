@@ -152,7 +152,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Vides de données :</b> https://datasociety.net/library/data-voids/<br>
 <b>Vulnérabilité du public :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
 <b>Asymétrie d'information :</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
-<b>Bulle de filtres :</b> https://en.wikipedia.org/wiki/Filter_bubble<br>
+<b>Bulle filtrée :</b> https://en.wikipedia.org/wiki/Filter_bubble<br>
 <b>Boucle de dopamine :</b> https://en.wikipedia.org/wiki/Compulsion_loop<br>
 <b>Fenêtre d'Overton :</b> https://en.wikipedia.org/wiki/Overton_window<br>
 <b>VUCA :</b> https://en.wikipedia.org/wiki/VUCA<br>
@@ -162,15 +162,15 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Expérience de Milgram :</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
 <b>Expérience de Asch :</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
 <b>Peur, incertitude et doute :</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
-<b>Peur de rater quelque chose :</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
+<b>Peur de rater quelque chose (FOMO) :</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
 <b>Opérations psychologiques :</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
 <b>Ferme de trolls/bots :</b> https://en.wikipedia.org/wiki/Troll_farm<br>
 <b>Identité numérique :</b> https://en.wikipedia.org/wiki/Digital_identity<br>
-<b>Renseignement de sources ouvertes :</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br>
+<b>Renseignement en sources ouvertes :</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br>
 <b>Sécurité des opérations :</b> https://en.wikipedia.org/wiki/Operations_security<br>
 <b>Boucle OODA :</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
-<b>Méthodes douce :</b> https://en.wikipedia.org/wiki/Soft_power<br>
-<b>Manipulation émotionnelle :</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
+<b>Méthode douce :</b> https://en.wikipedia.org/wiki/Soft_power<br>
+<b>Manipulations émotionnelles :</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
 <b>Mémétique militaire :</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
 <br>
 
