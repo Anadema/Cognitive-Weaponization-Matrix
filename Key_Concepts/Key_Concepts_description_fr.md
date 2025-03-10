@@ -22,7 +22,7 @@ La vulnérabilité du public désigne les traits ou contextes rendant les gens s
 <b>Asymétrie d'information :</b> https://en.wikipedia.org/wiki/Information_asymmetry<br><br>
 L’asymétrie d’information se produit quand une partie détient plus ou de meilleures informations qu’une autre, créant un déséquilibre. C’est fréquent en économie, négociation et médias. L’entrée Wikipédia détaille son rôle dans les échecs de marché et l’exploitation. Elle peut être utilisée comme arme pour manipuler perceptions ou décisions. La transparence est une contre-mesure naturelle.<br>
 <br><br>
-<b>Bulle de filtres :</b> https://en.wikipedia.org/wiki/Filter_bubble<br><br>
+<b>Bulle filtrée :</b> https://en.wikipedia.org/wiki/Filter_bubble<br><br>
 Les bulles de filtres se forment quand des algorithmes sélectionnent du contenu selon les préférences des utilisateurs, limitant l’exposition à des vues diverses. Cela renforce les biais et isole des perspectives opposées. La page Wikipédia retrace son essor avec les réseaux sociaux et moteurs de recherche. Cela peut creuser les divisions sociétales avec le temps. En sortir exige un effort délibéré pour chercher des sources variées.<br>
 <br><br>
 <b>Boucle de dopamine :</b> https://en.wikipedia.org/wiki/Compulsion_loop<br><br>
@@ -67,7 +67,7 @@ Les fermes de trolls ou bots sont des efforts organisés pour répandre la dési
 <b>Identité numérique :</b> https://en.wikipedia.org/wiki/Digital_identity<br><br>
 L’identité numérique est la représentation en ligne d’une personne ou entité, façonnée par les données. Elle est au cœur des débats sur la vie privée et la sécurité. L’entrée Wikipédia couvre ses aspects techniques et sociaux. Elle est vulnérable au vol ou à la manipulation. La protéger exige vigilance et protections robustes.<br>
 <br><br>
-<b>Renseignement de sources ouvertes (OSINT) :</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br><br>
+<b>Renseignement en sources ouvertes (OSINT) :</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br><br>
 L’OSINT collecte des données à partir de sources accessibles au public pour analyse. Utilisé par gouvernements, entreprises et hackers, il est largement accessible. La page Wikipédia explique ses méthodes et applications. Il démocratise l’accès à l’information. Son éthique dépend de son usage.<br>
 <br><br>
 <b>Sécurité des opérations (OPSEC) :</b> https://en.wikipedia.org/wiki/Operations_security<br><br>
@@ -76,5 +76,5 @@ L’OPSEC protège les informations sensibles des adversaires en gérant les ris
 <b>Boucle OODA :</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br><br>
 La boucle OODA (Observer, Orienter, Décider, Agir) est un cadre de prise de décision stratégique militaire. Elle met l’accent sur la vitesse et l’adaptabilité dans des situations dynamiques. La page Wikipédia française détaille ses racines tactiques. Elle s’applique aux affaires et conflits. Sa maîtrise offre un avantage compétitif.<br>
 <br><br>
-<b>Méthode dource :</b> https://en.wikipedia.org/wiki/Soft_power<br><br>
+<b>Méthode douce :</b> https://en.wikipedia.org/wiki/Soft_power<br><br>
 Le pouvoir doux influence par l’attraction—culture, valeurs ou idéologie—plutôt que la force. C’est un outil diplomatique pour façonner les perceptions mondiales. La page Wikipédia attribue le concept à Joseph Nye. Il contraste avec le pouvoir dur militaire. Sa force réside dans la persuasion et l’attrait.<br>
