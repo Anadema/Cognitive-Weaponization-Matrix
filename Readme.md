@@ -159,6 +159,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 # Biderman's Chart of Coercion
 <br>
+The "Biderman's Chart of Coercion," created by Albert Biderman in 1957, outlines coercion techniques used on prisoners of war, such as isolation, exhaustion, humiliation, and threats, to break their will. These methods, adapted for mass cognitive warfare, can be amplified through social media, disinformation, and digital propaganda. The goal is to influence the perceptions and behaviors of an entire population, using strategies of confusion, dependency, and information control to psychologically subjugate large groups.<br><br>
 <p align="center">
   <img width="300" height="700" src="./Documents/biderman.jpg"><br>
 </p>
