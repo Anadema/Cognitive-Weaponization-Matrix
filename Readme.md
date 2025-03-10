@@ -19,6 +19,8 @@
 - [Biderman's Chart of Coercion](#bidermans-chart-of-coercion)
   - [Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologist-phd---us-air-force---1957---ny-acad-med)
   - [References](#references)
+- [The 10 Strategies of Mass Manipulation](#the-10-strategies-of-mass-manipulation)
+  - [List Inspired by Pressenza Based on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010](#list-inspired-by-pressenza-based-on-the-works-of-noam-chomsky-phd-linguistics-united-states-2010)
 - [Licence](#licence)
 
 <br>
@@ -218,6 +220,56 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
 - [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)  
 <br><br><br>
+
+
+# The 10 Strategies of Mass Manipulation
+<br>
+Noam Chomsky, through his critical analyses of media and power, aimed to expose the mechanisms by which elites manipulate perceptions to maintain their dominance, thereby encouraging collective awareness to resist them.
+<br><br>
+Today, in the context of cognitive warfare, where disinformation, algorithms, and psychological targeting amplify these strategies, his work provides a valuable framework for decoding modern manipulations and defending against the insidious influence that seeks to shape our thoughts and behaviors.
+<br><br><br>
+
+<p align="center">
+  <img width="300" height="400" src="./Image/Chomsky.jpg"><br>
+</p>
+
+<br>
+
+## List Inspired by Pressenza Based on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010
+<br><br>
+
+1. **Distraction**: Divert attention from important issues with constant entertainment.<br>
+   *"The mass media serve as a communication system to manage and distract public opinion."* — *Manufacturing Consent* (1988)<br><br>
+
+2. **Problem-Reaction-Solution**: Create crises to impose pre-prepared solutions.<br>
+   *"Elites create conditions so that their decisions are accepted as inevitable."* — *The Chomsky Reader* (1987)<br><br>
+
+3. **Gradual Degradation**: Accustom the public to unacceptable measures over the long term.<br>
+   *"Power cannot impose radical changes immediately; it must introduce them gradually."* — Conference, 1990s<br><br>
+
+4. **Deferred Action**: Present sacrifices as "necessary" for a hypothetical future.<br>
+   *(Inspired by his analyses of neoliberal propaganda, no direct quote available.)*<br><br>
+
+5. **Infantilization**: Address the public as children to limit critical thinking.<br>
+   *"Complex debates are reduced to simple slogans so people don’t think too much."* — *Understanding Power* (2002)<br><br>
+
+6. **Emotion vs. Reason**: Prioritize emotion to manipulate the subconscious.<br>
+   *"Propaganda works best when it plays on fear and insecurity, not logic."* — *Media Control* (1997)<br><br>
+
+7. **Ignorance**: Maintain a low level of education to widen the social gap.<br>
+   *"An educated and informed public is the worst nightmare of the powerful."* — *Chomsky on Mis-Education* (2000)<br><br>
+
+8. **Mediocrity**: Promote stupidity and vulgarity as virtues.<br>
+   *(Inspired by his critiques of mass culture, no direct quote available.)*<br><br>
+
+9. **Guilt**: Make individuals believe they are solely responsible for their failures.<br>
+   *"Individuals are made to bear the responsibility for systemic failures."* — *Profit Over People* (1999)<br><br>
+
+10. **Superior Knowledge**: Use science to control individuals better than they control themselves.<br>
+   *"Technological advances give the powerful tools to monitor and manipulate the masses."* — Conference, 2000s<br><br>
+
+*Note: List popularized by Pressenza (2010), inspired by Chomsky’s ideas and "Silent Weapons for Quiet Wars" (not written by Chomsky). Quotes are drawn from his verified works or conferences.*
+<br><br>
 
 # Personal comments
 
