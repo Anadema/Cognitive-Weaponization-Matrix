@@ -39,7 +39,7 @@
             <li>It is difficult or impossible to attribute.</li>
             <li>The nature of the attack is concealed.</li>
             <li>There is no ethic.</li>
-            <li>Strategy focus on Subversion, Infiltration & Trun influencers</li>
+            <li>Strategy focus on Subversion, Infiltration & Turn influencers</li>
         </ul>
     </li>
 </ul>
