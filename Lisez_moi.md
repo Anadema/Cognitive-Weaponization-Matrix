@@ -278,8 +278,8 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 
 
 ## Références
-- [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm
-- [Liste FR with details](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf
+- [Liste EN avec détails](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm)
+- [Liste FR avec détails](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
 <br><br><br>
 
 # Commentaires personnels
