@@ -155,7 +155,52 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Méthodes douce :</b> https://en.wikipedia.org/wiki/Soft_power<br>
 <b>Manipulation émotionnelle :</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
 <b>Mémétique militaire :</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
+<br><br>
 
+# Tableau de la coercition de Biderman
+
+## Albert Biderman - 1957 - NY Acad Med
+
+---
+
+**Le tableau inclut les méthodes de coercition suivantes :**
+
+1. **Isoler la victime :**  
+   - Priver la personne des soutiens sociaux et des connexions qui lui donneraient la capacité de résister.  
+   - Développer une préoccupation intense pour soi-même chez la victime.  
+   - Rendre la victime dépendante de l'autorité.  
+
+2. **Monopoliser la perception :**  
+   - Fixer l'attention de la victime sur une situation difficile et urgente, forçant l'introspection.  
+   - Éliminer les informations qui pourraient contredire le récit de l'autorité.  
+   - Punir tous les actes de défi.  
+
+3. **Induire l'épuisement :**  
+   - Affaiblir la volonté physique ou mentale de la victime pour résister.  
+
+4. **Présenter des menaces :**  
+   - Cultiver l'anxiété, le stress et le désespoir.  
+
+5. **Montrer des indulgences occasionnelles :**  
+   - Fournir une motivation pour se conformer aux ordres, obéir et se soumettre.  
+   - Également, empêcher la victime de s'habituer aux privations imposées.  
+
+6. **Démontrer l'omnipotence du pouvoir :**  
+   - Suggérer l'inutilité et la futilité de résister à l'autorité.  
+
+7. **Dégrader la victime :**  
+   - Faire en sorte que le coût de la résistance semble plus dommageable pour l'estime de soi que la capitulation.  
+   - Réduire la victime au niveau de la survie animale.  
+
+8. **Exiger des actions stupides et insensées :**  
+   - Développer des habitudes de soumission à l'autorité, même pour des ordres complètement absurdes, inutiles et sans fondement.  
+   - Briser la volonté libre et les capacités de jugement de la victime.  
+
+---
+
+### Références :  
+- [Article PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
+- [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)
 
 <br><br>
 
