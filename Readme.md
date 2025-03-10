@@ -164,9 +164,8 @@ https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion
 
 ## Albert Biderman - 1957 - NY Acad Med
 <br>
-<br>
 
-## The table includes the following coercion methods:
+<b>The table includes the following coercion methods:</b>
 <br><br>
 <b>1- Isolate the victim:</b> Deprive the person of the social supports and connections that would give them the ability to resist. Develop intense self-concern in the victim. Make the victim dependent on the authority.
 
