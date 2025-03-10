@@ -215,6 +215,7 @@ with the sole aim of trying to get closer to the truth, nothing more, nothing le
 # Licence
 
 Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :
+
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
 
 All documents store here come from Internet and are avalaible in open source access:<br>
