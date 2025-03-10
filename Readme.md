@@ -9,12 +9,23 @@
 <br>
 
 # Table of Contents
-- [Introduction & Context](#Introduction--Context)
-- [Section 2](#section-2)
-  - [Sous-section 2.1](#sous-section-21)
+- [Introduction & Context](#introduction--context)
+  - [Summary of 5GW (Fifth-Generation Warfare)](#summary-of-5gw-fifth-generation-warfare)
+- [Purpose](#purpose)
+  - [Some quotes](#some-quotes)
+- [Cognitive Weaponization Matrix](#cognitive-weaponization-matrix)
+- [Link](#link)
+  - [Techniques](#techniques)
+  - [Key Concepts](#key-concepts)
+- [Biderman's Chart of Coercion](#bidermans-chart-of-coercion)
+  - [Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologist-phd---us-air-force---1957---ny-acad-med)
+  - [References](#references)
+- [Licence](#licence)
 
+<br>
+<br>
 
-## Introduction & Context
+# Introduction & Context
 
 🔷 We talk about cognitive warfare, but before diving deeper, it's good to place ourselves in the context of the evolution of war history. This will help us understand that the battlefield will define the form of combat we can lead, and not the other way around.
 
@@ -60,7 +71,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 <br>
 
-# Some quotes
+## Some quotes
 
 <br>
 
@@ -86,9 +97,9 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 </p>
 <br><br>
 
-
 # Links
-<br>
+
+<br><br>
 
 ## Techniques
 
@@ -208,7 +219,7 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
    - Develop habits of submission to authority, even for completely absurd, useless, and baseless orders.  
    - Break the victim’s free will and judgment capacities.  
 
-### References:  
+## References:  
 - [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)  
 <br><br><br>
