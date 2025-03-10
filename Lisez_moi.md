@@ -208,8 +208,8 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 # Commentaires personnels
 
-Ce travail vise à compiler des techniques et des concepts clés permettant une immersion initiale directe et technique dans le domaine de la guerre de l’information.
-L’objectif est de fournir des clés pour comprendre ce domaine de la guerre cognitive dans un environnement numérique. Cela n’a rien à voir avec la vérification des faits, et encore moins avec les idéologies ou les approches modernes du scepticisme (zététique).
+Ce travail vise à compiler des techniques et des concepts clés permettant une immersion initiale directe et technique dans le domaine de la guerre cognitive.
+L’objectif est de fournir des clés pour comprendre ce domaine dans un environnement numérique. Cela n’a rien à voir avec la vérification des faits des factcheckers, et encore moins avec les idéologies ou les approches modernes du scepticisme (zététique).
 
 L’axe de recherche est à la fois scientifique et militaire, avec l’originalité de mettre à disposition un haut niveau de ressources, plutôt que de s’engager dans une vulgarisation de masse qui se cacherait derrière des méthodes d’influence.
 
