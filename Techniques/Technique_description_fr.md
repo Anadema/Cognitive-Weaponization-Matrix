@@ -160,10 +160,12 @@ Le cadrage manipule la manière dont l’information est présentée pour façon
 <b>Effet de bande :</b> https://en.wikipedia.org/wiki/Bandwagon_effect
 
 L’effet de bande exploite la tendance humaine à suivre la majorité. En créant l’illusion qu’une idée ou une croyance est largement acceptée (« tout le monde pense ça »), il pousse les individus à se conformer sans la remettre en question.
+<br><br><br>
 
 <b>Astroturfing :</b> https://disarmframework.herokuapp.com/technique/145/view
 
 L’astroturfing crée une fausse impression de soutien populaire pour manipuler l’opinion publique. En utilisant des faux comptes ou des campagnes coordonnées, il amplifie des récits pour les faire paraître largement acceptés, masquant leur nature orchestrée. Cela inonde les plateformes d’un consensus artificiel pour promouvoir des agendas ou discréditer l’opposition.
+<br><br><br>
 
 <b>Attaques papillons :</b> https://disarmframework.herokuapp.com/technique/134/view
 
