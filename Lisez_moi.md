@@ -6,6 +6,21 @@
 </p>
 
 <br>
+
+# Table des matières
+
+- [Introduction & Contexte](#introduction--contexte)
+  - [Résumé de la 5GW (Guerre de Cinquième Génération)](#résumé-de-la-5gw-guerre-de-cinquième-génération)
+- [Objectif](#objectif)
+  - [Quelques citations](#quelques-citations)
+- [Matrice de l'Arme Cognitive](#matrice-de-larme-cognitive)
+  - [Techniques](#techniques)
+  - [Concepts Clés](#concepts-clés)
+- [Tableau de la Coercition de Biderman](#tableau-de-la-coercition-de-biderman)
+  - [Albert Biderman (sociologue Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologue-phd---us-air-force---1957---ny-acad-med)
+  - [Références](#références)
+- [Licence](#licence)
+
 <br>
 
 # Introduction & Contexte
@@ -54,7 +69,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 <br>
 
-# Quelques citations
+## Quelques citations
 
 <br>
 
@@ -82,9 +97,6 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 </p>
 <br>
 
-
-# Liens
-<br>
 
 ## Techniques
 
@@ -205,7 +217,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
    - Développer des habitudes de soumission à l'autorité, même pour des ordres complètement absurdes, inutiles et sans fondement.  
    - Briser la volonté libre et les capacités de jugement de la victime.  
 
-### Références :  
+## Références :  
 - [Article PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
 - [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)
 
