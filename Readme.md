@@ -76,7 +76,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <br>
 
 <p align="center">
-  <img width="900" height="500" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
+  <img width="1000" height="550" src="https://github.com/Anadema/BONE-FLAG/blob/main/Framework/CWM.jpg">
 </p>
 <br><br>
 
