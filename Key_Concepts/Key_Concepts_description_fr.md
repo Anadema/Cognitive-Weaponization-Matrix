@@ -78,6 +78,7 @@ La boucle OODA (Observer, Orienter, Décider, Agir) est un cadre de prise de dé
 <br><br>
 <b>Méthode douce :</b> https://en.wikipedia.org/wiki/Soft_power<br><br>
 Le pouvoir doux influence par l’attraction—culture, valeurs ou idéologie—plutôt que la force. C’est un outil diplomatique pour façonner les perceptions mondiales. La page Wikipédia attribue le concept à Joseph Nye. Il contraste avec le pouvoir dur militaire. Sa force réside dans la persuasion et l’attrait.<br>
+<br><br>
 <b>Manipulations émotionnelles :</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br><br><br>
 Cette tactique repose sur l’exploitation des émotions humaines pour influencer les décisions ou les comportements, comme souligné dans le post de Gamuchirai Chinamasa. Elle utilise des leviers comme la peur, la honte ou l’empathie pour manipuler subtilement ses cibles, souvent à leur insu. Le lien partagé détaille des exemples pratiques et des moyens de repérer ces stratégies dans la vie quotidienne. Elle peut être employée dans des contextes personnels, professionnels ou même médiatiques pour orienter les perceptions. En essence, c’est une arme psychologique qui tire parti des failles émotionnelles.<br>
 <br><br>
