@@ -161,21 +161,43 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 # Biderman's Chart of Coercion
 
 ## Albert Biderman - 1957 - NY Acad Med
-<br>
 
-<b>The table includes the following coercion methods:</b>
-<br><br>
-<b>1- Isolate the victim:</b> Deprive the person of the social supports and connections that would give them the ability to resist. Develop intense self-concern in the victim. Make the victim dependent on the authority.<br>
-<b>2- Monopolize perception:</b> Fix the victim’s attention on a difficult and urgent situation, forcing introspection. Eliminate information that could contradict the authority’s narrative. Punish all acts of defiance.<br>
-<b>3- Induce exhaustion:</b> Weaken the victim’s physical or mental will to resist.<br>
-<b>4- Present threats:</b> Cultivate anxiety, stress, and despair.<br>
-<b>5- Show occasional indulgences:</b> Provide motivation to comply with orders, obey, and submit. Also prevent the victim from becoming accustomed to the imposed deprivations.<br>
-<b>6- Demonstrate the omnipotence of power:</b> Suggest the uselessness and futility of resisting authority.<br>
-<b>7- Degrade the victim:</b> Make the cost of resistance appear more damaging to self-esteem than capitulation. Reduce the victim to the level of animal survival.<br>
-<b>8- Demand stupid and senseless actions:</b> Develop habits of submission to authority, even for completely absurd, useless, and baseless orders. Break the victim’s free will and judgment capacities.<br>
+**The table includes the following coercion methods:**
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4<br>
-https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion
+1. **Isolate the victim:**  
+   - Deprive the person of the social supports and connections that would give them the ability to resist.  
+   - Develop intense self-concern in the victim.  
+   - Make the victim dependent on the authority.  
+
+2. **Monopolize perception:**  
+   - Fix the victim’s attention on a difficult and urgent situation, forcing introspection.  
+   - Eliminate information that could contradict the authority’s narrative.  
+   - Punish all acts of defiance.  
+
+3. **Induce exhaustion:**  
+   - Weaken the victim’s physical or mental will to resist.  
+
+4. **Present threats:**  
+   - Cultivate anxiety, stress, and despair.  
+
+5. **Show occasional indulgences:**  
+   - Provide motivation to comply with orders, obey, and submit.  
+   - Also prevent the victim from becoming accustomed to the imposed deprivations.  
+
+6. **Demonstrate the omnipotence of power:**  
+   - Suggest the uselessness and futility of resisting authority.  
+
+7. **Degrade the victim:**  
+   - Make the cost of resistance appear more damaging to self-esteem than capitulation.  
+   - Reduce the victim to the level of animal survival.  
+
+8. **Demand stupid and senseless actions:**  
+   - Develop habits of submission to authority, even for completely absurd, useless, and baseless orders.  
+   - Break the victim’s free will and judgment capacities.  
+
+### References:  
+- [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/?page=4)  
+- [Wikipedia - Biderman's Chart of Coercion](https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion)  
 <br><br><br>
 
 # Personal comments
