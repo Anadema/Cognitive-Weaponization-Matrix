@@ -286,7 +286,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
 The objective is to provide keys to understanding this domain of cognitive warfare in numerical environment. That have nothing to do with fact-checking, and even less with ideologies or modern approaches to skepticism (zététique). 
 
-The research focus is both scientific and military, with the originality lying in making a high level of resources available, rather than engaging in mass vulgarization that hides behind influence methods.
+The research focus is both scientific and military, with the originality lying in making directly a high level of resources available, rather than engaging in mass vulgarization that hides behind influence methods.
 
 I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
 with the sole aim of trying to get closer to the truth, nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
