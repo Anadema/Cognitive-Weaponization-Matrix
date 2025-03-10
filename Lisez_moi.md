@@ -159,7 +159,9 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 # La charte de la coercition d'Albert Biderman
 <br>
-Le "Biderman's Chart of Coercion", créé par Albert Biderman en 1957, décrit des techniques de coercition utilisées sur les prisonniers de guerre, comme l’isolement, l’épuisement, l’humiliation et les menaces, pour briser leur volonté. Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifiées avec les réseaux sociaux, la désinformation et la propagande numérique. L'objectif est d'influencer les perceptions et comportements d’une population, en utilisant des stratégies de confusion, dépendance et contrôle de l’information pour soumettre les esprits à grande échelle.<br><br>
+Le "Biderman's Chart of Coercion", créé par Albert Biderman en 1957, décrit des techniques de coercition utilisées sur les prisonniers de guerre, comme l’isolement, l’épuisement, l’humiliation et les menaces, pour briser leur volonté.<br><br>
+
+Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifiées avec les réseaux sociaux, la désinformation et la propagande numérique. L'objectif est d'influencer les perceptions et comportements d’une population, en utilisant des stratégies de confusion, dépendance et contrôle de l’information pour soumettre les esprits à grande échelle.<br><br>
 
 <p align="center">
   <img width="300" height="700" src="./Documents/biderman.jpg"><br>
