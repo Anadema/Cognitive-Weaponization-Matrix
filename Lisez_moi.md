@@ -227,6 +227,10 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 # Les 10 stratégies de manipulation de masses
 <br>
+Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, visait à dévoiler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister. 
+<br><br>
+Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, algorithmes et ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et comportements."
+<br><br>
 
 <p align="center">
   <img width="300" height="400" src="./Image/Chomsky.jpg"><br>
@@ -268,7 +272,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
    *"Les avancées technologiques donnent aux puissants des outils pour surveiller et manipuler les masses."* — Conférence, années 2000<br><br>
 
 *Note : Liste popularisée par Pressenza (2010), inspirée des idées de Chomsky et de "Armes silencieuses pour guerres tranquilles" (non écrit par Chomsky). Les citations sont tirées de ses travaux ou conférences vérifiés.*
-
+<br><br>
 
 
 # Commentaires personnels
