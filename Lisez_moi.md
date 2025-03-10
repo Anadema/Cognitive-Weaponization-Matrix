@@ -287,7 +287,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 Ce travail vise à compiler des techniques et des concepts clés permettant une immersion initiale directe et technique dans le domaine de la guerre cognitive.
 L’objectif est de fournir des clés pour comprendre ce domaine dans un environnement numérique. Cela n’a rien à voir avec la vérification des faits des factcheckers, et encore moins avec les idéologies ou les approches modernes du scepticisme (zététique).
 
-L’axe de recherche est à la fois scientifique et militaire, avec l’originalité de mettre à disposition un haut niveau de ressources, plutôt que de s’engager dans une vulgarisation de masse qui se cacherait derrière des méthodes d’influence.
+L’axe de recherche est à la fois scientifique et militaire, avec l’originalité de mettre à disposition directement un haut niveau de ressources, plutôt que de s’engager dans une vulgarisation de masse qui se cacherait derrière des méthodes d’influence.
 
 Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour le compte d’un gouvernement, d’une entreprise privée autre que la mienne, ou d’un groupe politique ou idéologique. C’est une démarche passionnée, et certainement un besoin personnel, dans le seul but de tenter de m’approcher de la vérité, ni plus, ni moins. Je fais des erreurs, et j’apprends en conséquence. Mon objectif est uniquement de partager les connaissances que j’ai rassemblées, et non de me positionner comme un expert.
 <br><br><br>
