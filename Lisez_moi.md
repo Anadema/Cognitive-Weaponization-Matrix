@@ -230,7 +230,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, visait à dévoiler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister. 
 <br><br>
 Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, algorithmes et ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et comportements."
-<br><br>
+<br><br><br>
 
 <p align="center">
   <img width="300" height="400" src="./Image/Chomsky.jpg"><br>
