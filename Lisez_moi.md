@@ -13,12 +13,12 @@
   - [Résumé de la 5GW (Guerre de Cinquième Génération)](#résumé-de-la-5gw-guerre-de-cinquième-génération)
 - [Objectif](#objectif)
   - [Quelques citations](#quelques-citations)
-- [Matrice de l'Arme Cognitive](#matrice-de-larme-cognitive)
+- [Matrice d'Armement Cognitif](#matrice-darmement-cognitif)
   - [Techniques](#techniques)
   - [Concepts Clés](#concepts-clés)
-- [Tableau de la Coercition de Biderman](#tableau-de-la-coercition-de-biderman)
-  - [Albert Biderman (sociologue Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologue-phd---us-air-force---1957---ny-acad-med)
-  - [Références](#références)
+- [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
+  - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
+- [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
 
 <br>
@@ -43,7 +43,7 @@
 
 <br>
 
-## Résumé de la 5GW (Guerre de Cinquième Génération) :
+## Résumé de la 5GW (Guerre de Cinquième Génération)
 <ul>
     <li>C’est une guerre d’information et de perception.</li><br>
     <li>Elle cible les biais cognitifs et les biais culturels préexistants des individus et des organisations.</li><br>
@@ -138,7 +138,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Attaques papillon : </b> https://disarmframework.herokuapp.com/technique/134/view<br><br>
 <br>
 
-## Key Concepts
+## Concepts Clé
 
 <a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
 
