@@ -298,7 +298,7 @@ Pour conclure ce travail, je précise que je ne suis pas suicidaire :innocent:
 
 La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :<br>
 
-Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée.<br>
+Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée<br>
 Tous les documents stockés ici proviennent de sources ouvertes accessibles sur Internet :<br><br>
 
 https://fr.wikipedia.org/wiki/Biais_cognitif<br>
