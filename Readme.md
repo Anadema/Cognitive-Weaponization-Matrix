@@ -66,8 +66,7 @@
 <br>
 
 <p align="center">
-  <img width="400" height="400" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
-  <i></i>Dr. Robert Malone</i>
+  <img width="600" height="500" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
 </p>
 
 <br>
