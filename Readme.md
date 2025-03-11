@@ -67,6 +67,7 @@
 
 <p align="center">
   <img width="600" height="500" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
+  <a href="">Biais cognitifs</a>
 </p>
 
 <br>
