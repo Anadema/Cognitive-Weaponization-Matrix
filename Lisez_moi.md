@@ -84,7 +84,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <br>
 
 <p align="center">
-  <img width="300" height="320" src="./Image/st.jpg">
+  <img width="400" height="440" src="./Image/st.jpg">
 </p>
 <br><br>
 
