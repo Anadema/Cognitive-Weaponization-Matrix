@@ -52,7 +52,7 @@
 <ul>
     <li>It is a war of information and perception.</li><br>
     <li>It targets the pre-existing cognitive biases of individuals and organizations.</li><br>
-    <li>It creates new cognitive biases (<a href="https://fr.wikipedia.org/wiki/Biais_cognitif">See detailed list</a>).</li><br>
+    <li>It creates new cognitive biases (<a href="https://en.wikipedia.org/wiki/Cognitive_bias">See detailed list</a>).</li><br>
     <li>It differs from conventional warfare for the following reasons:
         <ul>
             <li>It focuses on the individual observer/decision-maker.</li>
