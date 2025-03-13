@@ -30,7 +30,7 @@
         <li>L’effet est psychologique autant que stratégique : l’adversaire, noyé dans un flot d’informations contradictoires ou trompeuses, doute de ses propres perceptions et perd sa capacité à agir efficacement.</li>
     </ul><br><br>
     <p align="center">
-      <img width="800" height="200" src="../Image/ghost.jpg"><br><br>
+      <img width="800" height="350" src="../Image/ghost.jpg"><br><br>
     </p><br>
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
