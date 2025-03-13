@@ -12,6 +12,23 @@
     <h1>Le Gaslighting sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le gaslighting ?</h2><br>
     <p>Le gaslighting est une forme de manipulation psychologique où une personne essaie de faire douter une autre de sa réalité, de ses souvenirs ou de ses perceptions. L’objectif est de déstabiliser la victime pour qu’elle perde confiance en elle-même. En ligne, cette manipulation est encore plus fréquente à cause de l’anonymat, des outils numériques et de la rapidité des échanges. Que ce soit dans des chats, sur les réseaux sociaux ou dans des forums, le gaslighting peut toucher n’importe qui.</p><br>
+<h1>Qu’est-ce qu’un brouillard de guerre volontaire en contexte militaire ?</h1>
+    <p>Dans le domaine militaire, provoquer un brouillard de guerre volontaire signifie utiliser des tactiques pour amplifier l’incertitude naturelle du champ de bataille et la tourner à son avantage contre l’adversaire. L’objectif est de rendre la situation tellement confuse que l’ennemi prend des décisions erronées ou hésite au mauvais moment.</p>    
+    <h3>Techniques utilisées :</h3>
+    <ul>
+        <li><strong>Désinformation :</strong> Diffuser de fausses informations sur ses propres mouvements, effectifs ou intentions (ex. : faire croire à une attaque imminente sur un front pour détourner l’attention d’un autre).</li>
+        <li><strong>Leurres physiques :</strong> Utiliser des mannequins, des véhicules factices ou des signaux radio trompeurs pour simuler une présence ou une activité là où il n’y en a pas (comme les chars gonflables utilisés pendant la Seconde Guerre mondiale par les Alliés lors de l’opération Fortitude).</li>
+        <li><strong>Perturbation des communications :</strong> Brouiller les radars, interférer avec les transmissions radio ou pirater les systèmes ennemis pour couper leurs flux d’informations.</li>
+        <li><strong>Manœuvres ambiguës :</strong> Effectuer des déplacements imprévisibles ou contradictoires pour semer le doute sur ses intentions réelles.</li>
+    </ul>    
+    <h3>Exemple historique :</h3>
+    <ul>
+        <li>Pendant la bataille de Normandie (1944), les Alliés ont créé une armée fictive, le <em>First United States Army Group (FUSAG)</em>, avec des faux équipements et des messages radio bidon pour convaincre les Allemands qu’un débarquement aurait lieu à Pas-de-Calais plutôt qu’en Normandie. Ce brouillard volontaire a embrouillé Hitler et ses généraux, retardant leur réponse au vrai débarquement.</li>
+    </ul>    
+    <h3>Effet recherché :</h3>
+    <ul>
+        <li>L’effet est psychologique autant que stratégique : l’adversaire, noyé dans un flot d’informations contradictoires ou trompeuses, doute de ses propres perceptions et perd sa capacité à agir efficacement.</li>
+    </ul>
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
     <ul>
