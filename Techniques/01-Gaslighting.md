@@ -33,7 +33,7 @@
         <li>L’effet est psychologique autant que stratégique : l’adversaire, noyé dans un flot d’informations contradictoires ou trompeuses, doute de ses propres perceptions et perd sa capacité à agir efficacement.</li>
     </ul><br>
     <p align="center">
-      <img width="800" height="300" src="../Image/ghost2.jpg"><br>Actuellement le domaine de la deception s'est améliorer, ce genre de jouer coute 100 000 € par exemple et <a href="https://www.euronews.com/next/2023/03/07/is-ukraine-tricking-russia-on-the-battlefield-with-inflatable-decoy-tanks-and-weapons">ils sont utilisé en Ukraine par exemple</a>.<br>
+      <img width="800" height="300" src="../Image/ghost2.jpg"><br>Actuellement le domaine de la deception militaire s'est améliorer, ce genre de jouer coûte 100 000 € et <br><a href="https://www.euronews.com/next/2023/03/07/is-ukraine-tricking-russia-on-the-battlefield-with-inflatable-decoy-tanks-and-weapons">actuellement utilisé dans la guerre Ukraine par exemple</a>.<br>
     </p><br>
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
