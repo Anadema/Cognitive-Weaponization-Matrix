@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le Gaslighting surGaslighting Internet : Comprendre et Se Protéger</title>
 </head>
 <body>
     <br><br>
