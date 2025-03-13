@@ -34,6 +34,8 @@
     </ul><br>
     <p align="center">
       <img width="800" height="300" src="../Image/ghost2.jpg"><br>Actuellement le domaine de la deception militaire s'est améliorer, ce genre de jouer coûte 100 000 € et <br><a href="https://www.euronews.com/next/2023/03/07/is-ukraine-tricking-russia-on-the-battlefield-with-inflatable-decoy-tanks-and-weapons">actuellement utilisé dans la guerre Ukraine par exemple</a>.<br>
+    <p> En cybersécurité, la deception est le domaine des honeypots pour pôt de miel, le but étant de trompé l'attaquant et le diriger vers des pièges, on sort du cadre simple du Gaslighting mais on reste dans celui de la désinformation et du brouillard de guerre au niveau numérique face à des groupes entrainé en cybersécurité.</p>
+    <p>Voir <a href="https://trapster.cloud/fr/">Trapster</a>, une solution souveraine Française pour étudier le sujet, ils ont un <a href="https://github.com/0xBallpoint/trapster-community">Github</a> également.</p>
     </p><br>
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
