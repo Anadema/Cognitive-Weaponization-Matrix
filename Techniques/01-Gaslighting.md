@@ -12,6 +12,9 @@
     <h1>Le Gaslighting sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le gaslighting ?</h2><br>
     <p>Le gaslighting est une forme de manipulation psychologique où une personne essaie de faire douter une autre de sa réalité, de ses souvenirs ou de ses perceptions. L’objectif est de déstabiliser la victime pour qu’elle perde confiance en elle-même. En ligne, cette manipulation est encore plus fréquente à cause de l’anonymat, des outils numériques et de la rapidité des échanges. Que ce soit dans des chats, sur les réseaux sociaux ou dans des forums, le gaslighting peut toucher n’importe qui.</p><br>
+     <p align="center">
+      <img width="800" height="300" src="../Image/ghost.jpg"><br><br>
+    </p><br>
 <h1>Qu’est-ce qu’un brouillard de guerre volontaire en contexte militaire ?</h1>
     <p>Dans le domaine militaire, provoquer un brouillard de guerre volontaire signifie utiliser des tactiques pour amplifier l’incertitude naturelle du champ de bataille et la tourner à son avantage contre l’adversaire. L’objectif est de rendre la situation tellement confuse que l’ennemi prend des décisions erronées ou hésite au mauvais moment.</p>    
     <h3>Techniques utilisées :</h3>
@@ -28,9 +31,9 @@
     <h3>Effet recherché :</h3>
     <ul>
         <li>L’effet est psychologique autant que stratégique : l’adversaire, noyé dans un flot d’informations contradictoires ou trompeuses, doute de ses propres perceptions et perd sa capacité à agir efficacement.</li>
-    </ul><br><br>
+    </ul><br>
     <p align="center">
-      <img width="800" height="300" src="../Image/ghost.jpg"><br><br>
+      <img width="800" height="300" src="../Image/ghost2.jpg"><br>Actuellement le domaine de la deception s'est améliorer, ce genre de jouer coute 100 000 € par exemple et <a href="https://www.euronews.com/next/2023/03/07/is-ukraine-tricking-russia-on-the-battlefield-with-inflatable-decoy-tanks-and-weapons">ils sont utilisé en Ukraine par exemple</a>.<br>
     </p><br>
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
