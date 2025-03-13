@@ -10,8 +10,8 @@
     <h1>Le Gaslighting sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le gaslighting ?</h2><br>
     <p>Le gaslighting est une forme de manipulation psychologique où une personne essaie de faire douter une autre de sa réalité, de ses souvenirs ou de ses perceptions. L’objectif est de déstabiliser la victime pour qu’elle perde confiance en elle-même. En ligne, cette manipulation est encore plus fréquente à cause de l’anonymat, des outils numériques et de la rapidité des échanges. Que ce soit dans des chats, sur les réseaux sociaux ou dans des forums, le gaslighting peut toucher n’importe qui.</p><br>
-    <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br><br>
-    <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br><br>
+    <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
+    <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
     <ul>
         <li><strong>Manipulation de captures d’écran :</strong> Quelqu’un modifie une capture d’écran d’une conversation pour faire croire que vous avez écrit quelque chose de faux ou d’embarrassant.</li>
         <li><strong>Déni de conversations :</strong> Une personne affirme qu’une discussion n’a jamais eu lieu, même si vous avez l’historique sous les yeux.</li>
