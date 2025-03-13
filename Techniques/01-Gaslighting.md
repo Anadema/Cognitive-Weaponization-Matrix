@@ -7,7 +7,7 @@
 <body>
     <br>
     <p align="center">
-      <img width="600" height="400" src="./Image/psy11.jpg"><br><br>
+      <img width="500" height="400" src="../Image/psy11.jpg"><br><br>
    </p><br>
     <h1>Le Gaslighting sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le gaslighting ?</h2><br>
