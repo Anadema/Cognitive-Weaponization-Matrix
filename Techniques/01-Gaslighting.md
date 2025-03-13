@@ -47,6 +47,10 @@
         <li>"Personne ne t’a forcé à réagir comme ça."</li>
         <li>"Tu cherches juste à créer des problèmes."</li>
     </ul><br><br>
+    <br>
+    <p align="center">
+      <img width="500" height="400" src="../Image/psy12.jpg"><br><br>
+   </p><br>
     <h2>Comment se protéger du gaslighting en ligne ?</h2><br>
     <p>Face au gaslighting sur internet, il est possible de se protéger avec des actions concrètes. Voici une liste étendue de conseils pratiques :</p><br>
     <ul>
