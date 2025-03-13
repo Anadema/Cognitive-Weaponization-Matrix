@@ -7,10 +7,8 @@
 </head>
 <body>
     <h1>Le Gaslighting sur Internet : Comprendre et Se Protéger</h1>
-    
     <h2>Qu’est-ce que le gaslighting ?</h2>
     <p>Le gaslighting est une forme de manipulation psychologique où une personne essaie de faire douter une autre de sa réalité, de ses souvenirs ou de ses perceptions. L’objectif est de déstabiliser la victime pour qu’elle perde confiance en elle-même. En ligne, cette manipulation est encore plus fréquente à cause de l’anonymat, des outils numériques et de la rapidité des échanges. Que ce soit dans des chats, sur les réseaux sociaux ou dans des forums, le gaslighting peut toucher n’importe qui.</p>
-    
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p>
     <ul>
@@ -26,8 +24,7 @@
         <li><strong>Falsification de contexte :</strong> Quelqu’un partage vos mots ou actions hors contexte pour vous discréditer devant d’autres (par exemple, en montrant un seul message d’un long échange).</li>
         <li><strong>Attaques sur votre mémoire :</strong> On vous répète que vous avez mal compris ou mal retenu une situation, même si vous êtes sûr de vous.</li>
         <li><strong>Surcharge d’arguments :</strong> Dans une dispute en ligne, on vous bombarde de messages ou de contre-arguments pour vous embrouiller et vous faire abandonner.</li>
-    </ul>
-    
+    </ul
     <h2>Exemples de phrases typiques utilisées dans le gaslighting en ligne</h2>
     <p>Les manipulateurs utilisent des phrases simples mais efficaces pour semer le doute. Voici une liste plus longue d’exemples que vous pourriez reconnaître :</p>
     <ul>
@@ -47,7 +44,6 @@
         <li>"Personne ne t’a forcé à réagir comme ça."</li>
         <li>"Tu cherches juste à créer des problèmes."</li>
     </ul>
-    
     <h2>Comment se protéger du gaslighting en ligne ?</h2>
     <p>Face au gaslighting sur internet, il est possible de se protéger avec des actions concrètes. Voici une liste étendue de conseils pratiques :</p>
     <ul>
@@ -62,10 +58,8 @@
         <li><strong>Cherchez du soutien en ligne :</strong> Partagez votre expérience dans des groupes ou avec des personnes qui comprennent ce que vous vivez.</li>
         <li><strong>Utilisez des outils techniques :</strong> Par exemple, activez les notifications ou les historiques pour ne pas perdre vos propres repères dans une discussion.</li>
     </ul>
-    
     <h2>Pourquoi c’est important de reconnaître le gaslighting en ligne ?</h2>
     <p>Le gaslighting sur internet peut avoir des conséquences graves : perte de confiance en soi, stress, confusion, voire isolement. Parce qu’il est souvent discret, il peut passer inaperçu pendant longtemps. Les réseaux sociaux, les forums et les messages privés offrent aux manipulateurs des outils parfaits pour semer le doute à grande échelle. En apprenant à identifier ces comportements et en appliquant des stratégies pour s’en protéger, vous pouvez reprendre le contrôle et utiliser internet de manière plus saine.</p>
-    
     <p>Le gaslighting n’est pas une fatalité. Avec de la vigilance et quelques réflexes simples, vous pouvez vous protéger et ne pas laisser les autres dicter votre réalité. Si vous vous sentez manipulé, rappelez-vous que vous n’êtes pas seul et que demander de l’aide est une force, pas une faiblesse.</p>
 </body>
 </html>
