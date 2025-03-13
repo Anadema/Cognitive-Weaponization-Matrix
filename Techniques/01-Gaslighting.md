@@ -23,12 +23,15 @@
     </ul>    
     <h3>Exemple historique :</h3>
     <ul>
-        <li>Pendant la bataille de Normandie (1944), les Alliés ont créé une armée fictive, le <em>First United States Army Group (FUSAG)</em>, avec des faux équipements et des messages radio bidon pour convaincre les Allemands qu’un débarquement aurait lieu à Pas-de-Calais plutôt qu’en Normandie. Ce brouillard volontaire a embrouillé Hitler et ses généraux, retardant leur réponse au vrai débarquement.</li>
+         <li>Pendant la Seconde Guerre mondiale, les Alliés ont déployé la <strong>Ghost Army</strong> (23rd Headquarters Special Troops), une unité spécialisée dans la tromperie, pour soutenir l’<em>opération Fortitude</em>. Cette campagne incluait la création du <em>First United States Army Group (FUSAG)</em>, une armée fictive dirigée par le général George S. Patton. À l’aide de chars gonflables, de faux messages radio et de camps simulés, la Ghost Army a convaincu les Allemands qu’une invasion massive aurait lieu à Pas-de-Calais, et non en Normandie. Ce brouillard volontaire a désorienté les forces nazies, les poussant à maintenir des troupes loin du véritable débarquement du 6 juin 1944.</li>
     </ul>    
     <h3>Effet recherché :</h3>
     <ul>
         <li>L’effet est psychologique autant que stratégique : l’adversaire, noyé dans un flot d’informations contradictoires ou trompeuses, doute de ses propres perceptions et perd sa capacité à agir efficacement.</li>
     </ul><br><br>
+    <p align="center">
+      <img width="500" height="400" src="../Image/ghost.jpg"><br><br>
+    </p><br>
     <h2>Comment le gaslighting se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, le gaslighting prend des formes variées et souvent subtiles. Voici une liste élargie d’exemples concrets pour mieux comprendre comment ça fonctionne :</p><br>
     <ul>
