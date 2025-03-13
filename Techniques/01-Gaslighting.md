@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Gaslighting sur Internet : Comprendre et Se Protéger</title>
+</head>
+<body>
     <br><br>
     <h1>Le Gaslighting sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le gaslighting ?</h2><br>
@@ -54,3 +62,5 @@
     <h2>Pourquoi c’est important de reconnaître le gaslighting en ligne ?</h2><br>
     <p>Le gaslighting sur internet peut avoir des conséquences graves : perte de confiance en soi, stress, confusion, voire isolement. Parce qu’il est souvent discret, il peut passer inaperçu pendant longtemps. Les réseaux sociaux, les forums et les messages privés offrent aux manipulateurs des outils parfaits pour semer le doute à grande échelle. En apprenant à identifier ces comportements et en appliquant des stratégies pour s’en protéger, vous pouvez reprendre le contrôle et utiliser internet de manière plus saine.</p><br>
     <p>Le gaslighting n’est pas une fatalité. Avec de la vigilance et quelques réflexes simples, vous pouvez vous protéger et ne pas laisser les autres dicter votre réalité. Si vous vous sentez manipulé, rappelez-vous que vous n’êtes pas seul et que demander de l’aide est une force, pas une faiblesse.</p><br><br>
+</body>
+</html>
