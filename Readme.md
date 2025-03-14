@@ -243,7 +243,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 
 <p align="center">
   <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
-  <i>https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf</i>
+  <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf">Source de cette image</a>
 </p>
 
 <br>
