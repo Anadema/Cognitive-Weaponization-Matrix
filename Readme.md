@@ -185,8 +185,8 @@ The "Biderman's Chart of Coercion," created by Albert Biderman in 1957, outlines
 
 These methods, adapted for mass cognitive warfare, can be amplified through social media, disinformation, and digital propaganda. The goal is to influence the perceptions and behaviors of an entire population, using strategies of confusion, dependency, and information control to psychologically subjugate large groups.<br><br><br>
 <p align="center">
-  <img width="300" height="700" src="./Documents/biderman.jpg"><br>
-  <i>Biderman’s Chart of Coercion, tiré de humanrights.ucdavis.edu, Guantánamo Testimonials Project</i>
+  <img width="300" height="700" src="./Documents/biderman.jpg"><br><br>
+  <i><b></b>Biderman’s Chart of Coercion, tiré de humanrights.ucdavis.edu,<br></b>Guantánamo Testimonials Project</i>
 </p>
 <br>
 
