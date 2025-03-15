@@ -24,11 +24,11 @@
      <p align="center">
         <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
     </p><br>
-    <h3>Exemple d'attaque militaire cyber en utilisant des sock puppets :</h3>
+    <h3>Exemple d'attaque militaire cyber utilisant des sock puppets :</h3>
 <ul>
         <li><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a><br><br></li>
 </ul>
-    <h3>Exemple d'attaques militaires historiques en utilisant de faux acteurs :</h3>
+    <h3>Exemple d'attaques militaires historiques utilisant de faux acteurs :</h3>
 <ul>
     <li><strong>Incident de Mukden :</strong> En 1931, des officiers japonais ont orchestré une explosion sur la voie ferrée de Mukden, en Mandchourie, qu’ils ont attribuée à des saboteurs chinois. Cet incident a servi de prétexte à l’invasion japonaise de la Mandchourie, marquant le début d’une occupation qui a duré jusqu’en 1945.<br><br></li>
     <li><strong>Affaire du Reichstag :</strong> En 1933, l’incendie du Reichstag à Berlin a été attribué à un communiste, Marinus van der Lubbe, mais de nombreux historiens soupçonnent une mise en scène nazie. Cet événement a permis à Hitler de suspendre les libertés civiles et de consolider son pouvoir en accusant les communistes.<br><br></li>
