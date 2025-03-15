@@ -33,7 +33,7 @@
         <li>L’effet est psychologique autant que stratégique : l’adversaire, confronté à des informations trompeuses ou contradictoires, doute de ses propres jugements et perd sa capacité à agir efficacement.</li>
     </ul><br>
     <p align="center">
-        <img width="800" height="300" src="../Image/persona.jpg" alt="logiciel de sock puppets numériques"><br>Les sock puppets modernes s’appuient souvent sur l’automatisation pour amplifier leur impact.<br>
+        <img width="500" height="600" src="../Image/persona.jpg" alt="logiciel de sock puppets numériques"><br>Les sock puppets modernes s’appuient souvent sur l’automatisation pour amplifier leur impact.<br>
     </p><br>
     <h2>Comment le sock puppet se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, les sock puppets se présentent sous différentes formes, souvent discrètes mais détectables avec attention :</p><br>
