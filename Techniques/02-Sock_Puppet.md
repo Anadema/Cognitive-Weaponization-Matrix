@@ -26,13 +26,14 @@
     </ul>    
     <h3>Exemple historique :</h3>
     <ul>
-        <li>En 2011, l’opération <strong>Earnest Voice</strong> menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions.</li>
+        <li>En 2011, l’opération <strong><a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice#cite_note-:0-1">Earnest Voice</a></strong> menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions.</li>
     </ul>    
     <h3>Effet recherché :</h3>
     <ul>
         <li>L’effet est psychologique autant que stratégique : l’adversaire, confronté à des informations trompeuses ou contradictoires, doute de ses propres jugements et perd sa capacité à agir efficacement.</li>
     </ul><br>
     <p align="center">
+        <strong><a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice#cite_note-:0-1">opération Earnest Voice</a></strong>
         <img width="500" height="600" src="../Image/Persona.jpg" alt="logiciel de sock puppets numériques"><br><a href="https://web.archive.org/web/20110222010732/https://www.fbo.gov/index?s=opportunity&mode=form&id=d88e9d660336be91552fe8c1a51bacb2&tab=core&_cview=1">Source : Wayback machine - www.fbo.com</a><br> Les sock puppets modernes s’appuient souvent sur l’automatisation pour amplifier leur impact.<br>
     </p><br>
     <h2>Comment le sock puppet se manifeste-t-il en ligne ?</h2><br>
