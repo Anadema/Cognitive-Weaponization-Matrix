@@ -117,6 +117,12 @@
             <td>En 1962, un plan américain (non exécuté) proposait des attaques simulées pour justifier une intervention à Cuba. <a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Northwoods" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
+            <td><strong>Operation Earnest Voice</strong></td>
+            <td>Moyen Orient</td>
+            <td>2011</td>
+            <td>En 2011, les États-Unis ont utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a></td>
+        </tr>
+        <tr>
             <td><strong>Missile de Przewodów</strong></td>
             <td>Guerre en Ukraine</td>
             <td>2022</td>
