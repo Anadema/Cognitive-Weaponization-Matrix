@@ -25,13 +25,10 @@
         <li><strong>Automatisation via bots :</strong> Utilisation de programmes pour gérer des dizaines, voire des centaines de comptes marionnettes.</li>
     </ul>    
     <h3>Exemple historique :</h3>
-    <ul>
         <p><strong>Incident de Gleiwitz :</strong> En 1939, dans le cadre de la Seconde Guerre mondiale, l’Allemagne nazie a orchestré l’incident de Gleiwitz, une fausse attaque simulée par des agents déguisés en Polonais contre une station de radio allemande. Cette mise en scène a servi de prétexte pour justifier l’invasion de la Pologne le lendemain.</p>
     <p><strong>Golfe du Tonkin :</strong> En 1964, lors de la guerre du Vietnam, les États-Unis ont rapporté des attaques prétendument menées par le Vietnam du Nord contre des navires américains dans le golfe du Tonkin. Bien que les faits soient douteux et largement contestés depuis, cet événement a été utilisé pour légitimer une escalade militaire majeure dans la région.</
     <p><strong>Guerre en Irak :</strong> En 2003, avant le déclenchement de la guerre en Irak, les États-Unis et leurs alliés ont affirmé détenir des preuves de l’existence d’armes de destruction massive (ADM) en Irak. Ces allégations, révélées fausses par la suite, ont servi de justification principale pour lancer l’invasion du pays.</p>
-    <p><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions.</p>
-
-    </ul>    
+    <p><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions.</p><br><br>
     <h3>Effet recherché :</h3>
     <ul>
         <li>L’effet est psychologique autant que stratégique : l’adversaire, confronté à des informations trompeuses ou contradictoires, doute de ses propres jugements et perd sa capacité à agir efficacement.</li>
