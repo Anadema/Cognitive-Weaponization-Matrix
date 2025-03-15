@@ -20,7 +20,7 @@
         <li><strong>Amplification de messages :</strong> Publication répétée de contenu pour donner l’illusion d’une popularité ou d’une urgence.</li>
         <li><strong>Désinformation ciblée :</strong> Propagation de fausses nouvelles pour embrouiller ou diviser une audience.</li>
         <li><strong>Automatisation via bots :</strong> Utilisation de programmes pour gérer des dizaines, voire des centaines de comptes marionnettes.</li>
-    </ul>    
+    </ul><br>    
      <p align="center">
         <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
     </p><br>
