@@ -79,25 +79,25 @@
             <th>Description</th>
         </tr>
         <tr>
-            <td>Incident de Gleiwitz</td>
+            <td><a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Himmler">Incident de Gleiwitz</a></td>
             <td>Seconde Guerre mondiale</td>
             <td>1939</td>
             <td>Fausse attaque pour justifier l’invasion polonaise.</td>
         </tr>
         <tr>
-            <td>Golfe du Tonkin</td>
+            <td><a href="https://fr.wikipedia.org/wiki/Incidents_du_golfe_du_Tonkin">Golfe du Tonkin</a></td>
             <td>Guerre du Vietnam</td>
             <td>1964</td>
             <td>Attaques douteuses pour escalade militaire.</td>
         </tr>
         <tr>
-            <td>Guerre en Irak</td>
+            <td><a href="https://fr.wikipedia.org/wiki/Armes_de_destruction_massive_en_Irak">Guerre en Irak</a></td>
             <td>Guerre en Irak</td>
             <td>2003</td>
             <td>Fausse preuve d’ADM pour invasion.</td>
         </tr>
         <tr>
-            <td>Opération Earnest Voice</td>
+            <td><a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice">Opération Earnest Voice</a></td>
             <td>Contre-propagande US</td>
             <td>2011</td>
             <td>10 identités en ligne pour influencer le Moyen-Orient.</td>
