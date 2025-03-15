@@ -77,36 +77,66 @@
     <p>Identifier les sock puppets est crucial pour contrer leurs effets néfastes : désinformation, manipulation de l’opinion publique, division sociale ou harcèlement ciblé. Leur discrétion leur permet d’agir longtemps sans être détectés, exploitant les réseaux sociaux et forums pour semer le doute à grande échelle. En apprenant à les repérer et à s’en protéger, vous pouvez préserver votre autonomie et contribuer à un internet plus fiable.</p><br>
     <p>Les sock puppets ne sont pas une fatalité. Avec vigilance et réflexes simples, vous pouvez vous défendre contre ces marionnettes numériques et protéger votre réalité.</p><br><br>
     <h2>Tableau Récapitulatif des Exemples Historiques et Modernes</h2><br>
-    <table>
+       <table>
         <tr>
-            <th>Exemple</th>
+            <th>Événement</th>
             <th>Contexte</th>
             <th>Date</th>
             <th>Description</th>
         </tr>
         <tr>
-            <td><a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Himmler">Incident de Gleiwitz</a></td>
+            <td><strong>Incident de Gleiwitz</strong></td>
             <td>Seconde Guerre mondiale</td>
             <td>1939</td>
-            <td>Fausse attaque pour justifier l’invasion polonaise.</td>
+            <td>En 1939, l’Allemagne nazie a orchestré une fausse attaque par des agents déguisés en Polonais contre une station de radio allemande. Cette mise en scène a justifié l’invasion de la Pologne. <a href="https://fr.wikipedia.org/wiki/Incident_de_Gleiwitz" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
-            <td><a href="https://fr.wikipedia.org/wiki/Incidents_du_golfe_du_Tonkin">Golfe du Tonkin</a></td>
+            <td><strong>Golfe du Tonkin</strong></td>
             <td>Guerre du Vietnam</td>
             <td>1964</td>
-            <td>Attaques douteuses pour escalade militaire.</td>
+            <td>En 1964, les États-Unis ont rapporté des attaques douteuses par le Vietnam du Nord, utilisées pour légitimer une escalade militaire. <a href="https://fr.wikipedia.org/wiki/Incident_du_golfe_du_Tonkin" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
-            <td><a href="https://fr.wikipedia.org/wiki/Armes_de_destruction_massive_en_Irak">Guerre en Irak</a></td>
+            <td><strong>Guerre en Irak</strong></td>
             <td>Guerre en Irak</td>
             <td>2003</td>
-            <td>Fausse preuve d’ADM pour invasion.</td>
+            <td>En 2003, les États-Unis ont invoqué de fausses preuves d’armes de destruction massive pour justifier l’invasion de l’Irak. <a href="https://fr.wikipedia.org/wiki/Guerre_d%27Irak" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
-            <td><a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice">Opération Earnest Voice</a></td>
+            <td><strong>Opération Earnest Voice</strong></td>
             <td>Contre-propagande US</td>
             <td>2011</td>
-            <td>10 identités en ligne pour influencer le Moyen-Orient.</td>
+            <td>En 2011, les États-Unis ont utilisé des identités fictives en ligne pour diffuser des messages pro-occidentaux au Moyen-Orient. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a></td>
+        </tr>
+        <tr>
+            <td><strong>Incident de Mukden</strong></td>
+            <td>Expansion japonaise</td>
+            <td>1931</td>
+            <td>En 1931, le Japon a simulé une attaque chinoise sur une voie ferrée pour justifier l’invasion de la Mandchourie. <a href="https://fr.wikipedia.org/wiki/Incident_de_Mukden" target="_blank">En savoir plus</a></td>
+        </tr>
+        <tr>
+            <td><strong>Affaire du Reichstag</strong></td>
+            <td>Rise du nazisme</td>
+            <td>1933</td>
+            <td>En 1933, l’incendie du Reichstag, attribué à un communiste, pourrait avoir été une mise en scène nazie pour consolider le pouvoir. <a href="https://fr.wikipedia.org/wiki/Incendie_du_Reichstag" target="_blank">En savoir plus</a></td>
+        </tr>
+        <tr>
+            <td><strong>Opération Northwoods</strong></td>
+            <td>Guerre froide</td>
+            <td>1962</td>
+            <td>En 1962, un plan américain (non exécuté) proposait des attaques simulées pour justifier une intervention à Cuba. <a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Northwoods" target="_blank">En savoir plus</a></td>
+        </tr>
+        <tr>
+            <td><strong>Attaque de Mainila</strong></td>
+            <td>Guerre d’Hiver</td>
+            <td>1939</td>
+            <td>En 1939, l’URSS a bombardé son propre territoire et accusé la Finlande pour lancer la guerre d’Hiver. <a href="https://fr.wikipedia.org/wiki/Incident_de_Mainila" target="_blank">En savoir plus</a></td>
+        </tr>
+        <tr>
+            <td><strong>Missile de Przewodów</strong></td>
+            <td>Guerre en Ukraine</td>
+            <td>2022</td>
+            <td>En 2022, un missile ukrainien a frappé la Pologne par erreur; l’Ukraine a d’abord accusé la Russie avant que la vérité n’émerge. <a href="https://en.wikipedia.org/wiki/2022_missile_explosion_in_Poland" target="_blank">En savoir plus</a></td>
         </tr>
     </table><br><br>
 </body>
