@@ -55,8 +55,8 @@
         <li><strong>Empreintes techniques :</strong> Signatures comme une même adresse IP ou des fuseaux horaires incohérents.</li>
     </ul><br><br>
     <p align="center">
-        <img width="500" height="400" src="../Image/fng.jpg" alt="Détection d’un sock puppet"><br><br>
-    </p><br><a href="https://www.fakenamegenerator.com/gen-male-fr-fr.php">Generateur de faux compte</a>
+        <img width="500" height="400" src="../Image/fng.jpg" alt="Détection d’un sock puppet"><br><br><a href="https://www.fakenamegenerator.com/gen-male-fr-fr.php">Generateur de faux compte</a>
+    </p><br>
     <h2>Comment se protéger du sock puppet en ligne ?</h2><br>
     <p>Pour limiter l’impact des sock puppets, voici des stratégies pratiques :</p><br>
     <ul>
