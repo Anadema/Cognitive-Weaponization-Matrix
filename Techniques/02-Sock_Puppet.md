@@ -12,9 +12,6 @@
     <h1>Le Sock Puppet sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le sock puppet ?</h2><br>
     <p>Un sock puppet, ou compte marionnette, est une fausse identité en ligne créée pour manipuler des discussions, influencer l’opinion publique ou contourner des restrictions. Ces comptes fictifs, souvent utilisés comme extensions d’un individu ou d’un groupe, visent à amplifier une idée, discréditer une cible ou simuler un soutien inexistant. Présents sur les réseaux sociaux, forums et plateformes collaboratives, ils prospèrent grâce à l’anonymat et à la facilité de création de profils, faussant ainsi les débats publics.</p><br><br>
-    <p align="center">
-        <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
-    </p><br>
     <h2>Qu’est-ce que la ruse en contexte militaire et son lien avec les sock puppets ?</h2>
     <p>Dans le domaine militaire, la <strong>ruse</strong> désigne l’emploi de stratagèmes ingénieux visant à tromper l’adversaire pour obtenir un avantage stratégique. Nicolas Machiavel, dans <em>Le Prince</em>, affirmait que "la guerre est l’art de tromper", mettant en lumière l’importance de la tromperie pour déstabiliser l’ennemi et le pousser à l’erreur. Historiquement, les tactiques de ruse incluaient l’usage de leurres, de fausses informations ou de manœuvres ambiguës. À l’ère numérique, les <strong>sock puppets</strong> représentent une évolution moderne de cette pratique. En créant des identités fictives en ligne, ils sèment la confusion et manipulent les perceptions à grande échelle, noyant la vérité sous un flot de récits contradictoires ou trompeurs.</p>    
     <h3>Techniques utilisées :</h3>
@@ -24,6 +21,9 @@
         <li><strong>Désinformation ciblée :</strong> Propagation de fausses nouvelles pour embrouiller ou diviser une audience.</li>
         <li><strong>Automatisation via bots :</strong> Utilisation de programmes pour gérer des dizaines, voire des centaines de comptes marionnettes.</li>
     </ul>    
+     <p align="center">
+        <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
+    </p><br>
     <h3>Exemple historique :</h3>
 <ul>
         <li><strong>Incident de Gleiwitz :</strong> En 1939, dans le cadre de la Seconde Guerre mondiale, l’Allemagne nazie a orchestré l’incident de Gleiwitz, une fausse attaque simulée par des agents déguisés en Polonais contre une station de radio allemande. Cette mise en scène a servi de prétexte pour justifier l’invasion de la Pologne le lendemain.<br><br></li>
