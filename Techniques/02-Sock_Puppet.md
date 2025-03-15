@@ -11,7 +11,7 @@
     </p><br>
     <h1>Le Sock Puppet sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le sock puppet ?</h2><br>
-    <p>Un sock puppet, ou compte marionnette, est une fausse identité en ligne créée pour manipuler des discussions, influencer l’opinion publique ou contourner des restrictions. Ces comptes fictifs, souvent utilisés comme extensions d’un individu ou d’un groupe, visent à amplifier une idée, discréditer une cible ou simuler un soutien inexistant. Présents sur les réseaux sociaux, forums et plateformes collaboratives, ils prospèrent grâce à l’anonymat et à la facilité de création de profils, faussant ainsi les débats publics.</p><br>
+    <p>Un sock puppet, ou compte marionnette, est une fausse identité en ligne créée pour manipuler des discussions, influencer l’opinion publique ou contourner des restrictions. Ces comptes fictifs, souvent utilisés comme extensions d’un individu ou d’un groupe, visent à amplifier une idée, discréditer une cible ou simuler un soutien inexistant. Présents sur les réseaux sociaux, forums et plateformes collaboratives, ils prospèrent grâce à l’anonymat et à la facilité de création de profils, faussant ainsi les débats publics.</p><br><br>
     <p align="center">
         <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
     </p><br>
