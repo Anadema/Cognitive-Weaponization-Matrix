@@ -7,7 +7,7 @@
 <body>
     <br>
     <p align="center">
-        <img width="500" height="400" src="../Image/sockpuppet1.jpg" alt="Illustration d'un sock puppet"><br><br>
+        <img width="500" height="400" src="../Image/meme2.jpg" alt="Illustration d'un sock puppet"><br><br>
     </p><br>
     <h1>Le Sock Puppet sur Internet : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le sock puppet ?</h2><br>
