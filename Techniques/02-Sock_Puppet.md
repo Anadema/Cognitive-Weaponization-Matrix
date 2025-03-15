@@ -75,7 +75,6 @@
     </ul><br><br>
     <h2>Pourquoi c’est important de reconnaître le sock puppet en ligne ?</h2><br>
     <p>Identifier les sock puppets est crucial pour contrer leurs effets néfastes : désinformation, manipulation de l’opinion publique, division sociale ou harcèlement ciblé. Leur discrétion leur permet d’agir longtemps sans être détectés, exploitant les réseaux sociaux et forums pour semer le doute à grande échelle. En apprenant à les repérer et à s’en protéger, vous pouvez préserver votre autonomie et contribuer à un internet plus fiable.</p><br>
-    <p>Les sock puppets ne sont pas une fatalité. Avec vigilance et réflexes simples, vous pouvez vous défendre contre ces marionnettes numériques et protéger votre réalité.</p><br><br>
     <h2>Tableau Récapitulatif des Exemples Historiques et Modernes</h2><br>
        <table>
         <tr>
@@ -89,18 +88,6 @@
             <td>Seconde Guerre mondiale</td>
             <td>1939</td>
             <td>En 1939, l’Allemagne nazie a orchestré une fausse attaque par des agents déguisés en Polonais contre une station de radio allemande. Cette mise en scène a justifié l’invasion de la Pologne. <a href="https://fr.wikipedia.org/wiki/Incident_de_Gleiwitz" target="_blank">En savoir plus</a></td>
-        </tr>
-        <tr>
-            <td><strong>Golfe du Tonkin</strong></td>
-            <td>Guerre du Vietnam</td>
-            <td>1964</td>
-            <td>En 1964, les États-Unis ont rapporté des attaques douteuses par le Vietnam du Nord, utilisées pour légitimer une escalade militaire. <a href="https://fr.wikipedia.org/wiki/Incident_du_golfe_du_Tonkin" target="_blank">En savoir plus</a></td>
-        </tr>
-        <tr>
-            <td><strong>Guerre en Irak</strong></td>
-            <td>Guerre en Irak</td>
-            <td>2003</td>
-            <td>En 2003, les États-Unis ont invoqué de fausses preuves d’armes de destruction massive pour justifier l’invasion de l’Irak. <a href="https://fr.wikipedia.org/wiki/Guerre_d%27Irak" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
             <td><strong>Opération Earnest Voice</strong></td>
