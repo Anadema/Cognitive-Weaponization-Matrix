@@ -91,7 +91,7 @@
         </tr>
         <tr>
             <td><strong>Affaire du Reichstag</strong></td>
-            <td>Rise du nazisme</td>
+            <td>Montée du nazisme</td>
             <td>1933</td>
             <td>En 1933, l’incendie du Reichstag, attribué à un communiste, pourrait avoir été une mise en scène nazie pour consolider le pouvoir. <a href="https://fr.wikipedia.org/wiki/Incendie_du_Reichstag" target="_blank">En savoir plus</a></td>
         </tr>
