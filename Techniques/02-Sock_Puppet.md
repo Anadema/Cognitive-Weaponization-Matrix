@@ -24,13 +24,16 @@
      <p align="center">
         <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
     </p><br>
-    <h3>Exemple historique :</h3>
+    <h3>Exemple militaire d'attaque cyber en utilisant des sock puppets :</h3>
+<ul>
+        <li><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a><br><br></li>
+</ul><br>
+    <h3>Exemple militaire d'attaque en utilisant de faux acteurs :</h3>
 <ul>
     <li><strong>Incident de Mukden :</strong> En 1931, des officiers japonais ont orchestré une explosion sur la voie ferrée de Mukden, en Mandchourie, qu’ils ont attribuée à des saboteurs chinois. Cet incident a servi de prétexte à l’invasion japonaise de la Mandchourie, marquant le début d’une occupation qui a duré jusqu’en 1945.<br><br></li>
     <li><strong>Affaire du Reichstag :</strong> En 1933, l’incendie du Reichstag à Berlin a été attribué à un communiste, Marinus van der Lubbe, mais de nombreux historiens soupçonnent une mise en scène nazie. Cet événement a permis à Hitler de suspendre les libertés civiles et de consolider son pouvoir en accusant les communistes.<br><br></li>
     <li><strong>Incident de Gleiwitz :</strong> En 1939, dans le cadre de la Seconde Guerre mondiale, l’Allemagne nazie a orchestré l’incident de Gleiwitz, une fausse attaque simulée par des agents déguisés en Polonais contre une station de radio allemande. Cette mise en scène a servi de prétexte pour justifier l’invasion de la Pologne le lendemain.<br><br></li>
     <li><strong>Attaque de Mainila :</strong> En 1939, l’Union soviétique a bombardé le village de Mainila, près de la frontière finlandaise, et a accusé la Finlande d’en être responsable. Cette provocation a servi de prétexte pour lancer la guerre d’Hiver contre la Finlande quelques jours plus tard.<br><br></li>
-    <li><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions.<br><br></li>
     <li><strong>Opération Northwoods :</strong> En 1962, des responsables militaires américains ont proposé, sans succès, une série d’attaques simulées contre des cibles américaines, à attribuer à Cuba. Ce plan, rejeté par le président Kennedy, visait à justifier une intervention militaire contre le régime de Fidel Castro.<br><br></li>
     <li><strong>Missile de Przewodów (Pologne) :</strong> Le 15 novembre 2022, lors de la guerre en Ukraine, un missile a frappé le village polonais de Przewodów, tuant deux personnes. L’Ukraine a initialement accusé la Russie d’avoir lancé cette attaque, qualifiant cela d’escalade majeure, mais les enquêtes ont révélé qu’il s’agissait d’un missile S-300 de défense aérienne ukrainien, tiré par erreur pour intercepter une attaque russe.<br><br></li>
 </ul>
@@ -112,12 +115,6 @@
             <td>Guerre froide</td>
             <td>1962</td>
             <td>En 1962, un plan américain (non exécuté) proposait des attaques simulées pour justifier une intervention à Cuba. <a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Northwoods" target="_blank">En savoir plus</a></td>
-        </tr>
-        <tr>
-            <td><strong>Opération Earnest Voice</strong></td>
-            <td>Contre-propagande US</td>
-            <td>2011</td>
-            <td>En 2011, les États-Unis ont utilisé des identités fictives en ligne pour diffuser des messages pro-occidentaux au Moyen-Orient. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
             <td><strong>Missile de Przewodów</strong></td>
