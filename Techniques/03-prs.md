@@ -35,7 +35,7 @@
     <h3>Le Spectaculaire Intégré selon Debord</h3>
     <p>Dans ses <em>Commentaires sur la société du spectacle</em> (1988), Guy Debord analyse le "spectaculaire intégré" comme un outil de domination fonctionnant sur l’urgence. Selon la thèse 111, ce système génère des crises qu’il résout lui-même, occultant ainsi les contradictions fondamentales de la société. Ce mécanisme rappelle le modèle "problème-réaction-solution" : les médias exacerbent une menace, provoquent une réaction, puis légitiment des solutions qui préservent l’ordre établi, éloignant toute critique réelle des inégalités et de l’aliénation.</p><br>
     <p align="center">
-       <img width="200" height="400" src="../Image/debord.png" alt="Debord"><br><a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)">Lien Wikipédia</a><br>
+       <img width="300" height="400" src="../Image/debord.png" alt="Debord"><br><a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)">Lien Wikipédia</a><br>
     </p>    
     <br>
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
