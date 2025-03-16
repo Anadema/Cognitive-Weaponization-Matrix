@@ -44,7 +44,7 @@
     <p align="center">"Le spectaculaire intégré a appris à fonctionner selon la logique de l’urgence, en créant des crises qu’il résout lui-même, pour mieux masquer les véritables contradictions."<br><i>Guy Debord</i></p>  
     <br>
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
-    <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p>
+    <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des solutions. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p>
     <ul>
         <li><strong>Diffusion de fausses informations</strong> : Rumeurs sur des cyberattaques imminentes.</li>
         <li><strong>Exploitation d’événements</strong> : Amplification d’attaques comme SolarWinds ou WannaCry.</li>
