@@ -234,7 +234,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 <br>
 
-# Etude sur les médias de masse (Noam Chomsky - PhD, Linguistique, États-Unis, 2010)
+# Etude sur les médias de masse - Noam Chomsky
 <br>
 Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, a cherché à révéler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister.
 <br><br>
@@ -247,7 +247,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
 
 <br>
 
-## Tableau inspiré des travaux de Noam Chomsky
+## Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010
 <br>
 
 <table border="1">
