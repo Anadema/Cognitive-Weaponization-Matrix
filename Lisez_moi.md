@@ -19,7 +19,7 @@
 - [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
   - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
   - [Références](#references-1)
-- [Étude sur les médias de masse - Noam Chomsky](#étude-sur-les-médias-de-masse---noam-chomsky)
+- [Etude sur les médias de masse - Noam Chomsky](#etude-sur-les-médias-de-masse---noam-chomsky)
   - [Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010](#tableau-inspiré-des-travaux-de-noam-chomsky---phd-linguistique-états-unis-2010)
 - [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
