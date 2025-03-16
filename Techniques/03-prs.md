@@ -5,10 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <br>
-    <p align="center">
-        <br><br>
-    </p><br>
     <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce qu’un problème réaction solution ?</h2><br>
     <p>Le <strong>PRS</strong> est une stratégie où un problème est créé ou amplifié pour provoquer une réaction émotionnelle forte (peur, indignation, panique) dans une population. Cette réaction est exploitée pour faire accepter une <em>solution prédéterminée</em>, souvent au profit des manipulateurs. Selon Noam Chomsky, cette tactique impose des mesures impopulaires via une crise. Il écrit : <strong>"Pour faire accepter une mesure inacceptable, il suffit de l’appliquer progressivement, en « dégradé », sur une durée de 10 ans."</strong> (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>)</p><br><br>
