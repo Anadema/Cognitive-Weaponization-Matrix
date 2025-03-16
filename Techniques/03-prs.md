@@ -7,7 +7,7 @@
 <body>
     <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce qu’un problème réaction solution ?</h2><br>
-    <p>Le <strong>PRS</strong> est une stratégie où un problème est créé ou amplifié pour provoquer une réaction émotionnelle forte (peur, indignation, panique) dans une population. Cette réaction est exploitée pour faire accepter une <em>solution prédéterminée</em>, souvent au profit des manipulateurs. Selon Noam Chomsky, cette tactique impose des mesures impopulaires via une crise. Il écrit : <strong>"Pour faire accepter une mesure inacceptable, il suffit de l’appliquer progressivement, en « dégradé », sur une durée de 10 ans."</strong> (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>)</p><br><br>
+    <p>Le <strong>PRS</strong> est une stratégie où un problème est créé ou amplifié pour provoquer une réaction émotionnelle forte (peur, indignation, panique) dans une population. Cette réaction est exploitée pour faire accepter une <em>solution prédéterminée</em>, souvent au profit des manipulateurs. Selon Noam Chomsky : <strong>"Pour faire accepter une mesure inacceptable, il suffit de l’appliquer progressivement, en « dégradé », sur une durée de 10 ans."</strong></p><br><br>
     <h2>Comment cette technique s’est-elle manifestée dans l’histoire ?</h2>
     <p>Le PRS a été utilisé dans des contextes historiques, notamment militaires et informationnels, pour légitimer des actions comme des guerres ou des réformes.</p>    
     <h3>Exemples historiques et modernes</h3>
@@ -34,12 +34,8 @@
     </ul>
     <h3>Le PRS selon Chomsky</h3>
     <ul><br>
-        <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
+        <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation.</li>
     </ul><br>
-     <p align="center">
-  <img width="250" height="320" src="../Image/Chomsky.jpg"><br>
-  <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf">Source of this picture</a>
-</p><br>
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
     <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p><br>
     <ul>
@@ -67,7 +63,7 @@
         <li><strong>Questionnez les intentions</strong> : Qui profite des réformes ou, dans le cas d’un ransomware, de la rançon ?</li>
         <li><strong>Restez critique</strong> : Analysez les contenus émotionnels.</li>
         <li><strong>Évitez la peur</strong> : La panique est un levier clé.</li>
-        <li><strong>Informez-vous</strong> : Lisez Chomsky pour comprendre (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
+        <li><strong>Etudiez-vous</strong> : Etudiez ce qui déclenche de l'émotion chez vous.</li>
     </ul><br><br>
     <h2>Pourquoi c’est important de reconnaître le PRS en ligne ?</h2><br>
     <p>Identifier le PRS est crucial à l’ère numérique, où la peur peut mener à des lois restrictives ou des centralisations de pouvoir. Un esprit critique protège votre liberté de pensée.</p><br>
