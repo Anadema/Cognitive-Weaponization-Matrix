@@ -24,18 +24,21 @@
      <p align="center">
         <img width="500" height="400" src="../Image/meme2.jpg" alt="Sock puppet en action"><br><br>
     </p><br>
-    <h3>Exemple d'attaque militaire cyber utilisant des sock puppets :</h3>
+    <h3>Exemple d'attaque cyber utilisant des sock puppets :</h3>
 <ul>
-        <li><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a><br><br></li>
-<li><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a><br><br></li>
+        <li><strong>Opération Earnest Voice :</strong> En 2011, l’opération Earnest Voice menée par les États-Unis a utilisé des sock puppets numériques pour contrer la propagande en ligne au Moyen-Orient. Chaque opérateur gérait jusqu’à dix identités fictives, diffusant des messages pro-occidentaux pour influencer les perceptions. <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice" target="_blank">En savoir plus</a><br>
+        <img width="500" height="550" src="../Image/Persona.jpg" alt="logiciel de sock puppets numériques"><br><br> <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice#cite_note-:0-1">Opération Earnest Voice</a><br><a href="https://web.archive.org/web/20110222010732/https://www.fbo.gov/index?s=opportunity&mode=form&id=d88e9d660336be91552fe8c1a51bacb2&tab=core&_cview=1">Source : Wayback machine - www.fbo.com</a><br> Les sock puppets modernes s’appuient souvent sur l’automatisation pour amplifier leur impact.<br>
+        </li>
+        <li><strong>Ferme à clics en Thaïlande (2017) :</strong> En 2017, les autorités thaïlandaises ont démantelé une ferme à clics à Chiang Rai, près de la frontière avec le Myanmar. Des centaines de téléphones connectés à des serveurs généraient des "likes" et vues sur WeChat pour promouvoir des produits chinois. Trois ressortissants chinois ont été arrêtés pour des infractions administratives. Cela montre une utilisation commerciale des sock puppets, contrastant avec l’approche idéologique d’Earnest Voice.<br>
+        <img width="500" height="550" src="../Image/Persona.jpg" alt="logiciel de sock puppets numériques"><br><br> <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice#cite_note-:0-1">Opération Earnest Voice</a><br><a href="https://web.archive.org/web/20110222010732/https://www.fbo.gov/index?s=opportunity&mode=form&id=d88e9d660336be91552fe8c1a51bacb2&tab=core&_cview=1">Source : Wayback machine - www.fbo.com</a><br> Les sock puppets modernes s’appuient souvent sur l’automatisation pour amplifier leur impact.<br>
+        </li>
+        <li><strong>Attaque de bots ukrainienne (2022) :</strong> En 2022, des hackers ukrainiens ont déployé des botnets pour contrer la désinformation pro-Kremlin et amplifier des messages pro-ukrainiens en Europe occidentale (Allemagne, France) via Twitter et Telegram. Cette initiative, ancrée dans une guerre informationnelle, utilise des sock puppets automatisés, similaire à Earnest Voice mais hors du narratif occidental classique.    
+        </li>
 </ul>
     <h3>Effet recherché :</h3>
     <ul>
         <li>L’effet est psychologique autant que stratégique : l’adversaire, confronté à des informations trompeuses ou contradictoires, doute de ses propres jugements et perd sa capacité à agir efficacement.</li>
     </ul><br> 
-    <p align="center">
-        <img width="500" height="550" src="../Image/Persona.jpg" alt="logiciel de sock puppets numériques"><br><br> <a href="https://en.wikipedia.org/wiki/Operation_Earnest_Voice#cite_note-:0-1">Opération Earnest Voice</a><br><a href="https://web.archive.org/web/20110222010732/https://www.fbo.gov/index?s=opportunity&mode=form&id=d88e9d660336be91552fe8c1a51bacb2&tab=core&_cview=1">Source : Wayback machine - www.fbo.com</a><br> Les sock puppets modernes s’appuient souvent sur l’automatisation pour amplifier leur impact.<br>
-    </p><br>
     <h2>Comment le sock puppet se manifeste-t-il en ligne ?</h2><br>
     <p>Sur internet, les sock puppets se présentent sous différentes formes, souvent discrètes mais détectables avec attention :</p><br>
     <ul>
