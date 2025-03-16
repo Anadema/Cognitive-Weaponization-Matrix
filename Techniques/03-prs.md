@@ -31,7 +31,7 @@
         <li><strong>Solution imposée</strong>  
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
-    </ul><br
+    </ul><br>
     <p align="center">
   <img width="250" height="320" src="../Image/Chomsky.jpg"><br>
   <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf">Source of this picture</a>
