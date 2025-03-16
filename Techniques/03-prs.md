@@ -109,13 +109,13 @@
             <td><strong>WannaCry</strong></td>
             <td>Guerre informationnelle</td>
             <td>2017</td>
-            <td>Un ransomware nord-coréen a semé la peur, menant à des réformes en cybersécurité, avec la rançon comme solution imposée. <a href="https://www.ncsc.gov.uk/news/wannacry-5-years-on" target="_blank">En savoir plus</a></td>
+            <td>Un ransomware nord-coréen a semé la peur, menant à des réformes en cybersécurité, avec la rançon comme solution imposée. <a href="https://fr.wikipedia.org/wiki/WannaCry" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
             <td><strong>SolarWinds</strong></td>
             <td>Guerre informationnelle</td>
             <td>2020</td>
-            <td>Une attaque russe a conduit à un ordre exécutif US pour la cybersécurité. <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/" target="_blank">En savoir plus</a></td>
+            <td>Une attaque russe a conduit à un ordre exécutif US pour la cybersécurité. <a href="https://fr.wikipedia.org/wiki/Cyberattaque_de_2020_contre_les_%C3%89tats-Unis" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
             <td><strong>Missile de Przewodów</strong></td>
