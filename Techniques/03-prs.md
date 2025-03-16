@@ -26,7 +26,7 @@
         <li><strong>Réaction émotionnelle</strong>
         <br>La population, paniquée par les coupures et les récits alarmistes, exige une réponse immédiate.<br><br>
         </l
-        <li><strong>Solution imposée</strong><br>    
+        <li><strong>Solution imposée</strong>  
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
     </ul><br>
