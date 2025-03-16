@@ -6,7 +6,7 @@
 </head>
 <body>
      <p align="center">
-       <img width="500" height="400" src="../Image/virus.jpg" alt="Wannacry"><br><a href="https://fr.wikipedia.org/wiki/WannaCry">Ransomware Wannacry</a><br>
+       <img width="400" height="300" src="../Image/virus.jpg" alt="Wannacry"><br>
     </p>    
     <br>
     <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
