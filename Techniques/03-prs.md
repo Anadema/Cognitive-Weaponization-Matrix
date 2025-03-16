@@ -16,7 +16,9 @@
         <li><strong>Incident de Gleiwitz (1939)</strong> : Les nazis ont orchestré une fausse attaque polonaise pour lancer la Seconde Guerre mondiale.</li>
         <li><strong>WannaCry (2017)</strong> : Une attaque ransomware attribuée à la Corée du Nord a amplifié la peur, menant à des réformes en cybersécurité, tout en suivant le schéma PRS où la rançon elle-même est la solution imposée.</li>
         <li><strong>SolarWinds (2020)</strong> : Une attaque attribuée à la Russie a exposé des failles US, accélérant des lois sécuritaires.</li>
-    </ul><br>    
+    </ul><br> <p align="center">
+       <img width="500" height="400" src="../Image/wan.png" alt="Wannacry"><br><a href="https://fr.wikipedia.org/wiki/WannaCry">Ransomware Wannacry</a><br>
+    </p><br>    
     <br>
     <h3>Le PRS en action : un scénario moderne</h3>
     <ul>
@@ -30,9 +32,6 @@
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
     </ul><br>
-    <p align="center">
-       <img width="500" height="400" src="../Image/wan.png" alt="Wannacry"><br><a href="https://fr.wikipedia.org/wiki/WannaCry">Ransomware Wannacry</a><br>
-    </p><br>
     <h3>Le PRS selon Chomsky</h3>
     <ul>
         <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
