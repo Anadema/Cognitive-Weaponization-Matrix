@@ -15,7 +15,7 @@
         <li><strong>Incident de Mukden (1931)</strong> : Le Japon a simulé une attaque pour justifier l’invasion de la Mandchourie.</li>
         <li><strong>Incident de Gleiwitz (1939)</strong> : Les nazis ont orchestré une fausse attaque polonaise pour lancer la Seconde Guerre mondiale.</li>
         <li><strong>WannaCry (2017)</strong> : Une attaque ransomware attribuée à la Corée du Nord a amplifié la peur, menant à des réformes en cybersécurité.</li>
-        <li><strong>SolarWinds (2020)</strong> : Une attaque russe a exposé des failles US, accélérant des lois sécuritaires.</li>
+        <li><strong>SolarWinds (2020)</strong> : Une attaque attribuée à la Russie a exposé des failles US, accélérant des lois sécuritaires.</li>
     </ul><br>    
     <br>
     <h3>Le PRS en action : un scénario moderne</h3>
