@@ -18,7 +18,7 @@
         <li><strong>SolarWinds (2020)</strong> : Une attaque attribuée à la Russie a exposé des failles US, accélérant des lois sécuritaires.</li>
     </ul><br> <p align="center">
        <img width="500" height="400" src="../Image/wan.png" alt="Wannacry"><br><a href="https://fr.wikipedia.org/wiki/WannaCry">Ransomware Wannacry</a><br>
-    </p><br>    
+    </p>    
     <br>
     <h3>Le PRS en action : un scénario moderne</h3>
     <ul>
