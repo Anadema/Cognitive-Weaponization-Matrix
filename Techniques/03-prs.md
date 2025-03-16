@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+     <p align="center">
+       <img width="500" height="400" src="../Image/virus.jpg" alt="Wannacry"><br><a href="https://fr.wikipedia.org/wiki/WannaCry">Ransomware Wannacry</a><br>
+    </p>    
+    <br>
     <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce que le principe de problème réaction solution ?</h2><br>
     <p>Le <strong>PRS</strong> est une stratégie où un problème est créé ou amplifié pour provoquer une réaction émotionnelle forte (peur, indignation, panique) dans une population. Cette réaction est exploitée pour faire accepter une <em>solution prédéterminée</em>, souvent au profit des manipulateurs. Selon Noam Chomsky : <strong>"Pour faire accepter une mesure inacceptable, il suffit de l’appliquer progressivement, en « dégradé », sur une durée de 10 ans."</strong></p><br><br>
