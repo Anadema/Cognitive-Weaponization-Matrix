@@ -30,11 +30,9 @@
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
     </ul><br>
-    <video width="600" height="300" controls>
-                <source src="wannacry-explanation.mp4" type="video/mp4">
-                Votre navigateur ne supporte pas la vidéo. Voir sur YouTube : <a href="https://www.youtube.com/watch?v=LyErffRX0HM">lien</a>.
-            </video>
-    <br>
+    <p align="center">
+       <img width="500" height="400" src="../Image/wan.png" alt="Wannacry"><br><a href="https://fr.wikipedia.org/wiki/WannaCry">Ransomware Wannacry</a><br>
+    </p><br>
     <h3>Le PRS selon Chomsky</h3>
     <ul>
         <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
