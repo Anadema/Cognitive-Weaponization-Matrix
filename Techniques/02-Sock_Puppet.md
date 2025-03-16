@@ -34,7 +34,7 @@
         </li>
         <li><strong>Attaque de bots ukrainienne (2022) :</strong> En 2022, des hackers ukrainiens ont déployé des botnets pour contrer la désinformation pro-Kremlin et amplifier des messages pro-ukrainiens en Europe occidentale (Allemagne, France) via Twitter et Telegram. Cette initiative, ancrée dans une guerre informationnelle, utilise des sock puppets automatisés, similaire à Earnest Voice.    
         </li><br>
-    <p align="center"><img width="500" height="300" src="../Image/psyops2.jpg" alt="click farm"><br><br><a href="https://www.csis.org/blogs/strategic-technologies-blog/it-army-ukraine">Source : Ukraine IT Army</a><br><a href="https://www.globaltimes.cn/page/202203/1254050.shtml">Source : Chine block Russia-Ukraine Bots</p><br>
+    <p align="center"><img width="500" height="400" src="../Image/psyops2.jpg" alt="click farm"><br><br><a href="https://www.csis.org/blogs/strategic-technologies-blog/it-army-ukraine">Source : Ukraine IT Army</a><br><a href="https://www.globaltimes.cn/page/202203/1254050.shtml">Source : Chine block Russia-Ukraine Bots</p><br>
 </ul>
     <h3>Effet recherché :</h3>
     <ul>
