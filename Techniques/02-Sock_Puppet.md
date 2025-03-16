@@ -32,7 +32,7 @@
         <li><strong>Ferme à clics en Thaïlande (2017) :</strong> En 2017, les autorités thaïlandaises ont démantelé une ferme à clics à Chiang Rai, près de la frontière avec le Myanmar. Des centaines de téléphones connectés à des serveurs généraient des "likes" et vues sur WeChat pour promouvoir des produits chinois. Trois ressortissants chinois ont été arrêtés pour des infractions administratives. Cela montre une utilisation commerciale des sock puppets, contrastant avec l’approche idéologique d’Earnest Voice.<br>
         <p align="center"><img width="500" height="300" src="../Image/click_farm.jpg" alt="click farm"><br><br><a href="https://www.youtube.com/watch?v=LcLt2YGuUKo">Source : You tube Chinese click farm</a><br><a href="https://www.youtube.com/watch?v=LcLt2YGuUKo">Source : You tube tuto</a><br></p><br>
         </li>
-        <li><strong>Attaque de bots ukrainienne (2022) :</strong> En 2022, des hackers ukrainiens ont déployé des botnets pour contrer la désinformation pro-Kremlin et amplifier des messages pro-ukrainiens en Europe occidentale (Allemagne, France) via Twitter et Telegram. Cette initiative, ancrée dans une guerre informationnelle, utilise des sock puppets automatisés, similaire à Earnest Voice mais hors du narratif occidental classique.    
+        <li><strong>Attaque de bots ukrainienne (2022) :</strong> En 2022, des hackers ukrainiens ont déployé des botnets pour contrer la désinformation pro-Kremlin et amplifier des messages pro-ukrainiens en Europe occidentale (Allemagne, France) via Twitter et Telegram. Cette initiative, ancrée dans une guerre informationnelle, utilise des sock puppets automatisés, similaire à Earnest Voice.    
         </li>
 </ul>
     <h3>Effet recherché :</h3>
