@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Le Problème Réaction Solution sur Internet</title>
+    <title>Le Problème Réaction Solution [PRS]</title>
 </head>
 <body>
     <br>
     <p align="center">
         <br><br>
     </p><br>
-    <h1>Le Problème Réaction Solution sur Internet : Comprendre et Se Protéger</h1>
+    <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
     <h2>Qu’est-ce qu’un problème réaction solution ?</h2><br>
-    <p>Le <strong>"Problème Réaction Solution" (PRS)</strong> est une stratégie où un problème est créé ou amplifié pour provoquer une réaction émotionnelle forte (peur, indignation, panique) dans une population. Cette réaction est exploitée pour faire accepter une <em>solution prédéterminée</em>, souvent au profit des manipulateurs. Selon Noam Chomsky, cette tactique impose des mesures impopulaires via une crise. Il écrit : <strong>"Pour faire accepter une mesure inacceptable, il suffit de l’appliquer progressivement, en « dégradé », sur une durée de 10 ans."</strong> (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>)</p><br><br>
+    <p>Le <strong>PRS</strong> est une stratégie où un problème est créé ou amplifié pour provoquer une réaction émotionnelle forte (peur, indignation, panique) dans une population. Cette réaction est exploitée pour faire accepter une <em>solution prédéterminée</em>, souvent au profit des manipulateurs. Selon Noam Chomsky, cette tactique impose des mesures impopulaires via une crise. Il écrit : <strong>"Pour faire accepter une mesure inacceptable, il suffit de l’appliquer progressivement, en « dégradé », sur une durée de 10 ans."</strong> (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>)</p><br><br>
     <h2>Comment cette technique s’est-elle manifestée dans l’histoire ?</h2>
     <p>Le PRS a été utilisé dans des contextes historiques, notamment militaires et informationnels, pour légitimer des actions comme des guerres ou des réformes.</p>    
     <h3>Exemples historiques et modernes</h3>
