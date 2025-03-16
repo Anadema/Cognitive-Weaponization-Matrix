@@ -44,7 +44,7 @@
     <p align="center">"Le spectaculaire intégré a appris à fonctionner selon la logique de l’urgence, en créant des crises qu’il résout lui-même, pour mieux masquer les véritables contradictions."<br><i>Guy Debord</i></p>  
     <br>
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
-    <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p><br>
+    <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p>
     <ul>
         <li><strong>Diffusion de fausses informations</strong> : Rumeurs sur des cyberattaques imminentes.</li>
         <li><strong>Exploitation d’événements</strong> : Amplification d’attaques comme SolarWinds ou WannaCry.</li>
@@ -54,7 +54,7 @@
         <li><strong>Exemple</strong> : SolarWinds a conduit à un ordre exécutif US en 2021.</li>
     </ul><br><br>
     <h2>Exemples d’indices typiques pour détecter un PRS en ligne</h2><br>
-    <p>Repérer un PRS nécessite de prêter attention à ces signaux :</p><br>
+    <p>Repérer un PRS nécessite de prêter attention à ces signaux :</p>
     <ul>
         <li><strong>Émotions exacerbées</strong> : Titres alarmistes (ex. : "C’est la fin si rien n’est fait !").</li>
         <li><strong>Sources floues</strong> : Informations sans origine claire.</li>
@@ -63,7 +63,7 @@
         <li><strong>Répétition</strong> : Schéma similaire à WannaCry ou SolarWinds.</li>
     </ul><br><br>
     <h2>Comment se protéger du PRS en ligne ?</h2><br>
-    <p>Pour éviter d’être manipulé par la peur et les réformes imposées :</p><br>
+    <p>Pour éviter d’être manipulé par la peur et les réformes imposées :</p>
     <ul>
         <li><strong>Croisez les informations</strong> : Vérifiez via plusieurs sources.</li>
         <li><strong>Prenez du temps</strong> : Ne réagissez pas sous la panique.</li>
