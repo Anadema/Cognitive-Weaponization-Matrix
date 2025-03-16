@@ -20,13 +20,13 @@
     <br>
     <h3>Le PRS en action : un scénario moderne</h3>
     <ul>
-        <li><strong>Création d’un problème</strong><br><br>
+        <li><strong>Création d’un problème</strong><br>
         <br>Une cyberattaque paralyse un réseau électrique, attribuée sans preuves à un ennemi.<br>
         </li>
-        <li><strong>Réaction émotionnelle</strong><br><br>
+        <li><strong>Réaction émotionnelle</strong><br>
         <br>La population, paniquée par les coupures et les récits alarmistes, exige une réponse immédiate.<br>
         </l
-        <li><strong>Solution imposée</strong>    
+        <li><strong>Solution imposée</strong><br>    
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br>
         </li>
     </ul><br>
