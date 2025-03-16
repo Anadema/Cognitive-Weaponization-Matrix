@@ -32,14 +32,14 @@
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
     </ul><br>
-    <p align="center">
-  <img width="250" height="320" src="../Image/Chomsky.jpg"><br>
-  <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf">Source of this picture</a>
-</p><br>
     <h3>Le PRS selon Chomsky</h3>
     <ul><br>
         <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
-    </ul><br> 
+    </ul><br>
+     <p align="center">
+  <img width="250" height="320" src="../Image/Chomsky.jpg"><br>
+  <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf">Source of this picture</a>
+</p><br>
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
     <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p><br>
     <ul>
