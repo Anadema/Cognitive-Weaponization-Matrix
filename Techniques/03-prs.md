@@ -32,10 +32,7 @@
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
     </ul>
-    <h3>Le PRS selon Chomsky</h3>
-    <ul><br>
-        <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation.</li>
-    </ul><br>
+    <p>Dans ses <em>Commentaires sur la société du spectacle</em> (1988), Guy Debord analyse le "spectaculaire intégré" comme un outil de domination fonctionnant sur l’urgence. Selon la thèse 111, ce système génère des crises qu’il résout lui-même, occultant ainsi les contradictions fondamentales de la société. Ce mécanisme rappelle le modèle "problème-réaction-solution" : les médias exacerbent une menace, provoquent une réaction, puis légitiment des solutions qui préservent l’ordre établi, éloignant toute critique réelle des inégalités et de l’aliénation.</p><br>
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
     <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p><br>
     <ul>
