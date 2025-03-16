@@ -234,7 +234,7 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
 <br><br><br>
 
 
-# The 10 Strategies of Mass Manipulation
+# Study on the mass medias - PhD, Linguistics, United States, 2010
 <br>
 Noam Chomsky, through his critical analyses of media and power, aimed to expose the mechanisms by which elites manipulate perceptions to maintain their dominance, thereby encouraging collective awareness to resist them.
 <br><br>
@@ -247,7 +247,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 
 <br>
 
-## Tab Inspired on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010
+## Tab Inspired on the Works of Noam Chomsky
 <br>
 
 <table border="1">
