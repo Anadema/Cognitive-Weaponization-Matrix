@@ -72,8 +72,6 @@
         <li><strong>Évitez la peur</strong> : La panique est un levier clé.</li>
         <li><strong>Etudiez-vous</strong> : Etudiez ce qui déclenche de l'émotion chez vous.</li>
     </ul><br>
-    <h2>Pourquoi c’est important de reconnaître le PRS en ligne ?</h2><br>
-    <p>Identifier le PRS est crucial à l’ère numérique, où la peur peut mener à des lois restrictives ou des centralisations de pouvoir. Un esprit critique protège votre liberté de pensée.</p><br>
     <h2>Tableau récapitulatif d’exemples militaires et cyber cités</h2><br>
     <table border="1">
         <tr>
