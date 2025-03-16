@@ -64,7 +64,7 @@
         <li><strong>Informez-vous</strong> : Lisez Chomsky pour comprendre (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
     </ul><br><br>
     <h2>Pourquoi c’est important de reconnaître le PRS en ligne ?</h2><br>
-    <p>Identifier le PRS est crucial à l’ère numérique, où la peur peut mener à des lois restrictives ou des centralisations de pouvoir, comme après WannaCry ou SolarWinds. Un esprit critique protège votre liberté de pensée.</p><br>
+    <p>Identifier le PRS est crucial à l’ère numérique, où la peur peut mener à des lois restrictives ou des centralisations de pouvoir. Un esprit critique protège votre liberté de pensée.</p><br>
     <h2>Tableau récapitulatif d’exemples militaires et cyber cités</h2><br>
     <table border="1">
         <tr>
