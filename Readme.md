@@ -243,50 +243,50 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 
 <p align="center">
   <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
-  <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf">Source of this picture</a>
 </p>
 
 <br>
 
-## List Inspired by Pressenza Based on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010
+## Tab Inspired on the Works of Noam Chomsky, PhD, Linguistics, United States, 2010
 <br>
 
-1. **Distraction**: Divert attention from important issues with constant entertainment.<br>
-   *"The mass media serve as a communication system to manage and distract public opinion."* — *Manufacturing Consent* (1988)<br><br>
-
-2. **Problem-Reaction-Solution**: Create crises to impose pre-prepared solutions.<br>
-   *"Elites create conditions so that their decisions are accepted as inevitable."* — *The Chomsky Reader* (1987)<br><br>
-
-3. **Gradual Degradation**: Accustom the public to unacceptable measures over the long term.<br>
-   *"Power cannot impose radical changes immediately; it must introduce them gradually."* — Conference, 1990s<br><br>
-
-4. **Deferred Action**: Present sacrifices as "necessary" for a hypothetical future.<br>
-   *(Inspired by his analyses of neoliberal propaganda, no direct quote available.)*<br><br>
-
-5. **Infantilization**: Address the public as children to limit critical thinking.<br>
-   *"Complex debates are reduced to simple slogans so people don’t think too much."* — *Understanding Power* (2002)<br><br>
-
-6. **Emotion vs. Reason**: Prioritize emotion to manipulate the subconscious.<br>
-   *"Propaganda works best when it plays on fear and insecurity, not logic."* — *Media Control* (1997)<br><br>
-
-7. **Ignorance**: Maintain a low level of education to widen the social gap.<br>
-   *"An educated and informed public is the worst nightmare of the powerful."* — *Chomsky on Mis-Education* (2000)<br><br>
-
-8. **Mediocrity**: Promote stupidity and vulgarity as virtues.<br>
-   *(Inspired by his critiques of mass culture, no direct quote available.)*<br><br>
-
-9. **Guilt**: Make individuals believe they are solely responsible for their failures.<br>
-   *"Individuals are made to bear the responsibility for systemic failures."* — *Profit Over People* (1999)<br><br>
-
-10. **Superior Knowledge**: Use science to control individuals better than they control themselves.<br>
-   *"Technological advances give the powerful tools to monitor and manipulate the masses."* — Conference, 2000s<br><br>
-
-*Note: List popularized by Pressenza (2010), inspired by Chomsky’s ideas and "Silent Weapons for Quiet Wars" (not written by Chomsky). Quotes are drawn from his verified works or conferences.*
-<br><br>
-
-## References
-- [Liste EN with details](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm)
-- [Liste FR with details](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
+<table border="1">
+  <tr>
+    <th>Thème</th>
+    <th>Idée principale</th>
+    <th>Exemple ou explication</th>
+    <th>Référence</th>
+    <th>Lien</th>
+  </tr>
+  <tr>
+    <td>Langage et pensée</td>
+    <td>Le langage est un outil de manipulation qui façonne la perception de la réalité.</td>
+    <td>Changer "invasion" en "mission humanitaire" pour rendre une guerre acceptable.</td>
+    <td>Chomsky, N. (1988). <i>Language and Problems of Knowledge</i>.</td>
+    <td><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
+  </tr>
+  <tr>
+    <td>Fabrication du consentement</td>
+    <td>Les médias et le pouvoir créent un consensus artificiel pour contrôler les masses sans violence.</td>
+    <td>Les informations sont filtrées pour soutenir les intérêts des élites, pas pour informer objectivement.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
+    <td><a href="https://www.penguinrandomhouse.com/books/77927/manufacturing-consent-by-edward-s-herman-and-noam-chomsky/" target="_blank">Penguin Random House</a></td>
+  </tr>
+  <tr>
+    <td>Filtres systémiques</td>
+    <td>Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
+    <td>Les grands groupes possèdent les médias et influencent ce qui est publié ou ignoré.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapitre sur le "modèle de propagande".</td>
+    <td><a href="https://www.penguinrandomhouse.com/books/77927/manufacturing-consent-by-edward-s-herman-and-noam-chomsky/" target="_blank">Penguin Random House</a></td>
+  </tr>
+  <tr>
+    <td>Passivité et résistance</td>
+    <td>La manipulation vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
+    <td>Saturation d’infos triviales pour détourner l’attention ; l’éducation critique comme antidote.</td>
+    <td>Chomsky, N. (1991). <i>Media Control: The Spectacular Achievements of Propaganda</i>.</td>
+    <td><a href="https://www.sevenstories.com/books/2938-media-control" target="_blank">Seven Stories Press</a></td>
+  </tr>
+</table>
 <br><br><br>
 
 # Personal comments
