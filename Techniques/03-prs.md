@@ -28,13 +28,13 @@
     <h3>Le PRS en action : un scénario moderne</h3>
     <ul>
         <li><strong>Création d’un problème</strong><br><br>
-         <p align="center"><br><br>Une cyberattaque paralyse un réseau électrique, attribuée sans preuves à un ennemi.</p><br>
+        <br>Une cyberattaque paralyse un réseau électrique, attribuée sans preuves à un ennemi.<br>
         </li>
         <li><strong>Réaction émotionnelle</strong><br><br>
-         <p align="center"><br><br>La population, paniquée par les coupures et les récits alarmistes, exige une réponse immédiate.</p><br>
-        </li>
+        <br>La population, paniquée par les coupures et les récits alarmistes, exige une réponse immédiate.<br>
+        </l
         <li><strong>Solution imposée</strong>    
-         <p align="center"><br><br>Une loi de surveillance accrue est adoptée comme solution "inévitable".</p><br>
+        <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br>
         </li>
     </ul><br>
     <h3>Le PRS selon Chomsky</h3>
