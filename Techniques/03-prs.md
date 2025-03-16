@@ -14,7 +14,7 @@
     <ul>
         <li><strong>Incident de Mukden (1931)</strong> : Le Japon a simulé une attaque pour justifier l’invasion de la Mandchourie.</li>
         <li><strong>Incident de Gleiwitz (1939)</strong> : Les nazis ont orchestré une fausse attaque polonaise pour lancer la Seconde Guerre mondiale.</li>
-        <li><strong>WannaCry (2017)</strong> : Une attaque ransomware attribuée à la Corée du Nord a amplifié la peur, menant à des réformes en cybersécurité.</li>
+        <li><strong>WannaCry (2017)</strong> : Une attaque ransomware attribuée à la Corée du Nord a amplifié la peur, menant à des réformes en cybersécurité, tout en suivant le schéma PRS où la rançon elle-même est la solution imposée.</li>
         <li><strong>SolarWinds (2020)</strong> : Une attaque attribuée à la Russie a exposé des failles US, accélérant des lois sécuritaires.</li>
     </ul><br>    
     <br>
@@ -25,7 +25,7 @@
         </li>
         <li><strong>Réaction émotionnelle</strong>
         <br>La population, paniquée par les coupures et les récits alarmistes, exige une réponse immédiate.<br><br>
-        </l
+        </li>
         <li><strong>Solution imposée</strong>  
         <br>Une loi de surveillance accrue est adoptée comme solution "inévitable".<br><br>
         </li>
@@ -35,7 +35,7 @@
         <li>Chomsky souligne : <strong>"Utiliser l’aspect émotionnel est une technique classique pour court-circuiter l’analyse rationnelle, et donc le sens critique des individus."</strong> Cela montre comment la peur ouvre la porte à la manipulation (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
     </ul><br> 
     <h2>Comment le PRS se manifeste-t-il en ligne ?</h2><br>
-    <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes.</p><br>
+    <p>Sur Internet, le PRS exploite la viralité des réseaux sociaux et les algorithmes pour amplifier la peur et proposer des réformes. Un exemple concret est le ransomware, qui crée un problème (blocage des données), déclenche une réaction (panique des victimes) et impose une solution (le paiement de la rançon) au profit des attaquants.</p><br>
     <ul>
         <li><strong>Diffusion de fausses informations</strong> : Rumeurs sur des cyberattaques imminentes.</li>
         <li><strong>Exploitation d’événements</strong> : Amplification d’attaques comme SolarWinds ou WannaCry.</li>
@@ -49,7 +49,7 @@
     <ul>
         <li><strong>Émotions exacerbées</strong> : Titres alarmistes (ex. : "C’est la fin si rien n’est fait !").</li>
         <li><strong>Sources floues</strong> : Informations sans origine claire.</li>
-        <li><strong>Solution unique</strong> : Une réponse imposée sans débat.</li>
+        <li><strong>Solution unique</strong> : Une réponse imposée sans débat, comme une rançon dans un ransomware.</li>
         <li><strong>Timing suspect</strong> : Le problème précède une réforme clé.</li>
         <li><strong>Répétition</strong> : Schéma similaire à WannaCry ou SolarWinds.</li>
     </ul><br><br>
@@ -58,7 +58,7 @@
     <ul>
         <li><strong>Croisez les informations</strong> : Vérifiez via plusieurs sources.</li>
         <li><strong>Prenez du temps</strong> : Ne réagissez pas sous la panique.</li>
-        <li><strong>Questionnez les intentions</strong> : Qui profite des réformes ?</li>
+        <li><strong>Questionnez les intentions</strong> : Qui profite des réformes ou, dans le cas d’un ransomware, de la rançon ?</li>
         <li><strong>Restez critique</strong> : Analysez les contenus émotionnels.</li>
         <li><strong>Évitez la peur</strong> : La panique est un levier clé.</li>
         <li><strong>Informez-vous</strong> : Lisez Chomsky pour comprendre (<a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" target="_blank">source</a>).</li>
@@ -107,7 +107,7 @@
             <td><strong>WannaCry</strong></td>
             <td>Guerre informationnelle</td>
             <td>2017</td>
-            <td>Un ransomware nord-coréen a semé la peur, menant à des réformes en cybersécurité. <a href="https://www.ncsc.gov.uk/news/wannacry-5-years-on" target="_blank">En savoir plus</a></td>
+            <td>Un ransomware nord-coréen a semé la peur, menant à des réformes en cybersécurité, avec la rançon comme solution imposée. <a href="https://www.ncsc.gov.uk/news/wannacry-5-years-on" target="_blank">En savoir plus</a></td>
         </tr>
         <tr>
             <td><strong>SolarWinds</strong></td>
