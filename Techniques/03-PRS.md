@@ -6,7 +6,7 @@
 </head>
 <body>
      <p align="center">
-       <img width="400" height="300" src="../Image/virus.jpg" alt="Wannacry"><br>
+       <img width="450" height="350" src="../Image/virus.jpg" alt="Wannacry"><br>
     </p>    
     <br>
     <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
