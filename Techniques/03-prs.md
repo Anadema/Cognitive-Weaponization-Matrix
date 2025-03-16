@@ -22,7 +22,7 @@
     <br>
     <h3>Le PRS en action : un scénario moderne</h3>
     <ul>
-        <li><strong>Création d’un problème</strong>
+        <li><strong>Création ou amplification d’un problème</strong>
         <br>Une cyberattaque paralyse un réseau électrique, attribuée sans preuves à un ennemi.<br><br>
         </li>
         <li><strong>Réaction émotionnelle</strong>
