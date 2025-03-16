@@ -20,7 +20,7 @@
   - [Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologist-phd---us-air-force---1957---ny-acad-med)
   - [References](#references)
 - [Study on the mass medias - Noam Chomsky](#study-on-the-mass-medias---noam-chomsky)
-  - [Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, United States, 2010](#tab-inspired-on-the-works-of-noam-chomsky-phd-linguistics-united-states-2010)
+  - [Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010](#tab-inspired-on-the-works-of-noam-chomsky-phd-linguistics-usa-2010)
 - [Personal comments](#personal-comments)
 - [Licence](#licence)
 
@@ -246,44 +246,44 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 
 <br>
 
-## Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, United States, 2010
+## Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010
 <br>
 
 <table border="1">
   <tr>
-    <th>Thème</th>
-    <th>Idée principale</th>
-    <th>Exemple ou explication</th>
-    <th>Référence</th>
-    <th>Lien</th>
+    <th>Theme</th>
+    <th>Main Idea</th>
+    <th>Example or Explanation</th>
+    <th>Reference</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Langage et pensée</td>
-    <td>Le langage est un outil de manipulation qui façonne la perception de la réalité.</td>
-    <td>Changer "invasion" en "mission humanitaire" pour rendre une guerre acceptable.</td>
-    <td>Chomsky, N. (1988). <i>Language and Problems of Knowledge</i>.</td>
+    <td>Language and Thought</td>
+    <td>Language is a tool of manipulation that shapes the perception of reality.</td>
+    <td>Changing "invasion" to "humanitarian mission" to make a war acceptable.</td>
+    <td>Chomsky, N. (1988). <em>Language and Problems of Knowledge</em>.</td>
     <td><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
   </tr>
   <tr>
-    <td>Fabrication du consentement</td>
-    <td>Les médias et le pouvoir créent un consensus artificiel pour contrôler les masses sans violence.</td>
-    <td>Les informations sont filtrées pour soutenir les intérêts des élites, pas pour informer objectivement.</td>
-    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
+    <td>Manufacturing Consent</td>
+    <td>Media and power create an artificial consensus to control the masses without violence.</td>
+    <td>Information is filtered to support elite interests, not to inform objectively.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <em>Manufacturing Consent: The Political Economy of the Mass Media</em>.</td>
     <td><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon</a></td>
   </tr>
   <tr>
-    <td>Filtres systémiques</td>
-    <td>Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
-    <td>Les grands groupes possèdent les médias et influencent ce qui est publié ou ignoré.</td>
-    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapitre sur le "modèle de propagande".</td>
+    <td>Systemic Filters</td>
+    <td>Invisible mechanisms (economy, official sources) limit narratives in the media.</td>
+    <td>Large corporations own the media and influence what is published or ignored.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <em>Manufacturing Consent</em>. Chapter on the "propaganda model".</td>
     <td><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon</a></td>
   </tr>
   <tr>
-    <td>Passivité et résistance</td>
-    <td>La manipulation vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
-    <td>Saturation d’infos triviales pour détourner l’attention ; l’éducation critique comme antidote.</td>
-    <td>Chomsky, N. (1991). <i>Media Control: The Spectacular Achievements of Propaganda</i>.</td>
-    <td><a href="https://www.amazon.com/Media-Control-Second-Spectacular-Achievements/dp/1583225366" target="_blank">Seven Stories Press</a></td>
+    <td>Passivity and Resistance</td>
+    <td>Manipulation aims to make people passive, but critical thinking can break this control.</td>
+    <td>Saturation with trivial information to divert attention; critical education as an antidote.</td>
+    <td>Chomsky, N. (1991). <em>Media Control: The Spectacular Achievements of Propaganda</em>.</td>
+    <td><a href="https://www.sevenstories.com/books/2919-media-control" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
