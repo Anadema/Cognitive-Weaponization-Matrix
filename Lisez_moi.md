@@ -19,9 +19,8 @@
 - [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
   - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
   - [Références](#references-1)
-- [Les 10 stratégies de manipulation de masses](#les-10-stratégies-de-manipulation-de-masses)
-  - [Liste inspirée par Pressenza sur les travaux de Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010](#liste-inspirée-par-pressenza-sur-les-travaux-de-noam-chomsky-doctorat-linguistique-états-unis-2010)
-  - [Références](#references-2)
+- [Etude sur les médias de masse - Noam Chomsky](#etude-sur-les-médias-de-masse-noam-chomsky)
+  - [Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010](#tableau-inspiré-des-travaux-de-noam-chomsky---phd-linguistique-états-unis-2010)
 - [Commentaires personnels](#commentaires-personnels)
 - [Licence](#licence)
 
@@ -134,14 +133,14 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <b>Chambre d’écho :</b> https://en.wikipedia.org/wiki/Echo_chamber_(media)<br>
 <b>Copypasta :</b> https://en.wikipedia.org/wiki/Copypasta<br>
 <b>Manipulation par la rareté :</b> https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb<br>
-<b>Motiver la médiocrité :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
+<b>Motiver la médiocrité :</b> https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison<br>
 <b>Développer des deep/cheap fakes :</b> https://datasociety.net/library/deepfakes-and-cheap-fakes/<br>
 <b>Déluge de faussetés :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
 <b>Rejeter / Distraire / Distordre / Consternation :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
 <b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
 <b>Effet de vérité illusoire :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
 <b>Micro-ciblage :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
-<b>Maintenir la culpabilité et l’ignorance :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
+<b>Maintenir la culpabilité et l’ignorance :</b> https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)<br>
 <b>Cadrage :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
 <b>Effet de bande :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
 <b>Astroturfing : </b> https://disarmframework.herokuapp.com/technique/145/view<br>
@@ -154,7 +153,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 <b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
 <b>Titytainment :</b> http://www.gandalf.it/arianna/titty.htm<br>
-<b>Problème-Réaction-Solution - PRS :</b> https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm<br>
+<b>Problème-Réaction-Solution - PRS :</b> https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)<br>
 <b>Vides de données :</b> https://datasociety.net/library/data-voids/<br>
 <b>Vulnérabilité du public :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
 <b>Asymétrie d'information :</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
