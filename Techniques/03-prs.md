@@ -52,7 +52,7 @@
         <li><strong>Réaction de panique</strong> : Le public exige des solutions rapides.</li>
         <li><strong>Réformes proposées</strong> : Lois ou mesures sécuritaires sont imposées.</li>
         <li><strong>Exemple</strong> : SolarWinds a conduit à un ordre exécutif US en 2021.</li>
-    </ul><br><br>
+    </ul><br>
     <h2>Exemples d’indices typiques pour détecter un PRS en ligne</h2><br>
     <p>Repérer un PRS nécessite de prêter attention à ces signaux :</p>
     <ul>
@@ -61,7 +61,7 @@
         <li><strong>Solution unique</strong> : Une réponse imposée sans débat, comme une rançon dans un ransomware.</li>
         <li><strong>Timing suspect</strong> : Le problème précède une réforme clé.</li>
         <li><strong>Répétition</strong> : Schéma similaire à WannaCry ou SolarWinds.</li>
-    </ul><br><br>
+    </ul><br>
     <h2>Comment se protéger du PRS en ligne ?</h2><br>
     <p>Pour éviter d’être manipulé par la peur et les réformes imposées :</p>
     <ul>
@@ -71,7 +71,7 @@
         <li><strong>Restez critique</strong> : Analysez les contenus émotionnels.</li>
         <li><strong>Évitez la peur</strong> : La panique est un levier clé.</li>
         <li><strong>Etudiez-vous</strong> : Etudiez ce qui déclenche de l'émotion chez vous.</li>
-    </ul><br><br>
+    </ul><br>
     <h2>Pourquoi c’est important de reconnaître le PRS en ligne ?</h2><br>
     <p>Identifier le PRS est crucial à l’ère numérique, où la peur peut mener à des lois restrictives ou des centralisations de pouvoir. Un esprit critique protège votre liberté de pensée.</p><br>
     <h2>Tableau récapitulatif d’exemples militaires et cyber cités</h2><br>
