@@ -270,21 +270,21 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
     <td>Les médias et le pouvoir créent un consensus artificiel pour contrôler les masses sans violence.</td>
     <td>Les informations sont filtrées pour soutenir les intérêts des élites, pas pour informer objectivement.</td>
     <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
-    <td><a href="https://www.penguinrandomhouse.com/books/77927/manufacturing-consent-by-edward-s-herman-and-noam-chomsky/" target="_blank">Penguin Random House</a></td>
+    <td><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon</a></td>
   </tr>
   <tr>
     <td>Filtres systémiques</td>
     <td>Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
     <td>Les grands groupes possèdent les médias et influencent ce qui est publié ou ignoré.</td>
     <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapitre sur le "modèle de propagande".</td>
-    <td><a href="https://www.penguinrandomhouse.com/books/77927/manufacturing-consent-by-edward-s-herman-and-noam-chomsky/" target="_blank">Penguin Random House</a></td>
+    <td><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon</a></td>
   </tr>
   <tr>
     <td>Passivité et résistance</td>
     <td>La manipulation vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
     <td>Saturation d’infos triviales pour détourner l’attention ; l’éducation critique comme antidote.</td>
     <td>Chomsky, N. (1991). <i>Media Control: The Spectacular Achievements of Propaganda</i>.</td>
-    <td><a href="https://www.sevenstories.com/books/2938-media-control" target="_blank">Seven Stories Press</a></td>
+    <td><a href="https://www.amazon.com/Media-Control-Second-Spectacular-Achievements/dp/1583225366" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
