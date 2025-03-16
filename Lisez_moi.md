@@ -234,11 +234,11 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 <br>
 
-# Les 10 stratégies de manipulation de masses
+# Les 10 stratégies de manipulation de masse
 <br>
-Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, visait à dévoiler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister. 
+Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, a cherché à révéler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister.
 <br><br>
-Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, algorithmes et ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et comportements."
+Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, les algorithmes et le ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et nos comportements.
 <br><br><br>
 
 <p align="center">
@@ -247,46 +247,46 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où désinformation, alg
 
 <br>
 
-## Liste inspirée par Pressenza sur les travaux de Noam Chomsky, Doctorat, Linguistique, États-Unis, 2010
-<br><br>
+## Tableau inspiré des travaux de Noam Chomsky, PhD, Linguistique, États-Unis, 2010
+<br>
 
-1. **Distraction** : Détourner l'attention des problèmes importants avec des divertissements constants.<br>
-   *"Les médias de masse servent de système de communication pour gérer et distraire l’opinion publique."* — *Manufacturing Consent* (1988)<br><br>
-
-2. **Problème-réaction-solution** : Créer des crises pour imposer des solutions préparées.<br>
-   *"Les élites créent des conditions pour que leurs décisions soient acceptées comme inévitables."* — *The Chomsky Reader* (1987)<br><br>
-
-3. **Dégradation progressive** : Habituer le public à des mesures inacceptables sur le long terme.<br>
-   *"Le pouvoir ne peut pas imposer des changements radicaux immédiatement ; il doit les introduire graduellement."* — Conférence, années 1990<br><br>
-
-4. **Différé** : Présenter des sacrifices comme "nécessaires" pour un futur hypothétique.<br>
-   *(Inspiré de ses analyses sur la propagande néolibérale, pas de citation directe précise.)*<br><br>
-
-5. **Infantilisation** : S'adresser au public comme à des enfants pour limiter la réflexion critique.<br>
-   *"On réduit les débats complexes à des slogans simples, pour que les gens ne réfléchissent pas trop."* — *Understanding Power* (2002)<br><br>
-
-6. **Émotion vs Raison** : Privilégier l’émotion pour manipuler l’inconscient.<br>
-   *"La propagande fonctionne mieux quand elle joue sur la peur et l’insécurité, pas sur la logique."* — *Media Control* (1997)<br><br>
-
-7. **Ignorance** : Maintenir un faible niveau d'éducation pour creuser le fossé social.<br>
-   *"Un public éduqué et informé est le pire cauchemar des puissants."* — *Chomsky on Mis-Education* (2000)<br><br>
-
-8. **Médiocrité** : Promouvoir la bêtise et la vulgarité comme des qualités.<br>
-   *(Inspiré de ses critiques de la culture de masse, pas de citation directe précise.)*<br><br>
-
-9. **Culpabilité** : Faire croire que l’individu est seul responsable de ses échecs.<br>
-   *"On fait porter aux individus la responsabilité des échecs systémiques."* — *Profit Over People* (1999)<br><br>
-
-10. **Connaissance supérieure** : Utiliser la science pour mieux contrôler les individus qu’eux-mêmes.<br>
-   *"Les avancées technologiques donnent aux puissants des outils pour surveiller et manipuler les masses."* — Conférence, années 2000<br><br>
-
-*Note : Liste popularisée par Pressenza (2010), inspirée des idées de Chomsky et de "Armes silencieuses pour guerres tranquilles" (non écrit par Chomsky). Les citations sont tirées de ses travaux ou conférences vérifiés.*
-<br><br>
-
-
-## Références
-- [Liste EN avec détails](https://www.tanbou.com/2022/Noam-Chomsky-10-strategies-manipulation.htm)
-- [Liste FR avec détails](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
+<table border="1">
+  <tr>
+    <th>Thème</th>
+    <th>Idée principale</th>
+    <th>Exemple ou explication</th>
+    <th>Référence</th>
+    <th>Lien</th>
+  </tr>
+  <tr>
+    <td>Langage et pensée</td>
+    <td>Le langage est un outil de manipulation qui façonne la perception de la réalité.</td>
+    <td>Remplacer "invasion" par "mission humanitaire" pour rendre une guerre acceptable.</td>
+    <td>Chomsky, N. (1988). <i>Langage et problèmes de la connaissance</i>.</td>
+    <td><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
+  </tr>
+  <tr>
+    <td>Fabrication du consentement</td>
+    <td>Les médias et le pouvoir créent un consensus artificiel pour contrôler les masses sans violence.</td>
+    <td>Les informations sont filtrées pour soutenir les intérêts des élites, pas pour informer objectivement.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement : L'économie politique des médias de masse</i>.</td>
+    <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+  </tr>
+  <tr>
+    <td>Filtres systémiques</td>
+    <td>Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
+    <td>Les grands groupes possèdent les médias et influencent ce qui est publié ou ignoré.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement</i>. Chapitre sur le "modèle de propagande".</td>
+    <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+  </tr>
+  <tr>
+    <td>Passivité et résistance</td>
+    <td>La manipulation vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
+    <td>Saturation d’infos triviales pour détourner l’attention ; l’éducation critique comme antidote.</td>
+    <td>Chomsky, N. (1991). <i>Contrôle des médias : Les remarquables réussites de la propagande</i>.</td>
+    <td><a href="https://www.amazon.fr/Contr%C3%B4le-m%C3%A9dias-remarquables-r%C3%A9ussites-propagande/dp/2355220085" target="_blank">Amazon.fr</a></td>
+  </tr>
+</table>
 <br><br><br>
 
 # Commentaires personnels
