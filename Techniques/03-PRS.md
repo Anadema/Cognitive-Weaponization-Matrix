@@ -3,15 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h1, h2, h3 { color: #333; }
-        ul { margin: 10px 0; }
-        table { border-collapse: collapse; width: 80%; margin: 20px auto; }
-        th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-        p { margin: 10px 0; }
-    </style>
 </head>
 <body>
     <p align="center">
