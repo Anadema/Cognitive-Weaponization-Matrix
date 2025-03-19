@@ -6,7 +6,7 @@
 </head>
 <body>
     <p align="center">
-       <img width="450" height="350" src="../Image/hacked3.jpg" alt="Wannacry"><br>
+       <img width="450" height="350" src="../Image/virus.jpg" alt="Wannacry"><br>
     </p>    
     <br>
     <h1>Le Problème Réaction Solution [PRS] : Comprendre et Se Protéger</h1>
@@ -52,7 +52,6 @@
         <li><strong>Sources floues</strong> : Informations sans origine vérifiable.</li>
         <li><strong>Solution unique</strong> : Une réponse imposée sans débat, comme une rançon.</li>
         <li><strong>Timing suspect</strong> : Le problème précède une réforme clé.</li>
-        <li><strong>Répétition</strong> : Schéma similaire à WannaCry ou SolarWinds.</li>
     </ul><br>   
     <h2>Comment se protéger du PRS en ligne ?</h2><br>
     <p>Pour ne pas céder à la manipulation :</p>
