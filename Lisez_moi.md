@@ -39,8 +39,7 @@
 <br>
 
 <p align="center">
-  <img width="700" height="250" src="./Image/5g.jpg"><br>
-  <i>Dr. Robert Malone</i>
+  <img width="700" height="400" src="./Image/5g.jpg"><br>
 </p>
 
 
