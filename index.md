@@ -1,8 +1,12 @@
----
-title: Accueil / Home
----
 <link rel="stylesheet" href="/css/style.css">
-# Bienvenue / Welcome
+
+<p align="center">
+  <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
+  "If you think you have nothing to hide, it means you have already lost everything."<br>
+  <i>Arsène White</i>
+</p>
+<br>
+<br>
 
 Choisissez votre langue / Choose your language :
 - [Français](/Lisez_moi.md)
