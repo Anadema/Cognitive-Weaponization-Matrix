@@ -11,3 +11,9 @@
 Choisissez votre langue / Choose your language :
 - [Français](/Lisez_moi.md)
 - [English](/Readme.md)
+
+
+<footer class="site-footer">
+    <p>Licence <a href="{{ site.footer.licence_url }}" target="_blank">{{ site.footer.licence }}</a></p>
+    <a href="{{ site.footer.github }}">My GitHub</a>
+</footer>
