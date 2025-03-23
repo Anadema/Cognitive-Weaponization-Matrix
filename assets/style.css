@@ -1,34 +1,105 @@
+/* Reset de base */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+}
+
+/* Sticky Footer */
 html, body {
     height: 100%;
-    margin: 0;
 }
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: #000000; /* Gris foncé, change selon tes goûts */
-    color: #ffffff; /* Texte blanc pour contraste */
 }
 main {
     flex: 1 0 auto;
 }
-.site-footer {
-    flex-shrink: 0;
-    background-color: #f8f8f8;
-    padding: 20px;
-    text-align: center;
+
+/* Header */
+.site-header {
+    background-color: #2c3e50;
+    padding: 1rem 0;
+    color: white;
 }
-.site-footer a {
-    color: #0366d6;
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.site-title {
+    font-size: 1.5rem;
+    color: white;
     text-decoration: none;
 }
-.footer-col-wrapper {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+.site-nav {
+    float: right;
 }
-.footer-col {
-    flex: 1;
-    min-width: 200px;
-    margin: 10px;
+.page-link {
+    color: white;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+.page-link:hover {
+    color: #3498db;
+}
+
+/* Contenu principal */
+.page-content {
+    padding: 2rem 0;
+    text-align: center;
+}
+.page-content img {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.page-content p {
+    font-size: 1.1rem;
+}
+.page-content ul {
+    list-style: none;
+    padding: 0;
+}
+.page-content li {
+    margin: 0.5rem 0;
+}
+.page-content a {
+    color: #2980b9;
+    text-decoration: none;
+}
+.page-content a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+.site-footer {
+    background-color: #34495e;
+    color: white;
+    padding: 2rem 0;
+    flex-shrink: 0;
+}
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    text-align: center;
+}
+.footer-content p {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+}
+.footer-content a {
+    color: #3498db;
+    text-decoration: none;
+}
+.footer-content a:hover {
+    color: #ecf0f1;
+}
+.footer-description {
+    font-style: italic;
+    color: #bdc3c7;
 }
