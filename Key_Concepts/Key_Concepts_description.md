@@ -1,3 +1,9 @@
+---
+layout: default
+title: Key Concepts
+lang: en
+---
+
 # Key Concepts
 <br><br>
 
