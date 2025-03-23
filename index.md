@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
+<br>
 <p align="center">
   <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
   "If you think you have nothing to hide, it means you have already lost everything."<br>
