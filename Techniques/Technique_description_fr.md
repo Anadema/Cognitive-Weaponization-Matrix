@@ -1,3 +1,9 @@
+---
+layout: default
+title: Techniques
+lang: fr
+---
+
 # Techniques
 
 <br><br>
