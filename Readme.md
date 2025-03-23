@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <img width="1000" height="600" src="./Image/5gen.jpg"><br>
+  <img width="1000" height="600" src="./Image/5G2.jpg"><br>
 </p>
 
 
