@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
     <header class="site-header" role="banner">
@@ -21,17 +21,27 @@
                     </span>
                 </label>
                 <div class="trigger">
-                    <a class="page-link" href="{{ '/Key_Concepts/Key_Concepts_description.html' | relative_url }}">Key Concepts</a>
-                    <a class="page-link" href="{{ '/Key_Concepts/Key_Concepts_description_fr.html' | relative_url }}">Concepts Clés</a>
-                    <a class="page-link" href="{{ '/Techniques/Technique_description.html' | relative_url }}">Techniques</a>
-                    <a class="page-link" href="{{ '/Techniques/Technique_description_fr.html' | relative_url }}">Techniques</a>
+                    {% if page.lang == "fr" %}
+                        <a class="page-link" href="{{ '/Key_Concepts/Key_Concepts_description_fr.html' | relative_url }}">Concepts Clés</a>
+                        <a class="page-link" href="{{ '/Techniques/Technique_description_fr.html' | relative_url }}">Techniques</a>
+                    {% else %}
+                        <a class="page-link" href="{{ '/Key_Concepts/Key_Concepts_description.html' | relative_url }}">Key Concepts</a>
+                        <a class="page-link" href="{{ '/Techniques/Technique_description.html' | relative_url }}">Techniques</a>
+                    {% endif %}
                 </div>
             </nav>
         </div>
     </header>
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
-            {{ content }}
+            <article class="post">
+                <header class="post-header">
+                    <h1 class="post-title">{{ page.title }}</h1>
+                </header>
+                <div class="post-content">
+                    {{ content }}
+                </div>
+            </article>
         </div>
     </main>
     {% include footer.html %}
