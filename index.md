@@ -1,7 +1,3 @@
----
-title: Cognitive Weaponization Matrix
----
-
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
