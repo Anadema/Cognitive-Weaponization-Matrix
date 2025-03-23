@@ -308,15 +308,17 @@ Cognitive Weaponization Matrix has been released under <a href="https://creative
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
 All documents store here come from Internet and are avalaible in open source access:<br><br>
 
-- [Biais Cognitifs - Wikipédia](https://fr.wikipedia.org/wiki/Biais_cognitif)
+
+- [Cognitive Biases - Wikipedia](https://fr.wikipedia.org/wiki/Biais_cognitif)
 - [Article PMC - Biderman’s Chart of Coercion](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf)
 - [DTIC - Cognitive Warfare Study](https://apps.dtic.mil/sti/citations/ADA507172)
-- [AOR Compiègne - La Guerre Cognitique](https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique)
-- [Paul Masson - Document Chomsky](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
-- [PhiloCité - Autodéfense Intellectuelle](https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf)
+- [AOR Compiègne - Cognitive Warfare](https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique)
+- [Paul Masson - Chomsky Document](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
+- [PhiloCité - Intellectual Self-Defense](https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf)
 - [Robotic Technology Inc - Military Memetics Tutorial](https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)
 - [The Babe - The Great Meme War](https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth)
 - [DISARM Framework](https://disarmframework.herokuapp.com)
+
 
 <br><br><br><br><br>
 
