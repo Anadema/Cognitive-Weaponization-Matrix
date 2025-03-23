@@ -308,15 +308,15 @@ La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativeco
 Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée<br>
 Tous les documents stockés ici proviennent de sources ouvertes accessibles sur Internet :<br><br>
 
-https://fr.wikipedia.org/wiki/Biais_cognitif<br>
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf<br>
-https://apps.dtic.mil/sti/citations/ADA507172<br>
-https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
-https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
-https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf<br>
-https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
-https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth<br>
-https://disarmframework.herokuapp.com<br>
+- [Biais Cognitifs - Wikipédia](https://fr.wikipedia.org/wiki/Biais_cognitif)
+- [Article PMC - Biderman’s Chart of Coercion](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf)
+- [DTIC - Cognitive Warfare Study](https://apps.dtic.mil/sti/citations/ADA507172)
+- [AOR Compiègne - La Guerre Cognitique](https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique)
+- [Paul Masson - Document Chomsky](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
+- [PhiloCité - Autodéfense Intellectuelle](https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf)
+- [Robotic Technology Inc - Military Memetics Tutorial](https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)
+- [The Babe - The Great Meme War](https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth)
+- [DISARM Framework](https://disarmframework.herokuapp.com)
 
 <br><br><br><br><br>
 
