@@ -1,0 +1,6 @@
+theme: minima
+include:
+  - assets
+  - Readme.md
+  - Lisez_moi.md
+markdown: kramdown
