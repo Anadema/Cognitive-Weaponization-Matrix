@@ -111,72 +111,73 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 
 <a href="./Techniques/Technique_description_fr.md">Avec description</a><br><br>
 
-<b>Ban de l’ombre :</b> https://fr.wikipedia.org/wiki/Shadow_banning<br>
-<b>Nudge :</b> https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge<br>
-<b>Assassinat de caractère :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
-<b>Compte fantoche :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
-<b>Mauvais étiquetage :</b> https://en.wikipedia.org/wiki/Bad-jacketing<br>
-<b>Kompromat :</b> https://en.wikipedia.org/wiki/Kompromat<br>
-<b>Sélection biaisée :</b> https://en.wikipedia.org/wiki/Cherry_picking<br>
-<b>Détournement émotionnel :</b> https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it<br>
-<b>Agent ignorant :</b> https://disarmframework.herokuapp.com/technique/7/view<br>
-<b>Appât à clics :</b> https://en.wikipedia.org/wiki/Clickbait<br>
-<b>Squatting de mots-clés :</b> https://mediamanipulation.org/definitions/keyword-squatting/<br>
-<b>Essaimage :</b> https://disarmframework.herokuapp.com/technique/49/view<br>
-<b>Faux experts :</b> https://disarmframework.herokuapp.com/technique/5/view<br>
-<b>Injonction contradictoire :</b> https://en.wikipedia.org/wiki/Double_bind<br>
-<b>Doxing :</b> https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles<br>
-<b>Cyberharcèlement :</b> https://disarmframework.herokuapp.com/technique/193/view<br>
-<b>Distorsions initiales :</b> https://disarmframework.herokuapp.com/technique/35/view<br>
-<b>Appâter un influenceur :</b> https://en.wikipedia.org/wiki/Rage-baiting<br>
-<b>Sondages en ligne :</b> https://en.wikipedia.org/wiki/Open-access_poll<br>
-<b>Chambre d’écho :</b> https://en.wikipedia.org/wiki/Echo_chamber_(media)<br>
-<b>Copypasta :</b> https://en.wikipedia.org/wiki/Copypasta<br>
-<b>Manipulation par la rareté :</b> https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb<br>
-<b>Motiver la médiocrité :</b> https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison<br>
-<b>Développer des deep/cheap fakes :</b> https://datasociety.net/library/deepfakes-and-cheap-fakes/<br>
-<b>Déluge de faussetés :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
-<b>Rejeter / Distraire / Distordre / Consternation :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
-<b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
-<b>Effet de vérité illusoire :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
-<b>Micro-ciblage :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
-<b>Maintenir la culpabilité et l’ignorance :</b> https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)<br>
-<b>Cadrage :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
-<b>Effet de bande :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
-<b>Astroturfing : </b> https://disarmframework.herokuapp.com/technique/145/view<br>
-<b>Attaques papillon : </b> https://disarmframework.herokuapp.com/technique/134/view<br><br>
+- [Ban de l’ombre](https://fr.wikipedia.org/wiki/Shadow_banning)
+- [Nudge](https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge)
+- [Assassinat de caractère](https://en.wikipedia.org/wiki/Character_assassination)
+- [Compte fantoche](https://en.wikipedia.org/wiki/Sock_puppet_account)
+- [Mauvais étiquetage](https://en.wikipedia.org/wiki/Bad-jacketing)
+- [Kompromat](https://en.wikipedia.org/wiki/Kompromat)
+- [Sélection biaisée](https://en.wikipedia.org/wiki/Cherry_picking)
+- [Détournement émotionnel](https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it)
+- [Agent ignorant](https://disarmframework.herokuapp.com/technique/7/view)
+- [Appât à clics](https://en.wikipedia.org/wiki/Clickbait)
+- [Squatting de mots-clés](https://mediamanipulation.org/definitions/keyword-squatting/)
+- [Essaimage](https://disarmframework.herokuapp.com/technique/49/view)
+- [Faux experts](https://disarmframework.herokuapp.com/technique/5/view)
+- [Injonction contradictoire](https://en.wikipedia.org/wiki/Double_bind)
+- [Doxing](https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles)
+- [Cyberharcèlement](https://disarmframework.herokuapp.com/technique/193/view)
+- [Distorsions initiales](https://disarmframework.herokuapp.com/technique/35/view)
+- [Appâter un influenceur](https://en.wikipedia.org/wiki/Rage-baiting)
+- [Sondages en ligne](https://en.wikipedia.org/wiki/Open-access_poll)
+- [Chambre d’écho](https://en.wikipedia.org/wiki/Echo_chamber_(media))
+- [Copypasta](https://en.wikipedia.org/wiki/Copypasta)
+- [Manipulation par la rareté](https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb)
+- [Motiver la médiocrité](https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison)
+- [Développer des deep/cheap fakes](https://datasociety.net/library/deepfakes-and-cheap-fakes/)
+- [Déluge de faussetés](https://en.wikipedia.org/wiki/Firehose_of_falsehood)
+- [Rejeter / Distraire / Distordre / Consternation](https://fromthepenof.com/red-flag-professional-behaviour/discrediting)
+- [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
+- [Effet de vérité illusoire](https://en.wikipedia.org/wiki/Illusory_truth_effect)
+- [Micro-ciblage](https://www.merriam-webster.com/dictionary/microtarget)
+- [Maintenir la culpabilité et l’ignorance](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre))
+- [Cadrage](https://en.wikipedia.org/wiki/Framing_(social_sciences))
+- [Effet de bande](https://en.wikipedia.org/wiki/Bandwagon_effect)
+- [Astroturfing](https://disarmframework.herokuapp.com/technique/145/view)
+- [Attaques papillon](https://disarmframework.herokuapp.com/technique/134/view)
 <br>
 
 ## Concepts Clés
 
 <a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
 
-<b>Guerre de cinquième génération :</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
-<b>Titytainment :</b> http://www.gandalf.it/arianna/titty.htm<br>
-<b>Problème-Réaction-Solution - PRS :</b> https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)<br>
-<b>Vides de données :</b> https://datasociety.net/library/data-voids/<br>
-<b>Vulnérabilité du public :</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
-<b>Asymétrie d'information :</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
-<b>Bulle filtrée :</b> https://en.wikipedia.org/wiki/Filter_bubble<br>
-<b>Boucle de dopamine :</b> https://en.wikipedia.org/wiki/Compulsion_loop<br>
-<b>Fenêtre d'Overton :</b> https://en.wikipedia.org/wiki/Overton_window<br>
-<b>VUCA :</b> https://en.wikipedia.org/wiki/VUCA<br>
-<b>Biais de confirmation :</b> https://en.wikipedia.org/wiki/Confirmation_bias<br>
-<b>Biais d'ancrage :</b> https://en.wikipedia.org/wiki/Anchoring_effect<br>
-<b>Auto-justification :</b> https://en.wikipedia.org/wiki/Self-licensing<br>
-<b>Expérience de Milgram :</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
-<b>Expérience de Asch :</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
-<b>Peur, incertitude et doute :</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
-<b>Peur de rater quelque chose (FOMO) :</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
-<b>Opérations psychologiques :</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
-<b>Ferme de trolls/bots :</b> https://en.wikipedia.org/wiki/Troll_farm<br>
-<b>Identité numérique :</b> https://en.wikipedia.org/wiki/Digital_identity<br>
-<b>Renseignement en sources ouvertes :</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br>
-<b>Sécurité des opérations :</b> https://en.wikipedia.org/wiki/Operations_security<br>
-<b>Boucle OODA :</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
-<b>Méthode douce :</b> https://en.wikipedia.org/wiki/Soft_power<br>
-<b>Manipulations émotionnelles :</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc<br>
-<b>Mémétique militaire :</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
+- [Avec Description](./Key_Concepts/Key_Concepts_description_fr.md)
+- [Guerre de cinquième génération](https://en.wikipedia.org/wiki/Fifth-generation_warfare)
+- [Titytainment](http://www.gandalf.it/arianna/titty.htm)
+- [Problème-Réaction-Solution - PRS](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre))
+- [Vides de données](https://datasociety.net/library/data-voids/)
+- [Vulnérabilité du public](https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md)
+- [Asymétrie d'information](https://en.wikipedia.org/wiki/Information_asymmetry)
+- [Bulle filtrée](https://en.wikipedia.org/wiki/Filter_bubble)
+- [Boucle de dopamine](https://en.wikipedia.org/wiki/Compulsion_loop)
+- [Fenêtre d'Overton](https://en.wikipedia.org/wiki/Overton_window)
+- [VUCA](https://en.wikipedia.org/wiki/VUCA)
+- [Biais de confirmation](https://en.wikipedia.org/wiki/Confirmation_bias)
+- [Biais d'ancrage](https://en.wikipedia.org/wiki/Anchoring_effect)
+- [Auto-justification](https://en.wikipedia.org/wiki/Self-licensing)
+- [Expérience de Milgram](https://en.wikipedia.org/wiki/Milgram_experiment)
+- [Expérience de Asch](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
+- [Peur, incertitude et doute](https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)
+- [Peur de rater quelque chose (FOMO)](https://en.wikipedia.org/wiki/Fear_of_missing_out)
+- [Opérations psychologiques](https://en.wikipedia.org/wiki/Psychological_operations_(United_States))
+- [Ferme de trolls/bots](https://en.wikipedia.org/wiki/Troll_farm)
+- [Identité numérique](https://en.wikipedia.org/wiki/Digital_identity)
+- [Renseignement en sources ouvertes](https://en.wikipedia.org/wiki/Open-source_intelligence)
+- [Sécurité des opérations](https://en.wikipedia.org/wiki/Operations_security)
+- [Boucle OODA](https://fr.wikipedia.org/wiki/Boucle_OODA)
+- [Méthode douce](https://en.wikipedia.org/wiki/Soft_power)
+- [Manipulations émotionnelles](https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc)
+- [Mémétique militaire](https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)
 <br>
 
 
