@@ -110,40 +110,40 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 <a href="./Techniques/Technique_description.md">With Description</a><br><br>
 
-<b>Shadow Ban :</b> https://en.wikipedia.org/wiki/Shadow_banning<br> 
-<b>Nudge :</b> https://en.wikipedia.org/wiki/Nudge_theory<br>
-<b>Character Assassination :</b> https://en.wikipedia.org/wiki/Character_assassination<br>
-<b>Sock Puppet :</b> https://en.wikipedia.org/wiki/Sock_puppet_account<br>
-<b>Bad Jacketing :</b> https://en.wikipedia.org/wiki/Bad-jacketing<br>
-<b>Kompromat :</b> https://en.wikipedia.org/wiki/Kompromat<br>
-<b>Cherry Picking :</b> https://en.wikipedia.org/wiki/Cherry_picking<br>
-<b>Emotional Hijacking :</b> https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it<br>
-<b>Ignorant Agent :</b> https://disarmframework.herokuapp.com/technique/7/view<br>
-<b>Clickbait :</b> https://en.wikipedia.org/wiki/Clickbait<br>
-<b>Keyword Squatting :</b> https://mediamanipulation.org/definitions/keyword-squatting/<br>
-<b>Swarming :</b> https://disarmframework.herokuapp.com/technique/49/view<br>
-<b>Fake Experts :</b> https://disarmframework.herokuapp.com/technique/5/view<br>
-<b>Contradictory Injunction :</b> https://en.wikipedia.org/wiki/Double_bind<br>
-<b>Doxing :</b> https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles<br>
-<b>Cyberbullying :</b> https://disarmframework.herokuapp.com/technique/193/view<br>
-<b>Seed Distortions :</b> https://disarmframework.herokuapp.com/technique/35/view<br>
-<b>Bait Influencer :</b> https://en.wikipedia.org/wiki/Rage-baiting<br>
-<b>Online Polls :</b> https://en.wikipedia.org/wiki/Open-access_poll<br>
-<b>Echo Chamber :</b> https://en.wikipedia.org/wiki/Echo_chamber_(media)<br>
-<b>Copypasta :</b> https://en.wikipedia.org/wiki/Copypasta<br>
-<b>Scarcity Manipulation :</b> https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb<br>
-<b>Motivate Mediocrity :</b> https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment<br>
-<b>Develop Deep/Cheap Fakes :</b> https://datasociety.net/library/deepfakes-and-cheap-fakes/<br>
-<b>Firehose of Falsehood :</b> https://en.wikipedia.org/wiki/Firehose_of_falsehood<br>
-<b>Dismiss / Distract / Distort / Dismay :</b> https://fromthepenof.com/red-flag-professional-behaviour/discrediting<br>
-<b>Gaslighting :</b> https://en.wikipedia.org/wiki/Gaslighting<br>
-<b>Illusory Truth Effect :</b> https://en.wikipedia.org/wiki/Illusory_truth_effect<br>
-<b>Microtarget :</b> https://www.merriam-webster.com/dictionary/microtarget<br>
-<b>Maintaining Guilt and Ignorance :</b> https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle<br>
-<b>Framing :</b> https://en.wikipedia.org/wiki/Framing_(social_sciences)<br>
-<b>Bandwagon Effect :</b> https://en.wikipedia.org/wiki/Bandwagon_effect<br>
-<b>Astroturfing: </b> https://disarmframework.herokuapp.com/technique/145/view<br>
-<b>Butterfly attacks: </b> https://disarmframework.herokuapp.com/technique/134/view<br>
+- [Shadow Ban](https://en.wikipedia.org/wiki/Shadow_banning)
+- [Nudge](https://en.wikipedia.org/wiki/Nudge_theory)
+- [Character Assassination](https://en.wikipedia.org/wiki/Character_assassination)
+- [Sock Puppet](https://en.wikipedia.org/wiki/Sock_puppet_account)
+- [Bad Jacketing](https://en.wikipedia.org/wiki/Bad-jacketing)
+- [Kompromat](https://en.wikipedia.org/wiki/Kompromat)
+- [Cherry Picking](https://en.wikipedia.org/wiki/Cherry_picking)
+- [Emotional Hijacking](https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it)
+- [Ignorant Agent](https://disarmframework.herokuapp.com/technique/7/view)
+- [Clickbait](https://en.wikipedia.org/wiki/Clickbait)
+- [Keyword Squatting](https://mediamanipulation.org/definitions/keyword-squatting/)
+- [Swarming](https://disarmframework.herokuapp.com/technique/49/view)
+- [Fake Experts](https://disarmframework.herokuapp.com/technique/5/view)
+- [Contradictory Injunction](https://en.wikipedia.org/wiki/Double_bind)
+- [Doxing](https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles)
+- [Cyberbullying](https://disarmframework.herokuapp.com/technique/193/view)
+- [Seed Distortions](https://disarmframework.herokuapp.com/technique/35/view)
+- [Bait Influencer](https://en.wikipedia.org/wiki/Rage-baiting)
+- [Online Polls](https://en.wikipedia.org/wiki/Open-access_poll)
+- [Echo Chamber](https://en.wikipedia.org/wiki/Echo_chamber_(media))
+- [Copypasta](https://en.wikipedia.org/wiki/Copypasta)
+- [Scarcity Manipulation](https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb)
+- [Motivate Mediocrity](https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment)
+- [Develop Deep/Cheap Fakes](https://datasociety.net/library/deepfakes-and-cheap-fakes/)
+- [Firehose of Falsehood](https://en.wikipedia.org/wiki/Firehose_of_falsehood)
+- [Dismiss / Distract / Distort / Dismay](https://fromthepenof.com/red-flag-professional-behaviour/discrediting)
+- [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
+- [Illusory Truth Effect](https://en.wikipedia.org/wiki/Illusory_truth_effect)
+- [Microtarget](https://www.merriam-webster.com/dictionary/microtarget)
+- [Maintaining Guilt and Ignorance](https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle)
+- [Framing](https://en.wikipedia.org/wiki/Framing_(social_sciences))
+- [Bandwagon Effect](https://en.wikipedia.org/wiki/Bandwagon_effect)
+- [Astroturfing](https://disarmframework.herokuapp.com/technique/145/view)
+- [Butterfly Attacks](https://disarmframework.herokuapp.com/technique/134/view)
 
 <br>
 
@@ -151,32 +151,32 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 
 <a href="./Key_Concepts/Key_Concepts_description.md">With Description</a><br><br>
 
-<b>5th generation warfare:</b> https://en.wikipedia.org/wiki/Fifth-generation_warfare<br>
-<b>Titytainment:</b> http://www.gandalf.it/arianna/titty.htm<br>
-<b>Problem-Reaction-Solution - PRS:</b> https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle<br>
-<b>Data Voids:</b> https://datasociety.net/library/data-voids/<br>
-<b>Audience Vulnerability:</b> https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md<br>
-<b>Information Asymmetry:</b> https://en.wikipedia.org/wiki/Information_asymmetry<br>
-<b>Filter Buble:</b> https://en.wikipedia.org/wiki/Filter_bubble<br>
-<b>Dopamine loop:</b> https://en.wikipedia.org/wiki/Compulsion_loop<br>
-<b>Overton Windows:</b> https://en.wikipedia.org/wiki/Overton_window<br>
-<b>VUCA:</b> https://en.wikipedia.org/wiki/VUCA<br>
-<b>Confirmation Bias:</b> https://en.wikipedia.org/wiki/VUCA<br>
-<b>Anchor Bias:</b> https://en.wikipedia.org/wiki/Anchoring_effect<br>
-<b>Self-licensing:</b> https://en.wikipedia.org/wiki/Self-licensing<br>
-<b>Milgram Experience:</b> https://en.wikipedia.org/wiki/Milgram_experiment<br>
-<b>Ash Experience:</b> https://en.wikipedia.org/wiki/Asch_conformity_experiments<br>
-<b>FUD:</b> https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt<br>
-<b>FOMO:</b> https://en.wikipedia.org/wiki/Fear_of_missing_out<br>
-<b>PSYOPS:</b> https://en.wikipedia.org/wiki/Psychological_operations_(United_States)<br>
-<b>Troll/bot farm:</b> https://en.wikipedia.org/wiki/Troll_farm<br>
-<b>Digital Identity:</b> https://en.wikipedia.org/wiki/Digital_identity<br>
-<b>OSINT:</b> https://en.wikipedia.org/wiki/Open-source_intelligence<br>
-<b>OPSEC:</b> https://en.wikipedia.org/wiki/Operations_security<br>
-<b>OODA Loop:</b> https://fr.wikipedia.org/wiki/Boucle_OODA<br>
-<b>Soft Power:</b> https://en.wikipedia.org/wiki/Soft_power<br>
-<b>Emotional Manipulation:</b> https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX<br>
-<b>Military Memetic:</b> https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br><br><br>
+- [5th Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare)
+- [Titytainment](http://www.gandalf.it/arianna/titty.htm)
+- [Problem-Reaction-Solution - PRS](https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle)
+- [Data Voids](https://datasociety.net/library/data-voids/)
+- [Audience Vulnerability](https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md)
+- [Information Asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry)
+- [Filter Bubble](https://en.wikipedia.org/wiki/Filter_bubble)
+- [Dopamine Loop](https://en.wikipedia.org/wiki/Compulsion_loop)
+- [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+- [VUCA](https://en.wikipedia.org/wiki/VUCA)
+- [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias)
+- [Anchor Bias](https://en.wikipedia.org/wiki/Anchoring_effect)
+- [Self-licensing](https://en.wikipedia.org/wiki/Self-licensing)
+- [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+- [Asch Experiment](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
+- [FUD](https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)
+- [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out)
+- [PSYOPS](https://en.wikipedia.org/wiki/Psychological_operations_(United_States))
+- [Troll/Bot Farm](https://en.wikipedia.org/wiki/Troll_farm)
+- [Digital Identity](https://en.wikipedia.org/wiki/Digital_identity)
+- [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)
+- [OPSEC](https://en.wikipedia.org/wiki/Operations_security)
+- [OODA Loop](https://fr.wikipedia.org/wiki/Boucle_OODA)
+- [Soft Power](https://en.wikipedia.org/wiki/Soft_power)
+- [Emotional Manipulation](https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX)
+- [Military Memetics](https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)<br><br>
 
 
 # Biderman's Chart of Coercion
@@ -309,14 +309,15 @@ Cognitive Weaponization Matrix has been released under <a href="https://creative
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
 All documents store here come from Internet and are avalaible in open source access:<br><br>
 
-https://en.wikipedia.org/wiki/Cognitive_bias<br>
-https://apps.dtic.mil/sti/citations/ADA507172<br>
-https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique<br>
-https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf<br>
-https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf<br>
-https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf<br>
-https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth<br>
-https://disarmframework.herokuapp.com<br>
+- [Biais Cognitifs - Wikipédia](https://fr.wikipedia.org/wiki/Biais_cognitif)
+- [Article PMC - Biderman’s Chart of Coercion](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf)
+- [DTIC - Cognitive Warfare Study](https://apps.dtic.mil/sti/citations/ADA507172)
+- [AOR Compiègne - La Guerre Cognitique](https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique)
+- [Paul Masson - Document Chomsky](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
+- [PhiloCité - Autodéfense Intellectuelle](https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf)
+- [Robotic Technology Inc - Military Memetics Tutorial](https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)
+- [The Babe - The Great Meme War](https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth)
+- [DISARM Framework](https://disarmframework.herokuapp.com)
 
 <br><br><br><br><br>
 
