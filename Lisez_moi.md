@@ -1,3 +1,8 @@
+---
+title: Lisea moi (français)
+---
+
+<link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
   <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
