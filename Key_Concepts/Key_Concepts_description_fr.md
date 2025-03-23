@@ -1,3 +1,9 @@
+---
+layout: default
+title: Concepts Clés
+lang: fr
+---
+
 # Concepts Clés
 <br><br>
 
