@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/Assets/style.css">
 <br>
 <p align="center">
   <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
