@@ -51,7 +51,7 @@
         <li><strong>Manque de contexte</strong> : Si le titre ne dit rien de précis, méfiez-vous.</li>
     </ul>
     <p>Entraînez votre œil à ces signaux pour rester vigilant.</p>
-    <h2>Détection d’un Clickbait : Le Guide Ultime Pour Ne Plus Vous Faire Avoir !</h2>
+    <br>
     <p>Voici un guide pratique pour démasquer le clickbait :</p>
     <ol>
         <li><strong>Analysez le titre</strong> : Trop vague ou exagéré ? C’est suspect.</li>
