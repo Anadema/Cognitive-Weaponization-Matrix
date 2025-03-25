@@ -2,7 +2,7 @@
 layout: default
 title: 02-Sock_Puppet
 date: 2025-03-16
----
+--- 
 <!DOCTYPE html>
 <html lang="fr">
 <head>
