@@ -6,7 +6,7 @@
 </head>
 <body>
      <p align="center">
-      <img width="500" height="400" src="../Image/clickbait.jpg"><br><br>
+      <img width="400" height="400" src="../Image/clickbait.jpg"><br><br>
    </p><br>
     <h1>Le Clickbait sur Internet : Le Secret Pour Ne Plus Jamais Être Dupé !</h1>
     <p>Le clickbait, ou "appât à clics", est une technique omniprésente sur Internet qui cherche à capter votre attention et vous pousser à cliquer sur un lien. Que ce soit à travers des titres sensationnels, des images intrigantes ou des promesses alléchantes, le clickbait est conçu pour susciter une réaction immédiate. Bien qu’il ne soit pas toujours mal intentionné – certains sites l’utilisent simplement pour attirer des lecteurs – il peut aussi servir à manipuler, désinformer ou même compromettre votre sécurité en ligne. En comprenant ses rouages, vous pouvez reprendre le contrôle de votre navigation et éviter les pièges numériques.</p>
