@@ -78,5 +78,4 @@ date: 2025-03-16
     </ul><br><br>
     <h2>Pourquoi c’est important de reconnaître le sock puppet en ligne ?</h2><br>
     <p>Identifier les sock puppets est crucial pour contrer leurs effets néfastes : désinformation, manipulation de l’opinion publique, division sociale ou harcèlement ciblé. Leur discrétion leur permet d’agir longtemps sans être détectés, exploitant les réseaux sociaux et forums pour semer le doute à grande échelle. En apprenant à les repérer et à s’en protéger, vous pouvez préserver votre autonomie et contribuer à un internet plus fiable.</p><br>
-</body>
-</html>
+
