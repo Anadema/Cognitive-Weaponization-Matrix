@@ -10,9 +10,4 @@ title: Cognitive-Weaponization-Matrix
   <i>Arsène White</i>
 </p>
 <br>
-<br>
-
-Choisissez votre langue / Choose your language :
-- [Français](/Lisez_moi.md)
-- [English](/Readme.md)
 
