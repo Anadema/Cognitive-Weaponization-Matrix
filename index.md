@@ -8,10 +8,9 @@ title: Cognitive-Weaponization-Matrix
   "Si vous pensez que vous n'avez rien à cacher, cela signifie que vous avez déjà tout perdu."<br>
   "If you think you have nothing to hide, it means you have already lost everything."<br>
   <i>Arsène White</i>
-</p>
+</p><br>
 <p align="center">
   Choisissez votre langue / Choose your language:<br>
   <a href="/Cognitive-Weaponization-Matrix/Lisez_moi.html">Français</a> | 
   <a href="/Cognitive-Weaponization-Matrix/Readme.html">English</a>
 </p>
-<br>
