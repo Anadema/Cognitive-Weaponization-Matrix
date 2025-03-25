@@ -1,3 +1,8 @@
+---
+layout: default
+title: 01-Gaslighting
+date: 2025-03-13
+---
 <!DOCTYPE html>
 <html lang="fr">
 <head>
