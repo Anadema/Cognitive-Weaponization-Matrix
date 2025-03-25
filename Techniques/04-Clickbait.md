@@ -21,7 +21,7 @@
     </ul>
     <p>Ces stratagèmes montrent comment la manipulation psychologique sert à attirer et à piéger, un peu comme les appâts à clics sur Internet.</p><br>
     <p align="center">
-      <img width="500" height="400" src="../Image/Mincemeat.jpg">La carte d'identité du major William Martin confectionné pour l'opération Mincemeat.<br>© Ewen Montagu Team - Montagu, E.: The Man Who Never Was, London 1953<br><br>
+      <img width="500" height="400" src="../Image/Mincemeat.jpg"><br>La carte d'identité du major William Martin confectionné pour l'opération Mincemeat.<br>© Ewen Montagu Team - Montagu, E.: The Man Who Never Was, London 1953<br><br>
    </p>
     <h2>Techniques du Clickbait : Les Astuces Sournoises Que Vous Devez Connaître !</h2>
     <p>Les créateurs de clickbait déploient des techniques bien rodées pour capter votre attention :</p>
