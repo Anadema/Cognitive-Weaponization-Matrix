@@ -302,7 +302,7 @@ L’axe de recherche est à la fois scientifique et militaire, avec l’original
 
 Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour le compte d’un gouvernement, d’une entreprise privée autre que la mienne, ou d’un groupe politique ou idéologique. C’est une démarche passionnée, et certainement un besoin personnel, dans le seul but de tenter de m’approcher de la vérité, ni plus, ni moins. Je fais des erreurs, et j’apprends en conséquence. Mon objectif est uniquement de partager les connaissances que j’ai rassemblées, et non de me positionner comme un expert.
 
-Pour conclure ce travail, je précise que je ne suis pas suicidaire :innocent:
+Pour conclure ce travail, je précise que je ne suis pas suicidaire.
 <br><br><br>
 
 # Licence
