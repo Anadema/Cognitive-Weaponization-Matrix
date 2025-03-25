@@ -80,5 +80,3 @@ title: 04-Clickbait
         <li><strong>Consommer mieux</strong> : Privilégiez les sources fiables et enrichissantes.</li>
     </ul>
     <p>En maîtrisant ces compétences, vous devenez un internaute éclairé.</p>
-</body>
-</html>
