@@ -19,10 +19,10 @@
         <li><strong>La Ruse de Sun Bin (Royaumes Combattants, Chine, IVe siècle av. J.-C.)</strong> : Sun Bin a feint une faiblesse en réduisant chaque nuit le nombre de feux de camp de son armée. L’ennemi, croyant à une désertion massive, a attaqué sans prudence et est tombé dans une embuscade. Ce piège attire en exploitant une fausse impression, comme expliqué dans cet article de <a href="https://www.chine-magazine.com/sun-bin-le-stratege-oublie/">Chine Magazine</a>.</li>
         <li><strong>Opération Mincemeat (Seconde Guerre Mondiale, 1943)</strong> : Les Britanniques ont utilisé un cadavre porteur de faux documents pour convaincre les Allemands que l’invasion alliée viserait la Grèce et la Sardaigne, détournant leur attention de la Sicile. Une tromperie qui rappelle les titres clickbait, détaillée sur <a href="https://www.geo.fr/histoire/quest-ce-que-loperation-mincemeat-imaginee-pour-tromper-les-allemands-en-1943-209954">Geo</a>.</li>
     </ul>
-    <p>Ces stratagèmes montrent comment la manipulation psychologique sert à attirer et à piéger, un peu comme les appâts à clics sur Internet.</p>
+    <p>Ces stratagèmes montrent comment la manipulation psychologique sert à attirer et à piéger, un peu comme les appâts à clics sur Internet.</p><br>
     <p align="center">
       <img width="500" height="400" src="../Image/Mincemeat.jpg"><br><br>
-   </p><br>
+   </p>
     <h2>Techniques du Clickbait : Les Astuces Sournoises Que Vous Devez Connaître !</h2>
     <p>Les créateurs de clickbait déploient des techniques bien rodées pour capter votre attention :</p>
     <ul>
