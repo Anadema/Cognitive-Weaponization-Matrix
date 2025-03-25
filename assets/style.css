@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #ddd; /* Texte clair pour contraste avec le fond sombre */
-    background-color: #2c2c2c; /* Fond gris très foncé */
+    background-color: #000000; /* Fond gris très foncé */
 }
 
 /* Sticky Footer */
@@ -28,16 +28,18 @@ main {
 }
 .wrapper {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto; /* Centre le wrapper horizontalement */
     padding: 0 20px;
+    text-align: center; /* Centre tout le contenu à l'intérieur */
 }
 .site-title {
     font-size: 1.5rem;
     color: #ecf0f1; /* Couleur claire pour le titre */
     text-decoration: none;
+    display: inline-block; /* Permet au titre de rester centré avec la nav */
 }
 .site-nav {
-    float: right;
+    display: inline-block; /* Remplace float: right pour rester centré avec le titre */
 }
 .nav-menu {
     list-style-type: none;
@@ -66,16 +68,4 @@ main {
     position: absolute;
     background-color: #3a3a3a; /* Même gris que le header */
     min-width: 160px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-    top: 100%; /* Position sous le bouton */
-    right: 0; /* Aligné à droite du bouton */
-}
-.dropdown-content .page-link {
-    margin-left: 0; /* Supprime la marge pour les liens du menu */
-}
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-/*
+    box-shadow: 0 4px 8px rgba
