@@ -2,7 +2,6 @@
 layout: default
 title: Cognitive-Weaponization-Matrix
 ---
-<link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
   <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
@@ -10,4 +9,9 @@ title: Cognitive-Weaponization-Matrix
   <i>Arsène White</i>
 </p>
 <br>
-
+<p align="center">
+  Choisissez votre langue / Choose your language:<br>
+  <a href="/Cognitive-Weaponization-Matrix/Lisez_moi.md">Français</a> | 
+  <a href="/Cognitive-Weaponization-Matrix/Readme.md">English</a>
+</p>
+<br>
