@@ -1,3 +1,7 @@
+---
+layout: default
+title: 04-Clickbait
+---
 <!DOCTYPE html>
 <html lang="fr">
 <head>
