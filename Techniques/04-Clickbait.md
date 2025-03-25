@@ -41,7 +41,7 @@
     <h2>Comment le Clickbait Envahit Internet : Vous Ne Devinez Jamais Ses Méthodes !</h2>
     <p>Le clickbait prospère grâce aux algorithmes des réseaux sociaux, qui favorisent les contenus à fort engagement – clics, partages, commentaires. Un titre accrocheur comme "Cette vidéo va vous laisser sans voix !" devient viral en quelques heures. Les sites financés par la publicité y trouvent leur compte, car plus de clics égalent plus de revenus. Ce système rend le clickbait difficile à éviter, comme l’explique <a href="https://www.redacteur.com/blog/clickbait-buzz-methode-payante/">Rédacteur.com</a>.</p>
     <p align="center">
-      <img width="500" height="400" src="../Image/exemples-clickbait.jpg"><br>La carte d'identité du major William Martin confectionné pour l'opération Mincemeat.<br>© Ewen Montagu Team - Montagu, E.: The Man Who Never Was, London 1953<br><br>
+      <img width="500" height="400" src="../Image/exemples_clickbait.jpg"><br><a href="https://ajustetitre.tumblr.com/archive">Page sur Tumblr</a> qui recense plusieurs exemples par année<br><br>
     <h2>Détecter un Clickbait : Les Indices Chocs Que Tout le Monde Rate !</h2>
     <p>Repérer le clickbait demande de l’attention. Voici quelques indices :</p>
     <ul>
