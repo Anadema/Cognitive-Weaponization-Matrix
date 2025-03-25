@@ -9,7 +9,6 @@ title: Cognitive-Weaponization-Matrix
   "If you think you have nothing to hide, it means you have already lost everything."<br>
   <i>Arsène White</i>
 </p>
-<br>
 <p align="center">
   Choisissez votre langue / Choose your language:<br>
   <a href="/Cognitive-Weaponization-Matrix/Lisez_moi.html">Français</a> | 
