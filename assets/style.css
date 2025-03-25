@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #ddd; /* Texte clair pour contraste avec le fond sombre */
-    background-color: #2c2c2c; /* Fond gris très foncé */
+    background-color: #000000; /* Fond gris très foncé */
 }
 
 /* Sticky Footer */
