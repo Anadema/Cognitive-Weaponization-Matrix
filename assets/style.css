@@ -82,6 +82,10 @@ main {
 }
 
 /* Contenu */
+img {
+    max-width: 100%;
+    height: auto;
+}
 .page-content {
     padding: 2rem 0;
     /* text-align: center supprimé pour ne pas centrer les articles */
