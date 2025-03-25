@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #ddd; /* Texte clair pour contraste avec le fond sombre */
-    background-color: #000000; /* Fond gris très foncé */
+    background-color: #2c2c2c; /* Fond gris très foncé */
 }
 
 /* Sticky Footer */
@@ -28,18 +28,18 @@ main {
 }
 .wrapper {
     max-width: 1200px;
-    margin: 0 auto; /* Centre le wrapper horizontalement */
+    margin: 0 auto; /* Centre le wrapper horizontalement dans la page */
     padding: 0 20px;
-    text-align: center; /* Centre tout le contenu à l'intérieur */
+    /* text-align: center supprimé pour ne pas centrer tout le contenu */
 }
 .site-title {
     font-size: 1.5rem;
     color: #ecf0f1; /* Couleur claire pour le titre */
     text-decoration: none;
-    display: inline-block; /* Permet au titre de rester centré avec la nav */
+    display: inline-block; /* Permet au titre de s'aligner avec la nav */
 }
 .site-nav {
-    display: inline-block; /* Remplace float: right pour rester centré avec le titre */
+    float: right; /* Remet la nav à droite comme dans ton design original */
 }
 .nav-menu {
     list-style-type: none;
@@ -68,4 +68,74 @@ main {
     position: absolute;
     background-color: #3a3a3a; /* Même gris que le header */
     min-width: 160px;
-    box-shadow: 0 4px 8px rgba
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 100%; /* Position sous le bouton */
+    right: 0; /* Aligné à droite du bouton, comme avant */
+    /* transform supprimé car plus besoin de centrage */
+}
+.dropdown-content .page-link {
+    margin-left: 0; /* Supprime la marge pour les liens du menu */
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Contenu */
+.page-content {
+    padding: 2rem 0;
+    /* text-align: center supprimé pour ne pas centrer les articles */
+}
+.post-header h1 {
+    color: #ecf0f1; /* Titre clair */
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+.post-content {
+    text-align: left; /* Articles alignés à gauche */
+}
+.post-content img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin: 1rem 0;
+}
+.post-content p {
+    margin: 0.5rem 0;
+}
+.post-content a {
+    color: #e74c3c; /* Rouge pour les liens dans le contenu */
+    text-decoration: none;
+    padding: 0 5px; /* Petit espacement pour les liens */
+}
+.post-content a:hover {
+    text-decoration: underline;
+}
+.post-content ul {
+    padding-left: 20px;
+}
+
+/* Footer */
+.site-footer {
+    background-color: #3a3a3a; /* Même gris que le header */
+    padding: 2rem 0;
+    border-top: 1px solid #555;
+    flex-shrink: 0;
+}
+.footer-content {
+    text-align: center; /* Centre uniquement le contenu du footer */
+}
+.footer-content p {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+}
+.footer-content a {
+    color: #e74c3c; /* Rouge pour les liens */
+    text-decoration: none;
+}
+.footer-content a:hover {
+    text-decoration: underline;
+}
+.footer-description {
+    font-style: italic;
+    color: #bdc3c7; /* Gris clair pour la description */
+}
