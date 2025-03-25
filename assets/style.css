@@ -1,9 +1,10 @@
+/* Réinitialisation de base */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #fff;
+    color: #ddd; /* Texte clair pour contraste avec le fond sombre */
+    background-color: #2c2c2c; /* Fond gris très foncé */
 }
 
 /* Sticky Footer */
@@ -21,9 +22,9 @@ main {
 
 /* Header */
 .site-header {
-    background-color: #ecf0f1;
+    background-color: #3a3a3a; /* Gris un peu plus clair que le fond */
     padding: 1rem 0;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #555;
 }
 .wrapper {
     max-width: 1200px;
@@ -32,19 +33,49 @@ main {
 }
 .site-title {
     font-size: 1.5rem;
-    color: #2c3e50;
+    color: #ecf0f1; /* Couleur claire pour le titre */
     text-decoration: none;
 }
 .site-nav {
     float: right;
 }
+.nav-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav-menu li.dropdown {
+    position: relative;
+    display: inline-block;
+}
 .page-link {
-    color: #2c3e50;
+    color: #ecf0f1; /* Couleur claire pour les liens */
     margin-left: 1rem;
     text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
 }
 .page-link:hover {
-    color: #e74c3c;
+    color: #e74c3c; /* Rouge pour le survol */
+}
+.dropbtn {
+    cursor: pointer;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3a3a3a; /* Même gris que le header */
+    min-width: 160px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 100%; /* Position sous le bouton */
+    right: 0; /* Aligné à droite du bouton */
+}
+.dropdown-content .page-link {
+    margin-left: 0; /* Supprime la marge pour les liens du menu */
+}
+.dropdown:hover .dropdown-content {
+    display: block;
 }
 
 /* Contenu */
@@ -52,7 +83,7 @@ main {
     padding: 2rem 0;
 }
 .post-header h1 {
-    color: #2c3e50;
+    color: #ecf0f1; /* Titre clair */
     font-size: 2rem;
     margin-bottom: 1rem;
 }
@@ -68,7 +99,7 @@ main {
     margin: 0.5rem 0;
 }
 .post-content a {
-    color: #e74c3c;
+    color: #e74c3c; /* Rouge pour les liens */
     text-decoration: none;
 }
 .post-content a:hover {
@@ -80,9 +111,9 @@ main {
 
 /* Footer */
 .site-footer {
-    background-color: #f9f9f9;
+    background-color: #3a3a3a; /* Même gris que le header */
     padding: 2rem 0;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid #555;
     flex-shrink: 0;
 }
 .footer-content {
@@ -93,14 +124,5 @@ main {
     font-size: 0.9rem;
 }
 .footer-content a {
-    color: #e74c3c;
-    text-decoration: none;
-}
-.footer-content a:hover {
-    text-decoration: underline;
-}
-.footer-description {
-    font-style: italic;
-    color: #7f8c8d;
-}
-
+    color: #e74c3c; /* Rouge pour les liens */
+    text-decoration
