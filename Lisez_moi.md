@@ -1,3 +1,7 @@
+---
+layout: default
+title: Cognitive-Weaponization-Matrix - Lisez-moi
+---
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
