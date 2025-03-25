@@ -11,7 +11,7 @@ title: Cognitive-Weaponization-Matrix
 <br>
 <p align="center">
   Choisissez votre langue / Choose your language:<br>
-  <a href="/Cognitive-Weaponization-Matrix/Lisez_moi.md">Français</a> | 
-  <a href="/Cognitive-Weaponization-Matrix/Readme.md">English</a>
+  <a href="/Cognitive-Weaponization-Matrix/Lisez_moi.html">Français</a> | 
+  <a href="/Cognitive-Weaponization-Matrix/Readme.html">English</a>
 </p>
 <br>
