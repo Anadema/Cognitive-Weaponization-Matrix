@@ -242,7 +242,8 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
 Noam Chomsky, through his critical analyses of media and power, aimed to expose the mechanisms by which elites manipulate perceptions to maintain their dominance, thereby encouraging collective awareness to resist them.
 <br><br>
 Today, in the context of cognitive warfare, where disinformation, algorithms, and psychological targeting amplify these strategies, his work provides a valuable framework for decoding modern manipulations and defending against the insidious influence that seeks to shape our thoughts and behaviors.
-<br><br><br>
+<br><br>
+As a committed intellectual, he denounced abuses of power, particularly those of the United States, in works such as Manufacturing Consent (co-authored with Edward S. Herman). Many see him as a defender of the oppressed and a sharp critic of capitalism and imperialism.<br><br><br>
 
 <p align="center">
   <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
