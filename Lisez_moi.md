@@ -290,7 +290,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
     <td style="border: 1px solid #FFFFFF;">L'influence vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
     <td style="border: 1px solid #FFFFFF;">La publicité présente des produits comme essentiels à un mode de vie idéal, créant des besoins artificiels, mais réfléchir à ses vrais besoins peut contrer cela.</td>
     <td style="border: 1px solid #FFFFFF;">Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Profit-Over-People-Neoliberalism-Global/dp/1888363827" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
