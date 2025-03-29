@@ -254,41 +254,41 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 ## Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010
 <br>
 
-<table border="1">
+<table>
   <tr>
     <th>Theme</th>
-    <th>Main Idea</th>
-    <th>Example or Explanation</th>
+    <th>General Idea</th>
+    <th>Example</th>
     <th>Reference</th>
     <th>Link</th>
   </tr>
   <tr>
     <td>Language and Thought</td>
     <td>Language is a tool of manipulation that shapes the perception of reality.</td>
-    <td>Changing "invasion" to "humanitarian mission" to make a war acceptable.</td>
-    <td>Chomsky, N. (1988). <em>Language and Problems of Knowledge</em>.</td>
+    <td>In the media, describing a scandal as a "minor controversy" rather than a "major crisis" to minimize its importance to the public.</td>
+    <td>Chomsky, N. (1988). <i>Language and Problems of Knowledge</i>.</td>
     <td><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
   </tr>
   <tr>
     <td>Manufacturing Consent</td>
-    <td>Media and power create an artificial consensus to control the masses without violence.</td>
-    <td>Information is filtered to support elite interests, not to inform objectively.</td>
-    <td>Chomsky, N. & Herman, E. S. (1988). <em>Manufacturing Consent: The Political Economy of the Mass Media</em>.</td>
-    <td><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon</a></td>
+    <td>Polymorphic media create an artificial consensus to guide the masses without violence.</td>
+    <td>Focus on celebrity gossip or sports events to divert attention from important issues like environmental problems.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
+    <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td>Systemic Filters</td>
-    <td>Invisible mechanisms (economy, official sources) limit narratives in the media.</td>
-    <td>Large corporations own the media and influence what is published or ignored.</td>
-    <td>Chomsky, N. & Herman, E. S. (1988). <em>Manufacturing Consent</em>. Chapter on the "propaganda model".</td>
-    <td><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon</a></td>
+    <td>Invisible mechanisms (economy, official sources) limit the narratives in the media.</td>
+    <td>Strikes described as disruptive in the media, while management lockouts are reported neutrally, influencing opinion in favor of businesses.</td>
+    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapter on the "propaganda model".</td>
+    <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td>Passivity and Resistance</td>
-    <td>Manipulation aims to make people passive, but critical thinking can break this control.</td>
-    <td>Saturation with trivial information to divert attention; critical education as an antidote.</td>
-    <td>Chomsky, N. (1991). <em>Media Control: The Spectacular Achievements of Propaganda</em>.</td>
-    <td><a href="https://www.sevenstories.com/books/2919-media-control" target="_blank">Seven Stories Press</a></td>
+    <td>Influence aims to make people passive, but critical thinking can break this control.</td>
+    <td>Advertising presents products as essential to an ideal lifestyle, creating artificial needs, but reflecting on real needs can counter this.</td>
+    <td>Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
+    <td><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
@@ -300,7 +300,7 @@ The objective is to provide keys to understanding this domain of cognitive warfa
 
 The research focus is both scientific and military, with the originality lying in making directly a high level of resources available, rather than engaging in mass vulgarization that hides behind influence methods.
 
-I have no conflicts of interest, meaning I am not acting on behalf of any government, private company other than my own, or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
+I have no conflicts of interest, meaning I am not acting on behalf of any government or any political or ideological group. This is a passionate endeavor, and certainly a personal need, 
 with the sole aim of trying to get closer to the truth, nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
 
 To conclude this work, I specify that I am not suicidal.
