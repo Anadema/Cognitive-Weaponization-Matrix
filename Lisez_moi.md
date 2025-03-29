@@ -204,11 +204,11 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 1. **Isoler la victime :**  
    - Priver la personne des soutiens sociaux et des connexions qui lui donneraient la capacité de résister.  
    - Développer une préoccupation intense pour soi-même chez la victime.  
-   - Rendre la victime dépendante de l'autorité.  
+   - Rendre la victime dépendante.
 
 2. **Monopoliser la perception :**  
    - Fixer l'attention de la victime sur une situation difficile et urgente, forçant l'introspection.  
-   - Éliminer les informations qui pourraient contredire le récit de l'autorité.  
+   - Éliminer les informations qui pourraient contredire les informations présentées. 
    - Punir tous les actes de défi.  
 
 3. **Induire l'épuisement :**  
@@ -222,14 +222,14 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
    - Également, empêcher la victime de s'habituer aux privations imposées.  
 
 6. **Démontrer l'omnipotence du pouvoir :**  
-   - Suggérer l'inutilité et la futilité de résister à l'autorité.  
+   - Suggérer l'inutilité et la futilité de résister.
 
 7. **Dégrader la victime :**  
    - Faire en sorte que le coût de la résistance semble plus dommageable pour l'estime de soi que la capitulation.  
    - Réduire la victime au niveau de la survie animale.  
 
 8. **Exiger des actions stupides et insensées :**  
-   - Développer des habitudes de soumission à l'autorité, même pour des ordres complètement absurdes, inutiles et sans fondement.  
+   - Développer des habitudes de soumission, même pour des ordres complètement absurdes, inutiles et sans fondement.  
    - Briser la volonté libre et les capacités de jugement de la victime.  
 
 ## Références
@@ -240,11 +240,12 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 # Etude sur les médias de masse - Noam Chomsky
 <br>
-Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, a cherché à révéler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister.
+<b>En tant qu'intellectuel engagé, Noam Chomsky a dénoncé les abus de pouvoir, notamment ceux des États-Unis, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.</b>
+<br><br>
+A travers ses analyses critiques des médias et du pouvoir, a cherché à révéler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister.
 <br><br>
 Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, les algorithmes et le ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et nos comportements.
-<br><br>
-<b>En tant qu'intellectuel engagé, il a dénoncé les abus de pouvoir, notamment ceux des États-Unis, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.</b><br><br><br>
+<br><br><br>
 
 <p align="center">
   <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
