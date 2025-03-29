@@ -274,21 +274,21 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
     <td style="border: 1px solid #FFFFFF;">Polymorphic media create an artificial consensus to guide the masses without violence.</td>
     <td style="border: 1px solid #FFFFFF;">Focus on celebrity gossip or sports events to divert attention from important issues like environmental problems.</td>
     <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td style="border: 1px solid #FFFFFF;">Systemic Filters</td>
     <td style="border: 1px solid #FFFFFF;">Invisible mechanisms (economy, official sources) limit the narratives in the media.</td>
     <td style="border: 1px solid #FFFFFF;">Strikes described as disruptive in the media, while management lockouts are reported neutrally, influencing opinion in favor of businesses.</td>
     <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapter on the "propaganda model".</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td style="border: 1px solid #FFFFFF;">Passivity and Resistance</td>
     <td style="border: 1px solid #FFFFFF;">Influence aims to make people passive, but critical thinking can break this control.</td>
     <td style="border: 1px solid #FFFFFF;">Advertising presents products as essential to an ideal lifestyle, creating artificial needs, but reflecting on real needs can counter this.</td>
     <td style="border: 1px solid #FFFFFF;">Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Profit-Over-People-Neoliberalism-Global/dp/1888363827" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
