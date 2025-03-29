@@ -273,21 +273,21 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
   </tr>
   <tr>
     <td>Fabrication du consentement</td>
-    <td>Les médias et le pouvoir créent un consensus artificiel pour contrôler les masses sans violence.</td>
-    <td>Les informations sont filtrées pour soutenir les intérêts des élites, pas pour informer objectivement.</td>
+    <td>Les médias polymorphiques créent un consensus artificiel pour orienter les masses sans violence.</td>
+    <td>Les informations sont organisée pour soutenir les intérêts de certains groupes, pas pour informer objectivement.</td>
     <td>Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement : L'économie politique des médias de masse</i>.</td>
     <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td>Filtres systémiques</td>
     <td>Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
-    <td>Les grands groupes possèdent les médias et influencent ce qui est publié ou ignoré.</td>
+    <td>Les acteurs médiatiques influencent ce qui est publié ou ignoré.</td>
     <td>Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement</i>. Chapitre sur le "modèle de propagande".</td>
     <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td>Passivité et résistance</td>
-    <td>La manipulation vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
+    <td>L'influence vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
     <td>Saturation d’infos triviales pour détourner l’attention ; l’éducation critique comme antidote.</td>
     <td>Chomsky, N. (1991). <i>Contrôle des médias : Les remarquables réussites de la propagande</i>.</td>
     <td><a href="https://www.amazon.fr/Contr%C3%B4le-m%C3%A9dias-remarquables-r%C3%A9ussites-propagande/dp/2355220085" target="_blank">Amazon.fr</a></td>
