@@ -88,7 +88,7 @@ Unlike <a href="https://www.disarm.foundation/">DISARM framework</a>, which targ
 <br>
 
 <p align="center">
-  <img width="600" height="100%" src="./Image/st.jpg">
+  <img width="400" height="300" src="./Image/st.jpg">
 </p>
 <br><br>
 
