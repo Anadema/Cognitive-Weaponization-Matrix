@@ -44,7 +44,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img max-width="1000" height="100%" src="./Image/5g.jpg"><br>
+  <img max-width="800" height="100%" src="./Image/5g.jpg"><br>
 </p>
 
 
@@ -68,7 +68,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img max-width="1000" height="100%" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
+  <img max-width="800" height="100%" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
   <a href="https://fr.wikipedia.org/wiki/Biais_cognitif">Biais Cognitifs</a>
 </p>
 
@@ -87,7 +87,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <br>
 
 <p align="center">
-  <img width="700" height="100%" src="./Image/st.jpg">
+  <img width="500" height="100%" src="./Image/st.jpg">
 </p>
 <br><br>
 
@@ -192,7 +192,7 @@ Le "Biderman's Chart of Coercion", créé par Albert Biderman en 1957, décrit d
 Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifiées avec les réseaux sociaux, la désinformation et la propagande numérique. L'objectif est d'influencer les perceptions et comportements d’une population, en utilisant des stratégies de confusion, dépendance et contrôle de l’information pour soumettre les esprits à grande échelle.<br><br>
 
 <p align="center">
-  <img width="100%" height="1200" src="./Documents/biderman.jpg"><br><br>
+  <img width="300" height="1200" src="./Documents/biderman.jpg"><br><br>
   <i><b></b>Biderman’s Chart of Coercion, tiré de humanrights.ucdavis.edu,<br></b>Guantánamo Testimonials Project</i>
 </p>
 <br>
