@@ -256,41 +256,41 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
 ## Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010
 <br>
 
-<table style="border: 1px solid #000000; border-collapse: collapse;">
+<table style="border: 1px solid #FFFFFF; border-collapse: collapse;">
   <tr>
-    <th style="border: 1px solid #000000;">Thème</th>
-    <th style="border: 1px solid #000000;">Idée Générale</th>
-    <th style="border: 1px solid #000000;">Exemple</th>
-    <th style="border: 1px solid #000000;">Référence</th>
-    <th style="border: 1px solid #000000;">Lien</th>
+    <th style="border: 1px solid #FFFFFF;">Thème</th>
+    <th style="border: 1px solid #FFFFFF;">Idée Générale</th>
+    <th style="border: 1px solid #FFFFFF;">Exemple</th>
+    <th style="border: 1px solid #FFFFFF;">Référence</th>
+    <th style="border: 1px solid #FFFFFF;">Lien</th>
   </tr>
   <tr>
-    <td style="border: 1px solid #000000;">Langage et pensée</td>
-    <td style="border: 1px solid #000000;">Le langage est un outil de manipulation qui façonne la perception de la réalité.</td>
-    <td style="border: 1px solid #000000;">Dans les médias, qualifier un scandale de "controverse mineure" plutôt que de "crise majeure" pour minimiser son importance auprès du public.</td>
-    <td style="border: 1px solid #000000;">Chomsky, N. (1988). <i>Langage et problèmes de la connaissance</i>.</td>
-    <td style="border: 1px solid #000000;"><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
+    <td style="border: 1px solid #FFFFFF;">Langage et pensée</td>
+    <td style="border: 1px solid #FFFFFF;">Le langage est un outil de manipulation qui façonne la perception de la réalité.</td>
+    <td style="border: 1px solid #FFFFFF;">Dans les médias, qualifier un scandale de "controverse mineure" plutôt que de "crise majeure" pour minimiser son importance auprès du public.</td>
+    <td style="border: 1px solid #FFFFFF;">Chomsky, N. (1988). <i>Langage et problèmes de la connaissance</i>.</td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000000;">Fabrication du consentement</td>
-    <td style="border: 1px solid #000000;">Les médias polymorphiques créent un consensus artificiel pour orienter les masses sans violence.</td>
-    <td style="border: 1px solid #000000;">Focus sur les potins de célébrités ou les événements sportifs pour détourner l’attention des enjeux importants comme les problèmes environnementaux.</td>
-    <td style="border: 1px solid #000000;">Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement : L'économie politique des médias de masse</i>.</td>
-    <td style="border: 1px solid #000000;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #FFFFFF;">Fabrication du consentement</td>
+    <td style="border: 1px solid #FFFFFF;">Les médias polymorphiques créent un consensus artificiel pour orienter les masses sans violence.</td>
+    <td style="border: 1px solid #FFFFFF;">Focus sur les potins de célébrités ou les événements sportifs pour détourner l’attention des enjeux importants comme les problèmes environnementaux.</td>
+    <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement : L'économie politique des médias de masse</i>.</td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000000;">Filtres systémiques</td>
-    <td style="border: 1px solid #000000;">Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
-    <td style="border: 1px solid #000000;">Grèves décrites comme disruptives dans les médias, tandis que les lockouts patronaux sont rapportés de manière neutre, influençant l’opinion en faveur des entreprises.</td>
-    <td style="border: 1px solid #000000;">Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement</i>. Chapitre sur le "modèle de propagande".</td>
-    <td style="border: 1px solid #000000;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #FFFFFF;">Filtres systémiques</td>
+    <td style="border: 1px solid #FFFFFF;">Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
+    <td style="border: 1px solid #FFFFFF;">Grèves décrites comme disruptives dans les médias, tandis que les lockouts patronaux sont rapportés de manière neutre, influençant l’opinion en faveur des entreprises.</td>
+    <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement</i>. Chapitre sur le "modèle de propagande".</td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #000000;">Passivité et résistance</td>
-    <td style="border: 1px solid #000000;">L'influence vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
-    <td style="border: 1px solid #000000;">La publicité présente des produits comme essentiels à un mode de vie idéal, créant des besoins artificiels, mais réfléchir à ses vrais besoins peut contrer cela.</td>
-    <td style="border: 1px solid #000000;">Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
-    <td style="border: 1px solid #000000;"><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
+    <td style="border: 1px solid #FFFFFF;">Passivité et résistance</td>
+    <td style="border: 1px solid #FFFFFF;">L'influence vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
+    <td style="border: 1px solid #FFFFFF;">La publicité présente des produits comme essentiels à un mode de vie idéal, créant des besoins artificiels, mais réfléchir à ses vrais besoins peut contrer cela.</td>
+    <td style="border: 1px solid #FFFFFF;">Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
