@@ -256,41 +256,41 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
 ## Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010
 <br>
 
-<table border="1">
+<table>
   <tr>
     <th>Thème</th>
-    <th>Idée principale</th>
-    <th>Exemple ou explication</th>
+    <th>Idée Générale</th>
+    <th>Exemple</th>
     <th>Référence</th>
     <th>Lien</th>
   </tr>
   <tr>
     <td>Langage et pensée</td>
     <td>Le langage est un outil de manipulation qui façonne la perception de la réalité.</td>
-    <td>Remplacer "invasion" par "mission humanitaire" pour rendre une guerre acceptable.</td>
+    <td>Dans les médias, qualifier un scandale de "controverse mineure" plutôt que de "crise majeure" pour minimiser son importance auprès du public.</td>
     <td>Chomsky, N. (1988). <i>Langage et problèmes de la connaissance</i>.</td>
     <td><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
   </tr>
   <tr>
     <td>Fabrication du consentement</td>
     <td>Les médias polymorphiques créent un consensus artificiel pour orienter les masses sans violence.</td>
-    <td>Les informations sont organisée pour soutenir les intérêts de certains groupes, pas pour informer objectivement.</td>
+    <td>Focus sur les potins de célébrités ou les événements sportifs pour détourner l’attention des enjeux importants comme les problèmes environnementaux.</td>
     <td>Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement : L'économie politique des médias de masse</i>.</td>
     <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td>Filtres systémiques</td>
     <td>Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
-    <td>Les acteurs médiatiques influencent ce qui est publié ou ignoré.</td>
+    <td>Grèves décrites comme disruptives dans les médias, tandis que les lockouts patronaux sont rapportés de manière neutre, influençant l’opinion en faveur des entreprises.</td>
     <td>Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement</i>. Chapitre sur le "modèle de propagande".</td>
     <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td>Passivité et résistance</td>
     <td>L'influence vise à rendre les gens passifs, mais la pensée critique peut briser ce contrôle.</td>
-    <td>Saturation d’infos triviales pour détourner l’attention ; l’éducation critique comme antidote.</td>
-    <td>Chomsky, N. (1991). <i>Contrôle des médias : Les remarquables réussites de la propagande</i>.</td>
-    <td><a href="https://www.amazon.fr/Contr%C3%B4le-m%C3%A9dias-remarquables-r%C3%A9ussites-propagande/dp/2355220085" target="_blank">Amazon.fr</a></td>
+    <td>La publicité présente des produits comme essentiels à un mode de vie idéal, créant des besoins artificiels, mais réfléchir à ses vrais besoins peut contrer cela.</td>
+    <td>Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
+    <td><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
