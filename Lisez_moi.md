@@ -276,14 +276,14 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
     <td style="border: 1px solid #FFFFFF;">Les médias polymorphiques créent un consensus artificiel pour orienter les masses sans violence.</td>
     <td style="border: 1px solid #FFFFFF;">Focus sur les potins de célébrités ou les événements sportifs pour détourner l’attention des enjeux importants comme les problèmes environnementaux.</td>
     <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement : L'économie politique des médias de masse</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-Consentement-Gestion-Politique-Medias/dp/2930827149" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td style="border: 1px solid #FFFFFF;">Filtres systémiques</td>
     <td style="border: 1px solid #FFFFFF;">Des mécanismes invisibles (économie, sources officielles) limitent les récits dans les médias.</td>
     <td style="border: 1px solid #FFFFFF;">Grèves décrites comme disruptives dans les médias, tandis que les lockouts patronaux sont rapportés de manière neutre, influençant l’opinion en faveur des entreprises.</td>
     <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Fabriquer un consentement</i>. Chapitre sur le "modèle de propagande".</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.fr/Fabriquer-Consentement-Gestion-Politique-Medias/dp/2930827149" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
     <td style="border: 1px solid #FFFFFF;">Passivité et résistance</td>
