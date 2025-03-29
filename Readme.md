@@ -254,7 +254,7 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 ## Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010
 <br>
 
-<table style="border-color:#FF0000">
+<table style="border: 1px solid #FFFFFF;">
   <tr>
     <th>Theme</th>
     <th>General Idea</th>
