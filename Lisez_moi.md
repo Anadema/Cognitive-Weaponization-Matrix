@@ -242,7 +242,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 <br>
 En tant qu'intellectuel engagé, Noam Chomsky a dénoncé les abus de pouvoir, <b>notamment ceux des États-Unis</b>, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.
 <br><br>
-A travers ses analyses critiques des médias et du pouvoir, a cherché à révéler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister.
+A travers ses analyses critiques des médias et du pouvoir, il a cherché à révéler les mécanismes par lesquels on peut manipuler les perceptions pour maintenir une domination, encourageant ainsi une prise de conscience collective pour y résister.
 <br><br>
 Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, les algorithmes et le ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et nos comportements.
 <br><br><br>
