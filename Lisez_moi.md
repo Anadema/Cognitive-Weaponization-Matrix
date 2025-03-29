@@ -44,7 +44,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img max-width="800" height="100%" src="./Image/5g.jpg"><br>
+  <img width="800" height="600" src="./Image/5g.jpg"><br>
 </p>
 
 
@@ -68,7 +68,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img max-width="800" height="100%" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
+  <img width="800" height="600" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
   <a href="https://fr.wikipedia.org/wiki/Biais_cognitif">Biais Cognitifs</a>
 </p>
 
@@ -106,7 +106,7 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 <br>
 
 <p align="center">
-  <img max-width="1000" height="100%" src="Framework/CWM.jpg">
+  <img width="1000" height="100%" src="Framework/CWM.jpg">
 </p>
 <br>
 
