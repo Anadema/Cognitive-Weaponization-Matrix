@@ -244,7 +244,7 @@ Noam Chomsky, à travers ses analyses critiques des médias et du pouvoir, a che
 <br><br>
 Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, les algorithmes et le ciblage psychologique amplifient ces stratégies, son travail offre un cadre précieux pour décoder les manipulations modernes et se défendre contre l’influence insidieuse qui cherche à façonner nos pensées et nos comportements.
 <br><br>
-En tant qu'intellectuel engagé, il a dénoncé les abus de pouvoir, notamment ceux des États-Unis, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.<br><br><br>
+<b>En tant qu'intellectuel engagé, il a dénoncé les abus de pouvoir, notamment ceux des États-Unis, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.</b><br><br><br>
 
 <p align="center">
   <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
@@ -303,7 +303,7 @@ L’axe de recherche est à la fois scientifique et militaire, avec l’original
 
 Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour le compte d’un gouvernement, d’une entreprise privée autre que la mienne, ou d’un groupe politique ou idéologique. C’est une démarche passionnée, et certainement un besoin personnel, dans le seul but de tenter de m’approcher de la vérité, ni plus, ni moins. Je fais des erreurs, et j’apprends en conséquence. Mon objectif est uniquement de partager les connaissances que j’ai rassemblées, et non de me positionner comme un expert.
 
-Pour conclure ce travail, je précise que je ne suis pas suicidaire.
+<b>Pour conclure ce travail, je précise que je ne suis pas suicidaire.</b>
 <br><br><br>
 
 # Licence
