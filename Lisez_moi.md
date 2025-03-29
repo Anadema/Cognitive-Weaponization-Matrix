@@ -256,7 +256,7 @@ Aujourd’hui, dans le contexte de la guerre cognitive, où la désinformation, 
 ## Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010
 <br>
 
-<table>
+<table style="border: 1px solid #FFFFFF;">
   <tr>
     <th>Thème</th>
     <th>Idée Générale</th>
