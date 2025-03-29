@@ -254,41 +254,41 @@ Today, in the context of cognitive warfare, where disinformation, algorithms, an
 ## Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010
 <br>
 
-<table style="border: 1px solid #FFFFFF;">
+<table style="border: 1px solid #000000; border-collapse: collapse;">
   <tr>
-    <th>Theme</th>
-    <th>General Idea</th>
-    <th>Example</th>
-    <th>Reference</th>
-    <th>Link</th>
+    <th style="border: 1px solid #000000;">Theme</th>
+    <th style="border: 1px solid #000000;">General Idea</th>
+    <th style="border: 1px solid #000000;">Example</th>
+    <th style="border: 1px solid #000000;">Reference</th>
+    <th style="border: 1px solid #000000;">Link</th>
   </tr>
   <tr>
-    <td>Language and Thought</td>
-    <td>Language is a tool of manipulation that shapes the perception of reality.</td>
-    <td>In the media, describing a scandal as a "minor controversy" rather than a "major crisis" to minimize its importance to the public.</td>
-    <td>Chomsky, N. (1988). <i>Language and Problems of Knowledge</i>.</td>
-    <td><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
+    <td style="border: 1px solid #000000;">Language and Thought</td>
+    <td style="border: 1px solid #000000;">Language is a tool of manipulation that shapes the perception of reality.</td>
+    <td style="border: 1px solid #000000;">In the media, describing a scandal as a "minor controversy" rather than a "major crisis" to minimize its importance to the public.</td>
+    <td style="border: 1px solid #000000;">Chomsky, N. (1988). <i>Language and Problems of Knowledge</i>.</td>
+    <td style="border: 1px solid #000000;"><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
   </tr>
   <tr>
-    <td>Manufacturing Consent</td>
-    <td>Polymorphic media create an artificial consensus to guide the masses without violence.</td>
-    <td>Focus on celebrity gossip or sports events to divert attention from important issues like environmental problems.</td>
-    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
-    <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #000000;">Manufacturing Consent</td>
+    <td style="border: 1px solid #000000;">Polymorphic media create an artificial consensus to guide the masses without violence.</td>
+    <td style="border: 1px solid #000000;">Focus on celebrity gossip or sports events to divert attention from important issues like environmental problems.</td>
+    <td style="border: 1px solid #000000;">Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
+    <td style="border: 1px solid #000000;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
-    <td>Systemic Filters</td>
-    <td>Invisible mechanisms (economy, official sources) limit the narratives in the media.</td>
-    <td>Strikes described as disruptive in the media, while management lockouts are reported neutrally, influencing opinion in favor of businesses.</td>
-    <td>Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapter on the "propaganda model".</td>
-    <td><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
+    <td style="border: 1px solid #000000;">Systemic Filters</td>
+    <td style="border: 1px solid #000000;">Invisible mechanisms (economy, official sources) limit the narratives in the media.</td>
+    <td style="border: 1px solid #000000;">Strikes described as disruptive in the media, while management lockouts are reported neutrally, influencing opinion in favor of businesses.</td>
+    <td style="border: 1px solid #000000;">Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapter on the "propaganda model".</td>
+    <td style="border: 1px solid #000000;"><a href="https://www.amazon.fr/Fabriquer-consentement-L%C3%A9conomie-politique-m%C3%A9dias/dp/2748902483" target="_blank">Amazon.fr</a></td>
   </tr>
   <tr>
-    <td>Passivity and Resistance</td>
-    <td>Influence aims to make people passive, but critical thinking can break this control.</td>
-    <td>Advertising presents products as essential to an ideal lifestyle, creating artificial needs, but reflecting on real needs can counter this.</td>
-    <td>Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
-    <td><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
+    <td style="border: 1px solid #000000;">Passivity and Resistance</td>
+    <td style="border: 1px solid #000000;">Influence aims to make people passive, but critical thinking can break this control.</td>
+    <td style="border: 1px solid #000000;">Advertising presents products as essential to an ideal lifestyle, creating artificial needs, but reflecting on real needs can counter this.</td>
+    <td style="border: 1px solid #000000;">Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
+    <td style="border: 1px solid #000000;"><a href="https://www.sevenstories.com/books/283-profit-over-people" target="_blank">Seven Stories Press</a></td>
   </tr>
 </table>
 <br><br><br>
