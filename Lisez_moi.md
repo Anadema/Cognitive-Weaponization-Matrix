@@ -240,7 +240,7 @@ Ces méthodes, adaptées à la guerre cognitive de masse, peuvent être amplifi�
 
 # Etude sur les médias de masse - Noam Chomsky
 <br>
-<b>En tant qu'intellectuel engagé, Noam Chomsky a dénoncé les abus de pouvoir, notamment ceux des États-Unis, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.</b>
+En tant qu'intellectuel engagé, Noam Chomsky a dénoncé les abus de pouvoir, <b>notamment ceux des États-Unis</b>, dans des ouvrages comme Manufacturing Consent (coécrit avec Edward S. Herman). Beaucoup le voient comme un défenseur des opprimés et un critique incisif du capitalisme et de l'impérialisme.
 <br><br>
 A travers ses analyses critiques des médias et du pouvoir, a cherché à révéler les mécanismes par lesquels les élites manipulent les perceptions pour maintenir leur domination, encourageant ainsi une prise de conscience collective pour y résister.
 <br><br>
