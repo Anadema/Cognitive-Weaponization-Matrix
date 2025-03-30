@@ -27,6 +27,7 @@ date: 2025-03-13
         <li><strong>Leurres physiques :</strong> Utiliser des mannequins, des véhicules factices ou des signaux radio trompeurs pour simuler une présence ou une activité là où il n’y en a pas (comme les chars gonflables utilisés pendant la Seconde Guerre mondiale par les Alliés lors de l’opération Fortitude).</li>
         <li><strong>Perturbation des communications :</strong> Brouiller les radars, interférer avec les transmissions radio ou pirater les systèmes ennemis pour couper leurs flux d’informations.</li>
         <li><strong>Manœuvres ambiguës :</strong> Effectuer des déplacements imprévisibles ou contradictoires pour semer le doute sur ses intentions réelles.</li>
+        <li><strong>Manœuvres ambiguës :</strong> Contrôler et détourner des acteurs du camps adverse pour créer de la confusion et ainsi créer une situation de chaos interne.</li>
     </ul>    
     <h3>Exemple historique :</h3>
     <ul>
