@@ -237,62 +237,6 @@ These methods, adapted for mass cognitive warfare, can be amplified through soci
 <br><br><br>
 
 
-# Study on the mass medias - Noam Chomsky
-<br>
-Noam Chomsky, through his critical analyses of media and power, aimed to expose the mechanisms by which elites manipulate perceptions to maintain their dominance, thereby encouraging collective awareness to resist them.
-<br><br>
-Today, in the context of cognitive warfare, where disinformation, algorithms, and psychological targeting amplify these strategies, his work provides a valuable framework for decoding modern manipulations and defending against the insidious influence that seeks to shape our thoughts and behaviors.
-<br><br>
-<b></b>As a committed intellectual, he denounced abuses of power, particularly those of the United States, in works such as Manufacturing Consent (co-authored with Edward S. Herman). Many see him as a defender of the oppressed and a sharp critic of capitalism and imperialism.</b><br><br><br>
-
-<p align="center">
-  <img width="250" height="320" src="./Image/Chomsky.jpg"><br>
-</p>
-
-<br>
-
-## Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010
-<br>
-
-<table style="border: 1px solid #FFFFFF; border-collapse: collapse;">
-  <tr>
-    <th style="border: 1px solid #FFFFFF;">Theme</th>
-    <th style="border: 1px solid #FFFFFF;">General Idea</th>
-    <th style="border: 1px solid #FFFFFF;">Example</th>
-    <th style="border: 1px solid #FFFFFF;">Reference</th>
-    <th style="border: 1px solid #FFFFFF;">Link</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #FFFFFF;">Language and Thought</td>
-    <td style="border: 1px solid #FFFFFF;">Language is a tool of manipulation that shapes the perception of reality.</td>
-    <td style="border: 1px solid #FFFFFF;">In the media, describing a scandal as a "minor controversy" rather than a "major crisis" to minimize its importance to the public.</td>
-    <td style="border: 1px solid #FFFFFF;">Chomsky, N. (1988). <i>Language and Problems of Knowledge</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://mitpress.mit.edu/9780262530705/language-and-problems-of-knowledge/" target="_blank">MIT Press</a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #FFFFFF;">Manufacturing Consent</td>
-    <td style="border: 1px solid #FFFFFF;">Polymorphic media create an artificial consensus to guide the masses without violence.</td>
-    <td style="border: 1px solid #FFFFFF;">Focus on celebrity gossip or sports events to divert attention from important issues like environmental problems.</td>
-    <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent: The Political Economy of the Mass Media</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon.fr</a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #FFFFFF;">Systemic Filters</td>
-    <td style="border: 1px solid #FFFFFF;">Invisible mechanisms (economy, official sources) limit the narratives in the media.</td>
-    <td style="border: 1px solid #FFFFFF;">Strikes described as disruptive in the media, while management lockouts are reported neutrally, influencing opinion in favor of businesses.</td>
-    <td style="border: 1px solid #FFFFFF;">Chomsky, N. & Herman, E. S. (1988). <i>Manufacturing Consent</i>. Chapter on the "propaganda model".</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Manufacturing-Consent-Political-Economy-Media/dp/0375714499" target="_blank">Amazon.fr</a></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #FFFFFF;">Passivity and Resistance</td>
-    <td style="border: 1px solid #FFFFFF;">Influence aims to make people passive, but critical thinking can break this control.</td>
-    <td style="border: 1px solid #FFFFFF;">Advertising presents products as essential to an ideal lifestyle, creating artificial needs, but reflecting on real needs can counter this.</td>
-    <td style="border: 1px solid #FFFFFF;">Chomsky, N. (1999). <i>Profit Over People: Neoliberalism and Global Order</i>.</td>
-    <td style="border: 1px solid #FFFFFF;"><a href="https://www.amazon.com/Profit-Over-People-Neoliberalism-Global/dp/1888363827" target="_blank">Seven Stories Press</a></td>
-  </tr>
-</table>
-<br><br><br>
-
 # Personal comments
 
 This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
