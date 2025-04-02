@@ -45,7 +45,7 @@ title: Cognitive-Weaponization-Matrix - Readme
 <br>
 
 <p align="center">
-  <img width="800" height="600" src="./Image/5G2.jpg"><br>
+  <img width="800" height="600" src="./Image/5G2.jpg"><br> 
 </p>
 
 
