@@ -112,7 +112,7 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 
 ## Techniques
 
-<a href="/Cognitive-Weaponization-Matrix/Techniques/Technique_description_fr.html" class="page-link">Techniques FR</a><br><br>
+<a href="/Cognitive-Weaponization-Matrix/Techniques/Technique_description_fr.html" style="color: red;">Avec description</a><br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/Shadow_banning" style="color: red;">Ban de l’ombre</a>
 - <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge" style="color: red;">Nudge</a>
@@ -152,7 +152,7 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 
 ## Concepts Clés
 
-<a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description_fr.html" class="page-link">Concepts clés</a><br><br>
+<a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description_fr.html" style="color: red;">Avec Description</a><br><br>
 
 - <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">Guerre de cinquième génération</a>
 - <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
