@@ -76,6 +76,8 @@ date: 2025-03-13
         <li>"Relis bien, t’as mal compris ce que j’ai écrit."</li>
         <li>"Personne ne t’a forcé à réagir comme ça."</li>
         <li>"Tu cherches juste à créer des problèmes."</li>
+        <li>"Tu es fou."</li>
+        
     </ul><br><br>
     <br>
     <p align="center">
