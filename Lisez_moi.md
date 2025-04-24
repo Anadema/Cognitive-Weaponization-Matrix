@@ -14,20 +14,20 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 
 # Table des matières
 
-- [Introduction & Contexte](#introduction--contexte)
-  - [Résumé de la 5GW (Guerre de Cinquième Génération)](#résumé-de-la-5gw-guerre-de-cinquième-génération)
-- [Objectif](#objectif)
-  - [Quelques citations](#quelques-citations)
-- [Matrice d'Armement Cognitif](#matrice-darmement-cognitif)
-  - [Techniques](#techniques)
-  - [Concepts Clés](#concepts-clés)
-- [La charte de la coercition d'Albert Biderman](#la-charte-de-la-coercition-dalbert-biderman)
-  - [Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med](#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med)
-  - [Références](#references-1)
-- [Etude sur les médias de masse - Noam Chomsky](#etude-sur-les-médias-de-masse---noam-chomsky)
-  - [Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010](#tableau-inspiré-des-travaux-de-noam-chomsky---phd-linguistique-états-unis-2010)
-- [Commentaires personnels](#commentaires-personnels)
-- [Licence](#licence)
+- <a href="#introduction--contexte" style="color: red;">Introduction & Contexte</a>
+  - <a href="#résumé-de-la-5gw-guerre-de-cinquième-génération" style="color: red;">Résumé de la 5GW (Guerre de Cinquième Génération)</a>
+- <a href="#objectif" style="color: red;">Objectif</a>
+  - <a href="#quelques-citations" style="color: red;">Quelques citations</a>
+- <a href="#matrice-darmement-cognitif" style="color: red;">Matrice d'Armement Cognitif</a>
+  - <a href="#techniques" style="color: red;">Techniques</a>
+  - <a href="#concepts-clés" style="color: red;">Concepts Clés</a>
+- <a href="#la-charte-de-la-coercition-dalbert-biderman" style="color: red;">La charte de la coercition d'Albert Biderman</a>
+  - <a href="#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med" style="color: red;">Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med</a>
+  - <a href="#references-1" style="color: red;">Références</a>
+- <a href="#etude-sur-les-médias-de-masse---noam-chomsky" style="color: red;">Etude sur les médias de masse - Noam Chomsky</a>
+  - <a href="#tableau-inspiré-des-travaux-de-noam-chomsky---phd-linguistique-états-unis-2010" style="color: red;">Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010</a>
+- <a href="#commentaires-personnels" style="color: red;">Commentaires personnels</a>
+- <a href="#licence" style="color: red;">Licence</a>
 
 <br>
 
@@ -54,7 +54,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <ul>
     <li>C’est une guerre d’information et de perception.</li><br>
     <li>Elle cible les biais cognitifs et les biais culturels préexistants des individus et des organisations.</li><br>
-    <li>Elle crée de nouveaux biais cognitifs (<a href="https://fr.wikipedia.org/wiki/Biais_cognitif">Voir liste détaillée</a>).</li><br>
+    <li>Elle crée de nouveaux biais cognitifs (<a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Voir liste détaillée</a>).</li><br>
     <li>Elle diffère de la guerre conventionnelle pour les raisons suivantes :<br>
         <ul>
             <li>Elle se concentre sur l’observateur individuel/le décideur.</li>
@@ -69,16 +69,16 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 
 <p align="center">
   <img width="800" height="600" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
-  <a href="https://fr.wikipedia.org/wiki/Biais_cognitif">Biais Cognitifs</a>
+  <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs</a>
 </p>
 
 <br>
 
 # Objectif
 
-La Matrice d'Armement Cognitive (CWM) est un outil permettant d’analyser les attaques cognitives et de renforcer les défenses avant que leurs charges utiles ne frappent. Inspirée par <a href="https://attack.mitre.org/matrices/enterprise/">MITRE ATT&CK</a>, elle cartographie uniquement les techniques de la guerre cognitive et d’autres concepts clés pour manipuler les perceptions et les décisions dans une grille afin de repérer les signes avant-coureurs.
+La Matrice d'Armement Cognitive (CWM) est un outil permettant d’analyser les attaques cognitives et de renforcer les défenses avant que leurs charges utiles ne frappent. Inspirée par <a href="https://attack.mitre.org/matrices/enterprise/" style="color: red;">MITRE ATT&CK</a>, elle cartographie uniquement les techniques de la guerre cognitive et d’autres concepts clés pour manipuler les perceptions et les décisions dans une grille afin de repérer les signes avant-coureurs.
 
-Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui vise largement la désinformation, la CWM se concentre sur l’autonomisation des individus en leur offrant une vision claire du champ de bataille cognitif. Elle aide les utilisateurs à anticiper et contrer les effets psychologiques, offrant une manière proactive de protéger l’intégrité mentale et stratégique dans un paysage informationnel complexe.
+Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">cadre DISARM</a>, qui vise largement la désinformation, la CWM se concentre sur l’autonomisation des individus en leur offrant une vision claire du champ de bataille cognitif. Elle aide les utilisateurs à anticiper et contrer les effets psychologiques, offrant une manière proactive de protéger l’intégrité mentale et stratégique dans un paysage informationnel complexe.
 
 <br>
 
@@ -110,80 +110,77 @@ Contrairement au <a href="https://www.disarm.foundation/">cadre DISARM</a>, qui 
 </p>
 <br>
 
-
 ## Techniques
 
-<a href="./Techniques/Technique_description_fr.md">Avec description</a><br><br>
+<a href="../Techniques/Technique_description_fr.md" style="color: red;">Avec description</a><br><br>
 
-- [Ban de l’ombre](https://fr.wikipedia.org/wiki/Shadow_banning)
-- [Nudge](https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge)
-- [Assassinat de caractère](https://en.wikipedia.org/wiki/Character_assassination)
-- [Compte fantoche](https://en.wikipedia.org/wiki/Sock_puppet_account)
-- [Mauvais étiquetage](https://en.wikipedia.org/wiki/Bad-jacketing)
-- [Kompromat](https://en.wikipedia.org/wiki/Kompromat)
-- [Sélection biaisée](https://en.wikipedia.org/wiki/Cherry_picking)
-- [Détournement émotionnel](https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it)
-- [Agent ignorant](https://disarmframework.herokuapp.com/technique/7/view)
-- [Appât à clics](https://en.wikipedia.org/wiki/Clickbait)
-- [Squatting de mots-clés](https://mediamanipulation.org/definitions/keyword-squatting/)
-- [Essaimage](https://disarmframework.herokuapp.com/technique/49/view)
-- [Faux experts](https://disarmframework.herokuapp.com/technique/5/view)
-- [Injonction contradictoire](https://en.wikipedia.org/wiki/Double_bind)
-- [Doxing](https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles)
-- [Cyberharcèlement](https://disarmframework.herokuapp.com/technique/193/view)
-- [Distorsions initiales](https://disarmframework.herokuapp.com/technique/35/view)
-- [Appâter un influenceur](https://en.wikipedia.org/wiki/Rage-baiting)
-- [Sondages en ligne](https://en.wikipedia.org/wiki/Open-access_poll)
-- [Chambre d’écho](https://en.wikipedia.org/wiki/Echo_chamber_(media))
-- [Copypasta](https://en.wikipedia.org/wiki/Copypasta)
-- [Manipulation par la rareté](https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb)
-- [Motiver la médiocrité](https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison)
-- [Développer des deep/cheap fakes](https://datasociety.net/library/deepfakes-and-cheap-fakes/)
-- [Déluge de faussetés](https://en.wikipedia.org/wiki/Firehose_of_falsehood)
-- [Rejeter / Distraire / Distordre / Consternation](https://fromthepenof.com/red-flag-professional-behaviour/discrediting)
-- [Gaslighting](https://en.wikipedia.org/wiki/Gaslighting)
-- [Effet de vérité illusoire](https://en.wikipedia.org/wiki/Illusory_truth_effect)
-- [Micro-ciblage](https://www.merriam-webster.com/dictionary/microtarget)
-- [Maintenir la culpabilité et l’ignorance](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre))
-- [Cadrage](https://en.wikipedia.org/wiki/Framing_(social_sciences))
-- [Effet de bande](https://en.wikipedia.org/wiki/Bandwagon_effect)
-- [Astroturfing](https://disarmframework.herokuapp.com/technique/145/view)
-- [Attaques papillon](https://disarmframework.herokuapp.com/technique/134/view)
+- <a href="https://fr.wikipedia.org/wiki/Shadow_banning" style="color: red;">Ban de l’ombre</a>
+- <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge" style="color: red;">Nudge</a>
+- <a href="https://en.wikipedia.org/wiki/Character_assassination" style="color: red;">Assassinat de caractère</a>
+- <a href="https://en.wikipedia.org/wiki/Sock_puppet_account" style="color: red;">Compte fantoche</a>
+- <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Mauvais étiquetage</a>
+- <a href="https://en.wikipedia.org/wiki/Kompromat" style="color: red;">Kompromat</a>
+- <a href="https://en.wikipedia.org/wiki/Cherry_picking" style="color: red;">Sélection biaisée</a>
+- <a href="https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it" style="color: red;">Détournement émotionnel</a>
+- <a href="https://disarmframework.herokuapp.com/technique/7/view" style="color: red;">Agent ignorant</a>
+- <a href="https://en.wikipedia.org/wiki/Clickbait" style="color: red;">Appât à clics</a>
+- <a href="https://mediamanipulation.org/definitions/keyword-squatting/" style="color: red;">Squatting de mots-clés</a>
+- <a href="https://disarmframework.herokuapp.com/technique/49/view" style="color: red;">Essaimage</a>
+- <a href="https://disarmframework.herokuapp.com/technique/5/view" style="color: red;">Faux experts</a>
+- <a href="https://en.wikipedia.org/wiki/Double_bind" style="color: red;">Injonction contradictoire</a>
+- <a href="https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles" style="color: red;">Doxing</a>
+- <a href="https://disarmframework.herokuapp.com/technique/193/view" style="color: red;">Cyberharcèlement</a>
+- <a href="https://disarmframework.herokuapp.com/technique/35/view" style="color: red;">Distorsions initiales</a>
+- <a href="https://en.wikipedia.org/wiki/Rage-baiting" style="color: red;">Appâter un influenceur</a>
+- <a href="https://en.wikipedia.org/wiki/Open-access_poll" style="color: red;">Sondages en ligne</a>
+- <a href="https://en.wikipedia.org/wiki/Echo_chamber_(media)" style="color: red;">Chambre d’écho</a>
+- <a href="https://en.wikipedia.org/wiki/Copypasta" style="color: red;">Copypasta</a>
+- <a href="https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb" style="color: red;">Manipulation par la rareté</a>
+- <a href="https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison" style="color: red;">Motiver la médiocrité</a>
+- <a href="https://datasociety.net/library/deepfakes-and-cheap-fakes/" style="color: red;">Développer des deep/cheap fakes</a>
+- <a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Déluge de faussetés</a>
+- <a href="https://fromthepenof.com/red-flag-professional-behaviour/discrediting" style="color: red;">Rejeter / Distraire / Distordre / Consternation</a>
+- <a href="https://en.wikipedia.org/wiki/Gaslighting" style="color: red;">Gaslighting</a>
+- <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" style="color: red;">Effet de vérité illusoire</a>
+- <a href="https://www.merriam-webster.com/dictionary/microtarget" style="color: red;">Micro-ciblage</a>
+- <a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)" style="color: red;">Maintenir la culpabilité et l’ignorance</a>
+- <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Cadrage</a>
+- <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Effet de bande</a>
+- <a href="https://disarmframework.herokuapp.com/technique/145/view" style="color: red;">Astroturfing</a>
+- <a href="https://disarmframework.herokuapp.com/technique/134/view" style="color: red;">Attaques papillon</a>
 <br>
 
 ## Concepts Clés
 
-<a href="./Key_Concepts/Key_Concepts_description_fr.md">Avec Description</a><br><br>
+<a href="../Key_Concepts/Key_Concepts_description_fr.md" style="color: red;">Avec Description</a><br><br>
 
-- [Avec Description](./Key_Concepts/Key_Concepts_description_fr.md)
-- [Guerre de cinquième génération](https://en.wikipedia.org/wiki/Fifth-generation_warfare)
-- [Titytainment](http://www.gandalf.it/arianna/titty.htm)
-- [Problème-Réaction-Solution - PRS](https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre))
-- [Vides de données](https://datasociety.net/library/data-voids/)
-- [Vulnérabilité du public](https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md)
-- [Asymétrie d'information](https://en.wikipedia.org/wiki/Information_asymmetry)
-- [Bulle filtrée](https://en.wikipedia.org/wiki/Filter_bubble)
-- [Boucle de dopamine](https://en.wikipedia.org/wiki/Compulsion_loop)
-- [Fenêtre d'Overton](https://en.wikipedia.org/wiki/Overton_window)
-- [VUCA](https://en.wikipedia.org/wiki/VUCA)
-- [Biais de confirmation](https://en.wikipedia.org/wiki/Confirmation_bias)
-- [Biais d'ancrage](https://en.wikipedia.org/wiki/Anchoring_effect)
-- [Auto-justification](https://en.wikipedia.org/wiki/Self-licensing)
-- [Expérience de Milgram](https://en.wikipedia.org/wiki/Milgram_experiment)
-- [Expérience de Asch](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
-- [Peur, incertitude et doute](https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)
-- [Peur de rater quelque chose (FOMO)](https://en.wikipedia.org/wiki/Fear_of_missing_out)
-- [Opérations psychologiques](https://en.wikipedia.org/wiki/Psychological_operations_(United_States))
-- [Ferme de trolls/bots](https://en.wikipedia.org/wiki/Troll_farm)
-- [Identité numérique](https://en.wikipedia.org/wiki/Digital_identity)
-- [Renseignement en sources ouvertes](https://en.wikipedia.org/wiki/Open-source_intelligence)
-- [Sécurité des opérations](https://en.wikipedia.org/wiki/Operations_security)
-- [Boucle OODA](https://fr.wikipedia.org/wiki/Boucle_OODA)
-- [Méthode douce](https://en.wikipedia.org/wiki/Soft_power)
-- [Manipulations émotionnelles](https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc)
-- [Mémétique militaire](https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)
+- <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">Guerre de cinquième génération</a>
+- <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
+- <a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)" style="color: red;">Problème-Réaction-Solution - PRS</a>
+- <a href="https://datasociety.net/library/data-voids/" style="color: red;">Vides de données</a>
+- <a href="https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md" style="color: red;">Vulnérabilité du public</a>
+- <a href="https://en.wikipedia.org/wiki/Information_asymmetry" style="color: red;">Asymétrie d'information</a>
+- <a href="https://en.wikipedia.org/wiki/Filter_bubble" style="color: red;">Bulle filtrée</a>
+- <a href="https://en.wikipedia.org/wiki/Compulsion_loop" style="color: red;">Boucle de dopamine</a>
+- <a href="https://en.wikipedia.org/wiki/Overton_window" style="color: red;">Fenêtre d'Overton</a>
+- <a href="https://en.wikipedia.org/wiki/VUCA" style="color: red;">VUCA</a>
+- <a href="https://en.wikipedia.org/wiki/Confirmation_bias" style="color: red;">Biais de confirmation</a>
+- <a href="https://en.wikipedia.org/wiki/Anchoring_effect" style="color: red;">Biais d'ancrage</a>
+- <a href="https://en.wikipedia.org/wiki/Self-licensing" style="color: red;">Auto-justification</a>
+- <a href="https://en.wikipedia.org/wiki/Milgram_experiment" style="color: red;">Expérience de Milgram</a>
+- <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" style="color: red;">Expérience de Asch</a>
+- <a href="https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt" style="color: red;">Peur, incertitude et doute</a>
+- <a href="https://en.wikipedia.org/wiki/Fear_of_missing_out" style="color: red;">Peur de rater quelque chose (FOMO)</a>
+- <a href="https://en.wikipedia.org/wiki/Psychological_operations_(United_States)" style="color: red;">Opérations psychologiques</a>
+- <a href="https://en.wikipedia.org/wiki/Troll_farm" style="color: red;">Ferme de trolls/bots</a>
+- <a href="https://en.wikipedia.org/wiki/Digital_identity" style="color: red;">Identité numérique</a>
+- <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" style="color: red;">Renseignement en sources ouvertes</a>
+- <a href="https://en.wikipedia.org/wiki/Operations_security" style="color: red;">Sécurité des opérations</a>
+- <a href="https://fr.wikipedia.org/wiki/Boucle_OODA" style="color: red;">Boucle OODA</a>
+- <a href="https://en.wikipedia.org/wiki/Soft_power" style="color: red;">Méthode douce</a>
+- <a href="https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc" style="color: red;">Manipulations émotionnelles</a>
+- <a href="https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf" style="color: red;">Mémétique militaire</a>
 <br>
-
 
 # Commentaires personnels
 
@@ -197,24 +194,24 @@ Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour
 
 # Licence
 
-La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> :<br>
+La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
 
 Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée<br>
 Tous les documents stockés ici proviennent de sources ouvertes accessibles sur Internet :<br><br>
 
-- [Biais Cognitifs - Wikipédia](https://fr.wikipedia.org/wiki/Biais_cognitif)
-- [Article PMC - Biderman’s Chart of Coercion](https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf)
-- [DTIC - Cognitive Warfare Study](https://apps.dtic.mil/sti/citations/ADA507172)
-- [AOR Compiègne - La Guerre Cognitique](https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique)
-- [Paul Masson - Document Chomsky](https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf)
-- [PhiloCité - Autodéfense Intellectuelle](https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf)
-- [Robotic Technology Inc - Military Memetics Tutorial](https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf)
-- [The Babe - The Great Meme War](https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth)
-- [DISARM Framework](https://disarmframework.herokuapp.com)
+- <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs - Wikipédia</a>
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf" style="color: red;">Article PMC - Biderman’s Chart of Coercion</a>
+- <a href="https://apps.dtic.mil/sti/citations/ADA507172" style="color: red;">DTIC - Cognitive Warfare Study</a>
+- <a href="https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique" style="color: red;">AOR Compiègne - La Guerre Cognitique</a>
+- <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" style="color: red;">Paul Masson - Document Chomsky</a>
+- <a href="https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf" style="color: red;">PhiloCité - Autodéfense Intellectuelle</a>
+- <a href="https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf" style="color: red;">Robotic Technology Inc - Military Memetics Tutorial</a>
+- <a href="https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth" style="color: red;">The Babe - The Great Meme War</a>
+- <a href="https://disarmframework.herokuapp.com" style="color: red;">DISARM Framework</a>
 
 <br><br><br><br><br>
 
 <p align="center">
   <img max-width="700" height="100%" src="./Image/truman.jpg"><br>
-  <a href="https://en.wikipedia.org/wiki/The_Truman_Show">The Truman Show</a>
+  <a href="https://en.wikipedia.org/wiki/The_Truman_Show" style="color: red;">The Truman Show</a>
 </p>
