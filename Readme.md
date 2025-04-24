@@ -111,7 +111,7 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 
 ### Techniques
 
-<a href="../Techniques/Technique_description.md" style="color: red;">With Description</a><br><br>
+<a href="Cognitive-Weaponization-Matrix/Techniques/Technique_description.md" style="color: red;">With Description</a><br><br>
 
 - <a href="https://en.wikipedia.org/wiki/Shadow_banning" style="color: red;">Shadow Ban</a>
 - <a href="https://en.wikipedia.org/wiki/Nudge_theory" style="color: red;">Nudge</a>
@@ -152,7 +152,7 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 
 ### Key Concepts
 
-<a href="../Key_Concepts/Key_Concepts_description.md" style="color: red;">With Description</a><br><br>
+<a href="Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description.md" style="color: red;">With Description</a><br><br>
 
 - <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">5th Generation Warfare</a>
 - <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
