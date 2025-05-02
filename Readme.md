@@ -203,7 +203,6 @@ All documents store here come from Internet and are avalaible in open source acc
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf" style="color: red;">Article PMC - Biderman’s Chart of Coercion</a>
 - <a href="https://apps.dtic.mil/sti/citations/ADA507172" style="color: red;">DTIC - Cognitive Warfare Study</a>
 - <a href="https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique" style="color: red;">AOR Compiègne - Cognitive Warfare</a>
-- <a href="https://paulmasson.atimbli.net/IMG/pdf_DOCUMENT_SHOMSKY-2.pdf" style="color: red;">Paul Masson - Chomsky Document</a>
 - <a href="https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf" style="color: red;">PhiloCité - Intellectual Self-Defense</a>
 - <a href="https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf" style="color: red;">Robotic Technology Inc - Military Memetics Tutorial</a>
 - <a href="https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth" style="color: red;">The Babe - The Great Meme War</a>
