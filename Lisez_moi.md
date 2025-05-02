@@ -45,7 +45,6 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 
 <p align="center">
   <img width="800" height="600" src="./Image/5g.jpg"><br>
-  <i><a href="https://www.youtube.com/watch?v=q-cV5WUuyB4" style="color: red;" target="_blank">Robert Malone</a></i>
 </p>
 
 
