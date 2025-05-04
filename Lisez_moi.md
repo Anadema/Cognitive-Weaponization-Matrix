@@ -44,7 +44,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img width="800" height="600" src="./Image/5g.jpg"><br>
+  <img width="800" height="600" src="./Image/war.jpg"><br>
 </p>
 
 
