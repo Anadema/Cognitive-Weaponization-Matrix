@@ -45,7 +45,7 @@ title: Cognitive-Weaponization-Matrix - Readme
 <br>
 
 <p align="center">
-  <img width="800" height="600" src="./Image/5G2.jpg"><br> 
+  <img width="800" height="600" src="./Image/5gw.jpg"><br> 
 </p>
 
 
@@ -105,7 +105,7 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 <br>
 
 <p align="center">
-  <img width="1000" height="550" src="Framework/CWM.jpg">
+  <img width="1000" height="550" src="Framework/MRC.jpg">
 </p>
 <br><br>
 
