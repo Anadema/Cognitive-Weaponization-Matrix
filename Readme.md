@@ -6,7 +6,6 @@ title: Cognitive-Weaponization-Matrix - Readme
 <br>
 <p align="center">
   <img width="1000" height="550" src="Framework/MRC.jpg">
-</p>
 <br><br>
   "If you think you have nothing to hide, it means you have already lost everything."<br>
   <i>Arsène White</i>
