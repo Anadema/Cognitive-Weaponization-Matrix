@@ -5,7 +5,9 @@ title: Cognitive-Weaponization-Matrix - Readme
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
-  <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
+  <img width="1000" height="550" src="Framework/MRC.jpg">
+</p>
+<br><br>
   "If you think you have nothing to hide, it means you have already lost everything."<br>
   <i>Arsène White</i>
 </p>
@@ -101,15 +103,8 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 🔷 Arsène White - 2025 AD: "If you realize that we are all soldiers on the same battlefield and want to learn how to protect yourself, your friends, and your family from this new type of warfare, study and share the CWM."<br><br>
 <br>
 
-# Cognitive Weaponization Matrix
-<br>
 
-<p align="center">
-  <img width="1000" height="550" src="Framework/MRC.jpg">
-</p>
-<br><br>
-
-### Techniques
+## Techniques
 
 <a href="/Cognitive-Weaponization-Matrix/Techniques/Technique_description.html" style="color: red;">With description</a><br><br>
 
@@ -150,7 +145,7 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 
 <br>
 
-### Key Concepts
+## Key Concepts
 
 <a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description.html" style="color: red;">With description</a><br><br>
 
