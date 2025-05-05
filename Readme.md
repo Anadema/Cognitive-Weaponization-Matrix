@@ -88,7 +88,7 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 <br>
 
 <p align="center">
-  <img width="400" height="300" src="./Image/st.jpg">
+  <img width=400" height="500" src="./Image/st.jpg">
 </p>
 <br><br>
 
