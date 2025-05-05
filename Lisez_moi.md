@@ -5,7 +5,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
-  <img width="600" height="400" src="./Image/matrix.jpg"><br><br>
+  <img width="1000" height="100%" src="Framework/CWM.jpg"><br><br>
   "Si vous pensez que vous n'avez rien à caché, c'est que vous avez déjà tout perdu."<br>
   <i>Arsene White</i>
 </p>
@@ -44,7 +44,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img width="800" height="600" src="./Image/war.jpg"><br>
+  <img width="800" height="600" src="./Image/5gw.jpg"><br>
 </p>
 
 
@@ -87,7 +87,7 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 <br>
 
 <p align="center">
-  <img width="400" height="300" src="./Image/st.jpg">
+  <img width="400" height="450" src="./Image/st.jpg">
 </p>
 <br><br>
 
@@ -98,16 +98,6 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 🔷 Général Valery Gerasimov - 2013 ap. J.-C. : "La guerre de l’information ne nécessite ni soldats, ni canons, ni chars, mais uniquement des ordinateurs et des esprits bien entraînés pour mener une guerre discrète mais extrêmement efficace."
 
 🔷 Arsène White - 2025 ap. J.-C. : "Si vous réalisez que nous sommes tous des soldats sur le même champ de bataille et que vous voulez apprendre à vous protéger, ainsi que vos amis et votre famille, contre ce nouveau type de guerre, étudiez et partagez le CWM."
-<br>
-
-<br>
-
-# Matrice d'Armement Cognitif
-<br>
-
-<p align="center">
-  <img width="1000" height="100%" src="Framework/CWM.jpg">
-</p>
 <br>
 
 ## Techniques
