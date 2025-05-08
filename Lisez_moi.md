@@ -18,14 +18,9 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
   - <a href="#résumé-de-la-5gw-guerre-de-cinquième-génération" style="color: red;">Résumé de la 5GW (Guerre de Cinquième Génération)</a>
 - <a href="#objectif" style="color: red;">Objectif</a>
   - <a href="#quelques-citations" style="color: red;">Quelques citations</a>
-- <a href="#matrice-darmement-cognitif" style="color: red;">Matrice d'Armement Cognitif</a>
   - <a href="#techniques" style="color: red;">Techniques</a>
   - <a href="#concepts-clés" style="color: red;">Concepts Clés</a>
-- <a href="#la-charte-de-la-coercition-dalbert-biderman" style="color: red;">La charte de la coercition d'Albert Biderman</a>
-  - <a href="#albert-biderman-sociologiste-phd---us-air-force---1957---ny-acad-med" style="color: red;">Albert Biderman (sociologiste Ph.D. - US Air Force) - 1957 - NY Acad Med</a>
   - <a href="#references-1" style="color: red;">Références</a>
-- <a href="#etude-sur-les-médias-de-masse---noam-chomsky" style="color: red;">Etude sur les médias de masse - Noam Chomsky</a>
-  - <a href="#tableau-inspiré-des-travaux-de-noam-chomsky---phd-linguistique-états-unis-2010" style="color: red;">Tableau inspiré des travaux de Noam Chomsky - PhD, Linguistique, États-Unis, 2010</a>
 - <a href="#commentaires-personnels" style="color: red;">Commentaires personnels</a>
 - <a href="#licence" style="color: red;">Licence</a>
 
