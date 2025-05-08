@@ -5,7 +5,7 @@ title: Cognitive-Weaponization-Matrix - Readme
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
-  <img width="100%" height="100%" src="Framework/CMW.jpg">
+  <img width="100%" height="100%" src="Framework/CWM.jpg">
 <br><br>
   "If you think you have nothing to hide, it means you have already lost everything."<br>
   <i>Arsène White</i>
