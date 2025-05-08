@@ -22,11 +22,6 @@ title: Cognitive-Weaponization-Matrix - Readme
 - <a href="#cognitive-weaponization-matrix" style="color: red;">Cognitive Weaponization Matrix</a>
   - <a href="#techniques" style="color: red;">Techniques</a>
   - <a href="#key-concepts" style="color: red;">Key Concepts</a>
-- <a href="#bidermans-chart-of-coercion" style="color: red;">Biderman's Chart of Coercion</a>
-  - <a href="#albert-biderman-sociologist-phd---us-air-force---1957---ny-acad-med" style="color: red;">Albert Biderman (sociologist Ph.D. - US Air Force) - 1957 - NY Acad Med</a>
-  - <a href="#references" style="color: red;">References</a>
-- <a href="#study-on-the-mass-medias---noam-chomsky" style="color: red;">Study on the mass medias - Noam Chomsky</a>
-  - <a href="#tab-inspired-on-the-works-of-noam-chomsky-phd-linguistics-usa-2010" style="color: red;">Tab Inspired on the Works of Noam Chomsky PhD, Linguistics, USA, 2010</a>
 - <a href="#personal-comments" style="color: red;">Personal comments</a>
 - <a href="#licence" style="color: red;">Licence</a>
 
