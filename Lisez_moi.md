@@ -192,8 +192,3 @@ Tous les documents stockés ici proviennent de sources ouvertes accessibles sur 
 - <a href="https://disarmframework.herokuapp.com" style="color: red;">DISARM Framework</a>
 
 <br><br><br><br><br>
-
-<p align="center">
-  <img max-width="700" height="100%" src="./Image/truman.jpg"><br>
-  <a href="https://en.wikipedia.org/wiki/The_Truman_Show" style="color: red;">The Truman Show</a>
-</p>
