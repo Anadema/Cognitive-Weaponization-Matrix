@@ -197,9 +197,8 @@ All documents store here come from Internet and are avalaible in open source acc
 - <a href="https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth" style="color: red;">The Babe - The Great Meme War</a>
 - <a href="https://disarmframework.herokuapp.com" style="color: red;">DISARM Framework</a>
 
-<br><br><br><br><br>
+<br><br><br>
 
-<p align="center">
-  <img width="500" height="300" src="./Image/truman.jpg"><br>
-  <a href="https://en.wikipedia.org/wiki/The_Truman_Show" style="color: red;">The Truman Show</a>
-</p>
+
+
+
