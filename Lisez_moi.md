@@ -92,26 +92,24 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 
 🔷 Général Valery Gerasimov - 2013 ap. J.-C. : "La guerre de l’information ne nécessite ni soldats, ni canons, ni chars, mais uniquement des ordinateurs et des esprits bien entraînés pour mener une guerre discrète mais extrêmement efficace."
 
-🔷 Arsène White - 2025 ap. J.-C. : "Si vous réalisez que nous sommes tous des soldats sur le même champ de bataille et que vous voulez apprendre à vous protéger, ainsi que vos amis et votre famille, contre ce nouveau type de guerre, étudiez et partagez le CWM."
+🔷 Arsène White - 2025 ap. J.-C. : "Si vous réalisez que nous sommes tous des soldats sur le même champ de bataille et que vous voulez apprendre à vous protéger, ainsi que vos amis et votre famille, contre ce nouveau type de guerre, étudiez et partagez la Matrice de Réarmement Cognitif."
 <br>
 
 ## Techniques
 
 <a href="/Cognitive-Weaponization-Matrix/Techniques/Technique_description_fr.html" style="color: red;">Avec description</a><br><br>
 
-- <a href="https://fr.wikipedia.org/wiki/Shadow_banning" style="color: red;">Ban de l’ombre</a>
-- <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge" style="color: red;">Nudge</a>
-- <a href="https://en.wikipedia.org/wiki/Character_assassination" style="color: red;">Assassinat de caractère</a>
-- <a href="https://en.wikipedia.org/wiki/Sock_puppet_account" style="color: red;">Compte fantoche</a>
-- <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Mauvais étiquetage</a>
-- <a href="https://en.wikipedia.org/wiki/Kompromat" style="color: red;">Kompromat</a>
-- <a href="https://en.wikipedia.org/wiki/Cherry_picking" style="color: red;">Sélection biaisée</a>
-- <a href="https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it" style="color: red;">Détournement émotionnel</a>
-- <a href="https://disarmframework.herokuapp.com/technique/7/view" style="color: red;">Agent ignorant</a>
-- <a href="https://en.wikipedia.org/wiki/Clickbait" style="color: red;">Appât à clics</a>
-- <a href="https://mediamanipulation.org/definitions/keyword-squatting/" style="color: red;">Squatting de mots-clés</a>
-- <a href="https://disarmframework.herokuapp.com/technique/49/view" style="color: red;">Essaimage</a>
-- <a href="https://disarmframework.herokuapp.com/technique/5/view" style="color: red;">Faux experts</a>
+- <a href="https://fr.wikipedia.org/wiki/Shadow_banning" style="color: red;">Bannissement furtif (Shadow banning)</a>
+- <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge" style="color: red;">Paternalisme moral (Nudge)</a>
+- <a href="https://fr.wikipedia.org/wiki/Sapage_de_r%C3%A9putation" style="color: red;">Sapage de réputation (Character assassination)</a>
+- <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Mauvais étiquetage (Bad-jacketing)</a>
+- <a href="https://fr.wikipedia.org/wiki/Kompromat_(renseignement)" style="color: red;">Kompromat</a>
+- <a href="https://fr.wikipedia.org/wiki/Cherry_picking" style="color: red;">Picorage (Cherry picking)</a>
+- <a href="https://fr.wikipedia.org/wiki/Gaslighting" style="color: red;">Détournement cognitif (Gaslighting)</a>
+- <a href="https://fr.wikipedia.org/wiki/Idiot_utile" style="color: red;">Idiot utile (Useful idiot)</a>
+- <a href="https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics" style="color: red;">Piège à clics (Clickbait)</a>
+- <a href="https://github.com/CypherPunk-2024/REARMframeworks/blob/main/generated_pages/techniques/T0049.md" style="color: red;">Essaimage (Flood information)</a>
+- <a href="https://github.com/CypherPunk-2024/REARMframeworks/blob/main/generated_pages/techniques/T0009.md" style="color: red;">Faux experts (Fake expert)</a>
 - <a href="https://en.wikipedia.org/wiki/Double_bind" style="color: red;">Injonction contradictoire</a>
 - <a href="https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles" style="color: red;">Doxing</a>
 - <a href="https://disarmframework.herokuapp.com/technique/193/view" style="color: red;">Cyberharcèlement</a>
