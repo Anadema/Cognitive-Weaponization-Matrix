@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400&display=swap" rel="stylesheet">
     <title>Matrice de Réarmement Cognitif</title>
     <style>
         body {
-            font-family: 'Agency FB', Arial, sans-serif; /* Police Impact, avec Arial en fallback */
+            font-family: 'Exo', Arial, sans-serif; /* Police Impact, avec Arial en fallback */
             background-color: black; /* Fond de la page noir */
             margin: 0;
             padding: 20px;
@@ -41,13 +42,6 @@
             display: inline-block; /* Ajuste la largeur au contenu */
         }
 
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(10, 100px); /* 10 colonnes de 100px */
-            gap: 5px; /* Réduit pour rapprocher les lignes */
-            width: fit-content; /* La grille prend la largeur exacte de son contenu */
-        }
-
         .cell {
             background-color: #1e3a5f; /* Bleu foncé par défaut pour lignes 1, 2, 3 */
             color: white;
@@ -63,22 +57,28 @@
             border-radius: 10px; /* Bords arrondis */
         }
 
-        .cell_tech_title {
-            background-color: #1e3a5f; /* Bleu foncé pour "Techniques" */
-            color: white;
-            padding: 10px;
-            text-align: center;
-            font-size: 12px;
-            width: 100px; /* Largeur fixe */
-            height: 50px; /* Hauteur fixe */
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            box-sizing: border-box;
-            border-radius: 10px; /* Bords arrondis */
-            margin-bottom: 5px; /* Ajuste l'espace entre "Techniques" et la ligne 1 */
-        }
+.grid {
+    display: grid;
+    grid-template-columns: repeat(10, 100px); /* 10 colonnes de 100px */
+    gap: 2px; /* Réduit l'espace entre les lignes */
+    width: fit-content; /* La grille prend la largeur exacte de son contenu */
+}
 
+.cell_tech_title {
+    background-color: #1e3a5f; /* Bleu foncé pour "Techniques" */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    width: 100px; /* Largeur fixe */
+    height: 50px; /* Hauteur fixe */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+    border-radius: 10px; /* Bords arrondis */
+    margin-bottom: 2px; /* Réduit l'espace entre "Techniques" et la ligne 1 */
+}
         .cell_conc_title {
             background-color: #6a0dad; /* Violet pour "Concepts clés" */
             color: white;
