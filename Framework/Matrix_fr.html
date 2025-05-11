@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: black; /* Fond de la page noir */
             margin: 0;
             padding: 20px;
             display: flex;
@@ -36,44 +36,46 @@
 
         .grid {
             display: grid;
-            grid-template-columns: 150px repeat(9, 1fr);
+            grid-template-columns: repeat(10, 100px); /* 10 colonnes de 100px pour uniformité */
             gap: 5px;
         }
 
         .cell {
-            background-color: #1e3a5f;
+            background-color: #1e3a5f; /* Bleu foncé par défaut pour lignes 1, 2, 3 */
             color: white;
             padding: 10px;
             text-align: center;
             border: 2px solid #6a0dad;
             font-size: 12px;
-            min-height: 60px;
+            width: 100px; /* Largeur fixe */
+            height: 100px; /* Hauteur fixe pour des cellules carrées */
             display: flex;
             flex-direction: column;
             justify-content: center;
+            box-sizing: border-box;
         }
 
         .cell.header {
-            background-color: #1e3a5f;
+            background-color: transparent; /* Fond transparent */
+            border: none; /* Pas de bordure */
+        }
+
+        .cell.techniques, .cell.concepts {
+            background-color: transparent; /* Fond transparent pour Techniques et Concepts clés */
             font-weight: bold;
             font-size: 14px;
+            border: none;
+            color: white;
         }
 
         .cell.concepts {
-            background-color: #1e3a5f;
-            color: white;
             text-align: right;
-            font-weight: bold;
-            font-size: 14px;
-            border: none;
-            align-items: center;
         }
 
-        .cell.techniques {
-            background-color: #1e3a5f;
-            font-weight: bold;
-            font-size: 14px;
-            border: none;
+        /* Lignes 4, 5, 6 en violet */
+        .cell.concept-row {
+            background-color: #6a0dad; /* Violet pour les lignes 4, 5, 6 */
+            color: white;
         }
 
         a {
@@ -90,19 +92,19 @@
     <div class="container">
         <h1>MATRICE DE RÉARMEMENT COGNITIF</h1>
         <div class="grid">
-            <!-- En-tête -->
+            <!-- En-tête avec "Techniques" avant les techniques -->
             <div class="cell techniques">Techniques</div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell"></div>
-            <div class="cell concepts">Concepts clés</div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
 
-            <!-- Ligne 1 -->
+            <!-- Ligne 1 (bleu foncé) -->
             <a href="" target="_blank"><div class="cell">Bannissement furtif<br>(Shadowban)</div></a>
             <a href="" target="_blank"><div class="cell">Paternalisme libéral<br>(Nudge)</div></a>
             <a href="" target="_blank"><div class="cell">Sagesse de l’intuition<br>(Character assessment)</div></a>
@@ -114,7 +116,7 @@
             <a href="" target="_blank"><div class="cell">Liste utile<br>(Useful idiot)</div></a>
             <a href="" target="_blank"><div class="cell">Piège à clics<br>(Clickbait)</div></a>
 
-            <!-- Ligne 2 -->
+            <!-- Ligne 2 (bleu foncé) -->
             <a href="" target="_blank"><div class="cell">Cyberespace<br>(Cyberspace)</div></a>
             <a href="" target="_blank"><div class="cell">Essaimage<br>(Flood)</div></a>
             <a href="" target="_blank"><div class="cell">Faux experts<br>(Fake experts)</div></a>
@@ -126,7 +128,7 @@
             <a href="" target="_blank"><div class="cell">Incohérence à la calère<br>(Rage-baiting)</div></a>
             <a href="" target="_blank"><div class="cell">Sondage en ligne<br>(CAMA)</div></a>
 
-            <!-- Ligne 3 -->
+            <!-- Ligne 3 (bleu foncé) -->
             <a href="" target="_blank"><div class="cell">Chambre d’écho<br>(Echo chamber)</div></a>
             <a href="" target="_blank"><div class="cell">Copie-piste<br>(Copycat)</div></a>
             <a href="" target="_blank"><div class="cell">Microciblage<br>(Microtargeting)</div></a>
@@ -138,41 +140,53 @@
             <a href="" target="_blank"><div class="cell">Manipulation des algorithmes<br>(Algorithmic)</div></a>
             <div class="cell"></div>
 
-            <!-- Ligne 4 -->
-            <a href="" target="_blank"><div class="cell">Fabrication du consentement<br>(Manufacturing consent)</div></a>
-            <a href="" target="_blank"><div class="cell">Psychologie de masse<br>(Masspsychology-catalogic)</div></a>
-            <a href="" target="_blank"><div class="cell">Ignorance pluraliste<br>(Pluralistic ignorance)</div></a>
-            <a href="" target="_blank"><div class="cell">Inciter les vulnérabilités<br>(Internet audience vulnerabilities)</div></a>
-            <a href="" target="_blank"><div class="cell">Asymétrie informationnelle<br>(Information asymmetry)</div></a>
-            <a href="" target="_blank"><div class="cell">Bulle de filtre<br>(Filter bubble)</div></a>
-            <a href="" target="_blank"><div class="cell">L’effet de rareté<br>(Scarcity effect)</div></a>
-            <a href="" target="_blank"><div class="cell">Vide de données<br>(Data voids)</div></a>
-            <a href="" target="_blank"><div class="cell">Légiciel espion<br>(Spyware)</div></a>
-            <a href="" target="_blank"><div class="cell">Cadrage<br>(Framing)</div></a>
+            <!-- Ligne 4 (violet) -->
+            <a href="" target="_blank"><div class="cell concept-row">Fabrication du consentement<br>(Manufacturing consent)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Psychologie de masse<br>(Masspsychology-catalogic)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Ignorance pluraliste<br>(Pluralistic ignorance)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Inciter les vulnérabilités<br>(Internet audience vulnerabilities)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Asymétrie informationnelle<br>(Information asymmetry)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Bulle de filtre<br>(Filter bubble)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">L’effet de rareté<br>(Scarcity effect)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Vide de données<br>(Data voids)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Légiciel espion<br>(Spyware)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Cadrage<br>(Framing)</div></a>
 
-            <!-- Ligne 5 -->
-            <a href="" target="_blank"><div class="cell">Déconnexion aux smartphones<br>(Probabilistic smartphase use)</div></a>
-            <a href="" target="_blank"><div class="cell">Fenêtre d’Ouverton<br>(Overton window)</div></a>
-            <a href="" target="_blank"><div class="cell">Volonté interconnectée, complexe et ambiguë<br>(VUCA)</div></a>
-            <a href="" target="_blank"><div class="cell">Biais de confirmation<br>(Confirmation bias)</div></a>
-            <a href="" target="_blank"><div class="cell">Biais d’ancrage<br>(Anchor bias)</div></a>
-            <a href="" target="_blank"><div class="cell">Biais moral<br>(Moral self-licensing bias)</div></a>
-            <a href="" target="_blank"><div class="cell">Expérience de Milgram<br>(Milgram experiment)</div></a>
-            <a href="" target="_blank"><div class="cell">Divergences d’attributs<br>(Trait attribution)</div></a>
-            <a href="" target="_blank"><div class="cell">Peur, incertitude et doute<br>(FUD)</div></a>
-            <div class="cell"></div>
+            <!-- Ligne 5 (violet) -->
+            <a href="" target="_blank"><div class="cell concept-row">Déconnexion aux smartphones<br>(Probabilistic smartphase use)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Fenêtre d’Ouverton<br>(Overton window)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Volonté interconnectée, complexe et ambiguë<br>(VUCA)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Biais de confirmation<br>(Confirmation bias)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Biais d’ancrage<br>(Anchor bias)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Biais moral<br>(Moral self-licensing bias)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Expérience de Milgram<br>(Milgram experiment)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Divergences d’attributs<br>(Trait attribution)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Peur, incertitude et doute<br>(FUD)</div></a>
+            <div class="cell concept-row"></div>
 
-            <!-- Ligne 6 -->
-            <a href="" target="_blank"><div class="cell">Guerre de 5e génération<br>(5th generation warfare)</div></a>
-            <a href="" target="_blank"><div class="cell">Aléna, faux travail<br>(False flag)</div></a>
-            <a href="" target="_blank"><div class="cell">La guerre mémétique<br>(Mimetic warfare)</div></a>
-            <a href="" target="_blank"><div class="cell">Opération psychologique<br>(Psyops)</div></a>
-            <a href="" target="_blank"><div class="cell">Usine à trolls<br>(Troll farm)</div></a>
-            <a href="" target="_blank"><div class="cell">Identité numérique<br>(Digital identity)</div></a>
-            <a href="" target="_blank"><div class="cell">Polarisation<br>(Polarization OSINT)</div></a>
-            <a href="" target="_blank"><div class="cell">Renseignement ext. service<br>(Service polarization)</div></a>
-            <a href="" target="_blank"><div class="cell">Observation qualifiée<br>(Decision in action)</div></a>
-            <a href="" target="_blank"><div class="cell">Pouvoir de convaincre<br>(Soft power DOAA-Loop)</div></a>
+            <!-- Ligne 6 (violet) -->
+            <a href="" target="_blank"><div class="cell concept-row">Guerre de 5e génération<br>(5th generation warfare)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Aléna, faux travail<br>(False flag)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">La guerre mémétique<br>(Mimetic warfare)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Opération psychologique<br>(Psyops)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Usine à trolls<br>(Troll farm)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Identité numérique<br>(Digital identity)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Polarisation<br>(Polarization OSINT)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Renseignement ext. service<br>(Service polarization)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Observation qualifiée<br>(Decision in action)</div></a>
+            <a href="" target="_blank"><div class="cell concept-row">Pouvoir de convaincre<br>(Soft power DOAA-Loop)</div></a>
+
+            <!-- Ligne pour "Concepts clés" après les concepts -->
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell header"></div>
+            <div class="cell concepts">Concepts clés</div>
         </div>
     </div>
 </body>
