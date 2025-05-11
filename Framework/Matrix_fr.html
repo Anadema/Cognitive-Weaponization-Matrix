@@ -134,9 +134,9 @@
 
         .cell.concept-row:hover {
             background-color: #000000; /* Fond blanc au survol */
-            color: red; /* Texte rouge au survol */
+            color: green; /* Texte rouge au survol */
             text-decoration: underline; /* Texte souligné au survol */
-            border: 2px solid blue; /* Bordure rouge au survol */
+            border: 2px solid green; /* Bordure rouge au survol */
         }
 
         .parentheses {
@@ -144,9 +144,12 @@
             font-style: italic; /* Italique pour les mots entre parenthèses */
         }
 
-        .cell:hover .parentheses,
+        .cell:hover .parentheses {
+            color: red; /* Texte bleu au survol de la cellule */
+            text-decoration: underline; /* Souligné au survol de la cellule */
+        }
         .cell.concept-row:hover .parentheses {
-            color: blue; /* Texte rouge au survol de la cellule */
+            color: green; /* Texte rouge au survol de la cellule */
             text-decoration: underline; /* Souligné au survol de la cellule */
         }
 
