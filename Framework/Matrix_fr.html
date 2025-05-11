@@ -45,7 +45,7 @@
         .grid {
             display: grid;
             grid-template-columns: repeat(10, 100px); /* 10 colonnes de 100px */
-            gap: 0px; /* Aucun espace entre les lignes */
+            gap: 4px; /* Espace de 4px entre les lignes et colonnes */
             width: fit-content; /* La grille prend la largeur exacte de son contenu */
         }
 
@@ -78,7 +78,7 @@
             justify-content: center;
             box-sizing: border-box;
             border-radius: 10px; /* Bords arrondis */
-            margin-bottom: 0px; /* Aucun espace entre "Techniques" et la ligne 1 */
+            margin-bottom: 0px; /* Aucun espace supplémentaire */
         }
 
         .cell_conc_title {
@@ -94,12 +94,14 @@
             justify-content: center;
             box-sizing: border-box;
             border-radius: 10px; /* Bords arrondis */
-            margin-top: 0px; /* Aucun espace entre la ligne 6 et "Concepts clés" */
+            margin-top: 0px; /* Aucun espace supplémentaire */
         }
 
         .cell.header {
             background-color: transparent; /* Fond transparent */
             border: none; /* Pas de bordure */
+            height: 50px; /* Hauteur fixée à 50px pour correspondre à .cell_tech_title */
+            width: 100px; /* Largeur fixée pour cohérence */
         }
 
         .cell.techniques, .cell.concepts {
