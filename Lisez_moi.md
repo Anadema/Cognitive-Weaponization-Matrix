@@ -118,25 +118,23 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 - <a href="https://fr.wikipedia.org/wiki/Sondage_en_ligne" style="color: red;">Sondages en ligne</a>
 - <a href="https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)" style="color: red;">Chambre d’écho</a>
 - <a href="https://fr.wikipedia.org/wiki/Copypasta" style="color: red;">Copypasta</a>
-- <a href="https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb" style="color: red;">Manipulation par la rareté</a>
-- <a href="https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison" style="color: red;">Motiver la médiocrité</a>
-- <a href="https://datasociety.net/library/deepfakes-and-cheap-fakes/" style="color: red;">Développer des deep/cheap fakes</a>
-- <a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Déluge de faussetés</a>
+- <a href="https://fr.wikipedia.org/wiki/Ciblage_comportemental" style="color: red;">Microciblage</a>
+- <a href="https://fr.wikipedia.org/wiki/Infantilisation" style="color: red;">Infantilisation</a>
+- <a href="https://fr.wikipedia.org/wiki/Deepfake" style="color: red;">Hypertrucage</a>
+- <a href="https://fr.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Tuyau d’incendie de mensonge</a>
 - <a href="https://fromthepenof.com/red-flag-professional-behaviour/discrediting" style="color: red;">Rejeter / Distraire / Distordre / Consternation</a>
-- <a href="https://en.wikipedia.org/wiki/Gaslighting" style="color: red;">Gaslighting</a>
-- <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" style="color: red;">Effet de vérité illusoire</a>
-- <a href="https://www.merriam-webster.com/dictionary/microtarget" style="color: red;">Micro-ciblage</a>
-- <a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)" style="color: red;">Maintenir la culpabilité et l’ignorance</a>
-- <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Cadrage</a>
-- <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Effet de bande</a>
-- <a href="https://disarmframework.herokuapp.com/technique/145/view" style="color: red;">Astroturfing</a>
-- <a href="https://disarmframework.herokuapp.com/technique/134/view" style="color: red;">Attaques papillon</a>
+- <a href="https://fr.wikipedia.org/wiki/Effet_de_mode" style="color: red;">Effet de mode</a>
+- <a href="https://fr.wikipedia.org/wiki/Astroturfing" style="color: red;">Désinformation populaire planifiée</a>
+- <a href="https://www.ojim.fr/manipulation-algorithmes-information/" style="color: red;">Manipulation des algorythmes</a>
 <br>
 
 ## Concepts Clés
 
 <a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description_fr.html" style="color: red;">Avec Description</a><br><br>
 
+- <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" style="color: red;">Effet de vérité illusoire</a>
+- <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Cadrage</a>
+- <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Effet de bande</a>
 - <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">Guerre de cinquième génération</a>
 - <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
 - <a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)" style="color: red;">Problème-Réaction-Solution - PRS</a>
