@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cognitive-Weaponization-Matrix
+title: Matrice de Réarmement Cognitive / Cognitive-Weaponization-Matrix
 ---
 <br>
 <p align="center">
