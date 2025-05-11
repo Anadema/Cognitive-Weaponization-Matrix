@@ -67,7 +67,9 @@
         }
 
         .cell:hover {
-            background-color: #FFFFFF; /* Rouge foncé au survol pour les lignes 1, 2, 3 */
+            background-color: #FFFFFF; /* Fond blanc au survol */
+            color: red; /* Texte rouge au survol */
+            text-decoration: underline; /* Texte souligné au survol */
         }
 
         .cell_tech_title {
@@ -130,7 +132,9 @@
         }
 
         .cell.concept-row:hover {
-            background-color: #8B0000; /* Rouge foncé au survol pour les lignes 4, 5, 6 */
+            background-color: #FFFFFF; /* Fond blanc au survol */
+            color: red; /* Texte rouge au survol */
+            text-decoration: underline; /* Texte souligné au survol */
         }
 
         .parentheses {
@@ -138,14 +142,20 @@
             font-style: italic; /* Italique pour les mots entre parenthèses */
         }
 
+        .cell:hover .parentheses,
+        .cell.concept-row:hover .parentheses {
+            color: red; /* Texte rouge au survol de la cellule */
+            text-decoration: underline; /* Souligné au survol de la cellule */
+        }
+
         a {
-            color: white;
+            color: inherit; /* Hérite de la couleur de l'élément parent (.cell ou .cell.concept-row) */
             text-decoration: none;
         }
 
         a:hover {
-            color: red;
-            text-decoration: underline;
+            color: inherit; /* Hérite de la couleur de l'élément parent au survol */
+            text-decoration: inherit; /* Hérite du soulignement de l'élément parent au survol */
         }
     </style>
 </head>
