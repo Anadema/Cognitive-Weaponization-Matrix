@@ -51,10 +51,35 @@
             color: white;
             padding: 10px;
             text-align: center;
-            border: 2px solid #6a0dad;
             font-size: 12px;
             width: 100px; /* Largeur fixe */
             height: 100px; /* Hauteur fixe pour des cellules carrées */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            box-sizing: border-box;
+        }
+        .cell tech title {
+            background-color: #1e3a5f; /* Bleu foncé par défaut pour lignes 1, 2, 3 */
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            width: 100px; /* Largeur fixe */
+            height: 50px; /* Hauteur fixe pour des cellules carrées */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            box-sizing: border-box;
+        }
+        .cell conc title {
+            background-color: #6a0dad; /* Bleu foncé par défaut pour lignes 1, 2, 3 */
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            width: 100px; /* Largeur fixe */
+            height: 50px; /* Hauteur fixe pour des cellules carrées */
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -99,7 +124,7 @@
         <h1>MATRICE DE RÉARMEMENT COGNITIF</h1>
         <div class="grid">
             <!-- En-tête avec "Techniques" avant les techniques -->
-            <div class="cell">Techniques</div>
+            <div class="cell tech title">Techniques</div>
             <div class="cell header"></div>
             <div class="cell header"></div>
             <div class="cell header"></div>
@@ -192,7 +217,7 @@
             <div class="cell header"></div>
             <div class="cell header"></div>
             <div class="cell header"></div>
-            <div class="cell concept-row">Concepts clés</div>
+            <div class="cell conc title">Concepts clés</div>
         </div>
     </div>
 </body>
