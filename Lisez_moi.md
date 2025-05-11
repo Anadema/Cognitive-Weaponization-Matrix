@@ -132,8 +132,8 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 
 <a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description_fr.html" style="color: red;">Avec Description</a><br><br>
 
-- <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" style="color: red;">Effet de vérité illusoire</a>
-- <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Cadrage</a>
+- <a href="https://fr.wikipedia.org/wiki/La_Fabrication_du_consentement" style="color: red;">Fabrication du consentement</a>
+- <a href="Psychologie des masses" style="color: red;">Psychologie des masses</a>
 - <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Effet de bande</a>
 - <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">Guerre de cinquième génération</a>
 - <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
