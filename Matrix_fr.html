@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matrice de Réarmement Cognitif</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            border: 5px solid red;
+            background-color: white;
+            padding: 20px;
+            width: 100%;
+            max-width: 1200px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+            background-color: black;
+            color: white;
+            padding: 10px;
+            margin: 0 0 20px 0;
+            font-size: 24px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 150px repeat(9, 1fr);
+            gap: 5px;
+        }
+
+        .cell {
+            background-color: #1e3a5f;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border: 2px solid #6a0dad;
+            font-size: 12px;
+            min-height: 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .cell.header {
+            background-color: #1e3a5f;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        .cell.concepts {
+            background-color: #1e3a5f;
+            color: white;
+            text-align: right;
+            font-weight: bold;
+            font-size: 14px;
+            border: none;
+            align-items: center;
+        }
+
+        .cell.techniques {
+            background-color: #1e3a5f;
+            font-weight: bold;
+            font-size: 14px;
+            border: none;
+        }
+
+        a {
+            color: white;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>MATRICE DE RÉARMEMENT COGNITIF</h1>
+        <div class="grid">
+            <!-- En-tête -->
+            <div class="cell techniques">Techniques</div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell"></div>
+            <div class="cell concepts">Concepts clés</div>
+
+            <!-- Ligne 1 -->
+            <a href="" target="_blank"><div class="cell">Bannissement furtif<br>(Shadowban)</div></a>
+            <a href="" target="_blank"><div class="cell">Paternalisme libéral<br>(Nudge)</div></a>
+            <a href="" target="_blank"><div class="cell">Sagesse de l’intuition<br>(Character assessment)</div></a>
+            <a href="" target="_blank"><div class="cell">Faux-nez<br>(Sock puppet)</div></a>
+            <a href="" target="_blank"><div class="cell">Mauvais systèmes<br>(Bad-jacketing)</div></a>
+            <a href="" target="_blank"><div class="cell">Marécage stagnant<br>(Kangaroo court)</div></a>
+            <a href="" target="_blank"><div class="cell">Forçage<br>(Cherry picking)</div></a>
+            <a href="" target="_blank"><div class="cell">Débroussaillement<br>(Gaslighting)</div></a>
+            <a href="" target="_blank"><div class="cell">Liste utile<br>(Useful idiot)</div></a>
+            <a href="" target="_blank"><div class="cell">Piège à clics<br>(Clickbait)</div></a>
+
+            <!-- Ligne 2 -->
+            <a href="" target="_blank"><div class="cell">Cyberespace<br>(Cyberspace)</div></a>
+            <a href="" target="_blank"><div class="cell">Essaimage<br>(Flood)</div></a>
+            <a href="" target="_blank"><div class="cell">Faux experts<br>(Fake experts)</div></a>
+            <a href="" target="_blank"><div class="cell">Double contrainte<br>(Double bind)</div></a>
+            <a href="" target="_blank"><div class="cell">Divulgation de données personnelles<br>(Doxing)</div></a>
+            <a href="" target="_blank"><div class="cell">Cyberharcèlement<br>(Cyberbullying)</div></a>
+            <a href="" target="_blank"><div class="cell">Croissantage<br>(Seed)</div></a>
+            <a href="" target="_blank"><div class="cell">Distractions des groupes<br>(Groupthink)</div></a>
+            <a href="" target="_blank"><div class="cell">Incohérence à la calère<br>(Rage-baiting)</div></a>
+            <a href="" target="_blank"><div class="cell">Sondage en ligne<br>(CAMA)</div></a>
+
+            <!-- Ligne 3 -->
+            <a href="" target="_blank"><div class="cell">Chambre d’écho<br>(Echo chamber)</div></a>
+            <a href="" target="_blank"><div class="cell">Copie-piste<br>(Copycat)</div></a>
+            <a href="" target="_blank"><div class="cell">Microciblage<br>(Microtargeting)</div></a>
+            <a href="" target="_blank"><div class="cell">Hyperciblage<br>(Deepfake)</div></a>
+            <a href="" target="_blank"><div class="cell">Tuyau d’incendie de mensonges<br>(Firehose of falsehood)</div></a>
+            <a href="" target="_blank"><div class="cell">Réalité filtrée<br>(Filter bubble)</div></a>
+            <a href="" target="_blank"><div class="cell">Titre de mode<br>(Bandwagon)</div></a>
+            <a href="" target="_blank"><div class="cell">Désinformation populaire, planifiée<br>(Algorithmic manipulation)</div></a>
+            <a href="" target="_blank"><div class="cell">Manipulation des algorithmes<br>(Algorithmic)</div></a>
+            <div class="cell"></div>
+
+            <!-- Ligne 4 -->
+            <a href="" target="_blank"><div class="cell">Fabrication du consentement<br>(Manufacturing consent)</div></a>
+            <a href="" target="_blank"><div class="cell">Psychologie de masse<br>(Masspsychology-catalogic)</div></a>
+            <a href="" target="_blank"><div class="cell">Ignorance pluraliste<br>(Pluralistic ignorance)</div></a>
+            <a href="" target="_blank"><div class="cell">Inciter les vulnérabilités<br>(Internet audience vulnerabilities)</div></a>
+            <a href="" target="_blank"><div class="cell">Asymétrie informationnelle<br>(Information asymmetry)</div></a>
+            <a href="" target="_blank"><div class="cell">Bulle de filtre<br>(Filter bubble)</div></a>
+            <a href="" target="_blank"><div class="cell">L’effet de rareté<br>(Scarcity effect)</div></a>
+            <a href="" target="_blank"><div class="cell">Vide de données<br>(Data voids)</div></a>
+            <a href="" target="_blank"><div class="cell">Légiciel espion<br>(Spyware)</div></a>
+            <a href="" target="_blank"><div class="cell">Cadrage<br>(Framing)</div></a>
+
+            <!-- Ligne 5 -->
+            <a href="" target="_blank"><div class="cell">Déconnexion aux smartphones<br>(Probabilistic smartphase use)</div></a>
+            <a href="" target="_blank"><div class="cell">Fenêtre d’Ouverton<br>(Overton window)</div></a>
+            <a href="" target="_blank"><div class="cell">Volonté interconnectée, complexe et ambiguë<br>(VUCA)</div></a>
+            <a href="" target="_blank"><div class="cell">Biais de confirmation<br>(Confirmation bias)</div></a>
+            <a href="" target="_blank"><div class="cell">Biais d’ancrage<br>(Anchor bias)</div></a>
+            <a href="" target="_blank"><div class="cell">Biais moral<br>(Moral self-licensing bias)</div></a>
+            <a href="" target="_blank"><div class="cell">Expérience de Milgram<br>(Milgram experiment)</div></a>
+            <a href="" target="_blank"><div class="cell">Divergences d’attributs<br>(Trait attribution)</div></a>
+            <a href="" target="_blank"><div class="cell">Peur, incertitude et doute<br>(FUD)</div></a>
+            <div class="cell"></div>
+
+            <!-- Ligne 6 -->
+            <a href="" target="_blank"><div class="cell">Guerre de 5e génération<br>(5th generation warfare)</div></a>
+            <a href="" target="_blank"><div class="cell">Aléna, faux travail<br>(False flag)</div></a>
+            <a href="" target="_blank"><div class="cell">La guerre mémétique<br>(Mimetic warfare)</div></a>
+            <a href="" target="_blank"><div class="cell">Opération psychologique<br>(Psyops)</div></a>
+            <a href="" target="_blank"><div class="cell">Usine à trolls<br>(Troll farm)</div></a>
+            <a href="" target="_blank"><div class="cell">Identité numérique<br>(Digital identity)</div></a>
+            <a href="" target="_blank"><div class="cell">Polarisation<br>(Polarization OSINT)</div></a>
+            <a href="" target="_blank"><div class="cell">Renseignement ext. service<br>(Service polarization)</div></a>
+            <a href="" target="_blank"><div class="cell">Observation qualifiée<br>(Decision in action)</div></a>
+            <a href="" target="_blank"><div class="cell">Pouvoir de convaincre<br>(Soft power DOAA-Loop)</div></a>
+        </div>
+    </div>
+</body>
+</html>
