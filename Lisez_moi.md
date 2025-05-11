@@ -108,16 +108,16 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 - <a href="https://fr.wikipedia.org/wiki/Gaslighting" style="color: red;">Détournement cognitif (Gaslighting)</a>
 - <a href="https://fr.wikipedia.org/wiki/Idiot_utile" style="color: red;">Idiot utile (Useful idiot)</a>
 - <a href="https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics" style="color: red;">Piège à clics (Clickbait)</a>
-- <a href="https://github.com/CypherPunk-2024/REARMframeworks/blob/main/generated_pages/techniques/T0049.md" style="color: red;">Essaimage (Flood information)</a>
-- <a href="https://github.com/CypherPunk-2024/REARMframeworks/blob/main/generated_pages/techniques/T0009.md" style="color: red;">Faux experts (Fake expert)</a>
-- <a href="https://en.wikipedia.org/wiki/Double_bind" style="color: red;">Injonction contradictoire</a>
+- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0049.md" style="color: red;">Essaimage (Flood information)</a>
+- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0009.md" style="color: red;">Faux experts (Fake expert)</a>
+- <a href="https://fr.wikipedia.org/wiki/Double_contrainte" style="color: red;">Injonction contradictoire</a>
 - <a href="https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles" style="color: red;">Doxing</a>
-- <a href="https://disarmframework.herokuapp.com/technique/193/view" style="color: red;">Cyberharcèlement</a>
-- <a href="https://disarmframework.herokuapp.com/technique/35/view" style="color: red;">Distorsions initiales</a>
-- <a href="https://en.wikipedia.org/wiki/Rage-baiting" style="color: red;">Appâter un influenceur</a>
-- <a href="https://en.wikipedia.org/wiki/Open-access_poll" style="color: red;">Sondages en ligne</a>
-- <a href="https://en.wikipedia.org/wiki/Echo_chamber_(media)" style="color: red;">Chambre d’écho</a>
-- <a href="https://en.wikipedia.org/wiki/Copypasta" style="color: red;">Copypasta</a>
+- <a href="https://fr.wikipedia.org/wiki/Cyberharc%C3%A8lement" style="color: red;">Cyberharcèlement</a>
+- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0044.md" style="color: red;">Distorsions des graines</a>
+- <a href="https://fr.wikipedia.org/wiki/Rage-baiting" style="color: red;">Incitation à la colère</a>
+- <a href="https://fr.wikipedia.org/wiki/Sondage_en_ligne" style="color: red;">Sondages en ligne</a>
+- <a href="https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)" style="color: red;">Chambre d’écho</a>
+- <a href="https://fr.wikipedia.org/wiki/Copypasta" style="color: red;">Copypasta</a>
 - <a href="https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb" style="color: red;">Manipulation par la rareté</a>
 - <a href="https://fr.wikipedia.org/wiki/Dialectique_de_la_Raison" style="color: red;">Motiver la médiocrité</a>
 - <a href="https://datasociety.net/library/deepfakes-and-cheap-fakes/" style="color: red;">Développer des deep/cheap fakes</a>
