@@ -22,7 +22,7 @@
             background-color: black;
             padding: 5px;
             width: 100%;
-            max-width: 1650px; /* Toujours correct pour contenir la grille */
+            max-width: 1553px; /* Ajusté pour contenir la grille (1535px + 10px padding + 8px bordure) */
             box-sizing: border-box;
             display: flex;
             flex-direction: column;
@@ -45,7 +45,7 @@
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(10, 120px); /* 10 colonnes de 120px */
+            grid-template-columns: repeat(10, 140px); /* 10 colonnes de 140px */
             gap: 15px; /* Espace de 15px entre les lignes et colonnes */
             width: fit-content; /* La grille prend la largeur exacte de son contenu */
         }
@@ -76,7 +76,7 @@
             padding: 10px;
             text-align: center;
             font-size: 14px;
-            width: 120px; /* Ajusté pour correspondre aux cellules */
+            width: 140px; /* Ajusté pour correspondre aux cellules */
             height: 50px; /* Hauteur fixe */
             display: flex;
             flex-direction: column;
@@ -97,7 +97,7 @@
             padding: 10px;
             text-align: center;
             font-size: 14px;
-            width: 120px; /* Ajusté pour correspondre aux cellules */
+            width: 140px; /* Ajusté pour correspondre aux cellules */
             height: 50px; /* Hauteur fixe */
             display: flex;
             flex-direction: column;
@@ -116,7 +116,7 @@
             background-color: transparent; /* Fond transparent */
             border: none; /* Pas de bordure */
             height: 50px; /* Hauteur fixée à 50px pour correspondre à .cell_tech_title */
-            width: 120px; /* Ajusté pour correspondre aux cellules */
+            width: 140px; /* Ajusté pour correspondre aux cellules */
         }
 
         .cell.techniques, .cell.concepts {
