@@ -133,34 +133,35 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 <a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description_fr.html" style="color: red;">Avec Description</a><br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/La_Fabrication_du_consentement" style="color: red;">Fabrication du consentement</a>
-- <a href="Psychologie des masses" style="color: red;">Psychologie des masses</a>
-- <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Effet de bande</a>
-- <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">Guerre de cinquième génération</a>
-- <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
-- <a href="https://fr.wikipedia.org/wiki/La_Soci%C3%A9t%C3%A9_du_spectacle_(livre)" style="color: red;">Problème-Réaction-Solution - PRS</a>
-- <a href="https://datasociety.net/library/data-voids/" style="color: red;">Vides de données</a>
-- <a href="https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md" style="color: red;">Vulnérabilité du public</a>
-- <a href="https://en.wikipedia.org/wiki/Information_asymmetry" style="color: red;">Asymétrie d'information</a>
-- <a href="https://en.wikipedia.org/wiki/Filter_bubble" style="color: red;">Bulle filtrée</a>
-- <a href="https://en.wikipedia.org/wiki/Compulsion_loop" style="color: red;">Boucle de dopamine</a>
-- <a href="https://en.wikipedia.org/wiki/Overton_window" style="color: red;">Fenêtre d'Overton</a>
-- <a href="https://en.wikipedia.org/wiki/VUCA" style="color: red;">VUCA</a>
-- <a href="https://en.wikipedia.org/wiki/Confirmation_bias" style="color: red;">Biais de confirmation</a>
-- <a href="https://en.wikipedia.org/wiki/Anchoring_effect" style="color: red;">Biais d'ancrage</a>
-- <a href="https://en.wikipedia.org/wiki/Self-licensing" style="color: red;">Auto-justification</a>
-- <a href="https://en.wikipedia.org/wiki/Milgram_experiment" style="color: red;">Expérience de Milgram</a>
-- <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" style="color: red;">Expérience de Asch</a>
+- <a href="https://fr.wikipedia.org/wiki/Psychologie_des_masses_et_analyse_du_moi" style="color: red;">Psychologie des masses</a>
+- <a href="https://fr.wikipedia.org/wiki/Ignorance_pluraliste" style="color: red;">Ignorance pluraliste</a>
+- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0083.md" style="color: red;">Intégrer les vulnérabilités du public</a>
+- <a href="https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d%27information" style="color: red;">Asymétrie d'information</a>
+- <a href="https://fr.wikipedia.org/wiki/Bulle_de_filtres" style="color: red;">Bulle de filtres</a>
+- <a href="https://misterfanjo.com/index.php/2021/11/12/leffet-de-rarete/" style="color: red;">L'effet de rareté</a>
+- <a href="https://datasociety.net/library/data-voids/" style="color: red;">Vide de donnée</a>
+- <a href="https://fr.wikipedia.org/wiki/Logiciel_espion" style="color: red;">Logiciel espion</a>
+- <a href="https://fr.wikipedia.org/wiki/Cadrage_(d%C3%A9cision)" style="color: red;">Cadrage</a>
+- <a href="https://fr.wikipedia.org/wiki/D%C3%A9pendance_au_smartphone" style="color: red;">Dépendance au smartphone</a>
+- <a href="https://fr.wikipedia.org/wiki/Fen%C3%AAtre_d%27Overton" style="color: red;">Fenêtre d'Overton</a>
+- <a href="https://fr.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity" style="color: red;">Volatilité, incertitude, complexité et ambiguïté</a>
+- <a href="https://fr.wikipedia.org/wiki/Biais_de_confirmation" style="color: red;">Biais de confirmation</a>
+- <a href="https://fr.wikipedia.org/wiki/Ancrage_(psychologie)" style="color: red;">Biais d'ancrage</a>
+- <a href="https://fr.wikipedia.org/wiki/Hypocrisie_morale" style="color: red;">Biais d'hypocrisie morale</a>
+- <a href="https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch" style="color: red;">Expérience de Asch</a>
+- <a href="https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Milgram" style="color: red;">Expérience de Milgram</a>
+- <a href="https://miscellanees.me/2015/09/11/jean-claude-michea-le-tittytainment-et-lenseignement-de-lignorance/" style="color: red;">Divertissement abrutissant</a>
 - <a href="https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt" style="color: red;">Peur, incertitude et doute</a>
-- <a href="https://en.wikipedia.org/wiki/Fear_of_missing_out" style="color: red;">Peur de rater quelque chose (FOMO)</a>
-- <a href="https://en.wikipedia.org/wiki/Psychological_operations_(United_States)" style="color: red;">Opérations psychologiques</a>
-- <a href="https://en.wikipedia.org/wiki/Troll_farm" style="color: red;">Ferme de trolls/bots</a>
-- <a href="https://en.wikipedia.org/wiki/Digital_identity" style="color: red;">Identité numérique</a>
-- <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" style="color: red;">Renseignement en sources ouvertes</a>
-- <a href="https://en.wikipedia.org/wiki/Operations_security" style="color: red;">Sécurité des opérations</a>
-- <a href="https://fr.wikipedia.org/wiki/Boucle_OODA" style="color: red;">Boucle OODA</a>
-- <a href="https://en.wikipedia.org/wiki/Soft_power" style="color: red;">Méthode douce</a>
-- <a href="https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rXc" style="color: red;">Manipulations émotionnelles</a>
-- <a href="https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf" style="color: red;">Mémétique militaire</a>
+- <a href="https://odysee.com/@JeanneTraduction:a/5th-Generation-Warfare:9" style="color: red;">Guerre de 5ème génération</a>
+- <a href="https://fr.wikipedia.org/wiki/Fausse_banni%C3%A8re" style="color: red;">Attaque sous faux pavillon</a>
+- <a href="https://apps.dtic.mil/sti/pdfs/ADA507172.pdf" style="color: red;">La militarisation mémétique</a>
+- <a href="https://fr.wikipedia.org/wiki/Op%C3%A9rations_psychologiques" style="color: red;">Opération psychologique</a>
+- <a href="https://fr.wikipedia.org/wiki/Usine_%C3%A0_trolls" style="color: red;">Ferme à trolls</a>
+- <a href="https://fr.wikipedia.org/wiki/Identit%C3%A9_num%C3%A9rique" style="color: red;">Identité numérique</a>
+- <a href="https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes" style="color: red;">Renseignement d'origine sources ouvertes</a>
+- <a href="https://fr.wikipedia.org/wiki/Polarisation_politique" style="color: red;">Polarisation politique</a>
+- <a href="https://fr.wikipedia.org/wiki/Boucle_OODA" style="color: red;">Observation, Orientation, Décision, Action</a>
+- <a href="https://fr.wikipedia.org/wiki/Soft_power" style="color: red;">Soft power</a>
 <br>
 
 # Commentaires personnels
