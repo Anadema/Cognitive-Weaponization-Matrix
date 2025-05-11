@@ -22,7 +22,7 @@
             background-color: black;
             padding: 5px;
             width: 100%;
-            max-width: 1450px; /* Toujours correct pour contenir la grille */
+            max-width: 1550px; /* Toujours correct pour contenir la grille */
             box-sizing: border-box;
             display: flex;
             flex-direction: column;
@@ -56,7 +56,7 @@
             padding: 10px;
             text-align: center;
             font-size: 12px;
-            width: 120px; /* Largeur fixe */
+            width: 140px; /* Largeur fixe */
             height: 90px; /* Hauteur fixe pour des cellules carrées */
             display: flex;
             flex-direction: column;
@@ -64,6 +64,10 @@
             box-sizing: border-box;
             border-radius: 10px; /* Bords arrondis */
             font-weight: bold; /* Texte principal en gras */
+        }
+
+        .cell:hover {
+            background-color: #8B0000; /* Rouge foncé au survol pour les lignes 1, 2, 3 */
         }
 
         .cell_tech_title {
@@ -83,6 +87,10 @@
             font-weight: bold; /* Texte principal en gras */
         }
 
+        .cell_tech_title:hover {
+            background-color: #8B0000; /* Rouge foncé au survol pour "Techniques" */
+        }
+
         .cell_conc_title {
             background-color: #000000; /* Noir pour "Concepts clés" */
             color: white;
@@ -98,6 +106,10 @@
             box-sizing: border-box;
             margin-top: 0px; /* Aucun espace supplémentaire */
             font-weight: bold; /* Texte principal en gras */
+        }
+
+        .cell_conc_title:hover {
+            background-color: #8B0000; /* Rouge foncé au survol pour "Concepts clés" */
         }
 
         .cell.header {
@@ -123,6 +135,10 @@
             color: white;
             border-radius: 10px; /* Bords arrondis */
             font-weight: bold; /* Texte principal en gras */
+        }
+
+        .cell.concept-row:hover {
+            background-color: #8B0000; /* Rouge foncé au survol pour les lignes 4, 5, 6 */
         }
 
         .parentheses {
