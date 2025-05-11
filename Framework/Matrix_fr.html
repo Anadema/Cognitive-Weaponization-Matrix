@@ -6,28 +6,28 @@
     <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400&display=swap" rel="stylesheet">
     <title>MRC</title>
     <style>
- body {
-    font-family: 'Exo', Arial, sans-serif; /* Police Exo, avec Arial en fallback */
-    background-color: black; /* Fond de la page noir */
-    margin: 0;
-    display: flex;
-    justify-content: center; /* Centrer horizontalement */
-    align-items: center;
-    min-height: 100vh;
-    padding: 20px 5px; /* 20px en haut/bas, 5px à gauche/droite */
-   }
+        body {
+            font-family: 'Exo', Arial, sans-serif; /* Police Exo, avec Arial en fallback */
+            background-color: black; /* Fond de la page noir */
+            margin: 0;
+            display: flex;
+            justify-content: center; /* Centrer horizontalement */
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px 0; /* 20px en haut/bas, 0px à gauche/droite */
+        }
 
-.container {
-    border: 4px solid red;
-    background-color: black;
-    padding: 5px;
-    width: 100%;
-    max-width: 1353px;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Centrer le contenu à l'intérieur du conteneur */
-}
+        .container {
+            border: 4px solid red;
+            background-color: black;
+            padding: 5px;
+            width: 100%;
+            max-width: 1353px; /* Toujours correct pour contenir la grille */
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Centrer le contenu à l'intérieur du conteneur */
+        }
 
         h1 {
             text-align: center;
@@ -45,8 +45,8 @@
 
         .grid {
             display: grid;
-            grid-template-columns: repeat(10, 100px); /* 10 colonnes de 100px */
-            gap: 15px; /* Espace de 4px entre les lignes et colonnes */
+            grid-template-columns: repeat(10, 120px); /* 10 colonnes de 120px */
+            gap: 15px; /* Espace de 15px entre les lignes et colonnes */
             width: fit-content; /* La grille prend la largeur exacte de son contenu */
         }
 
@@ -67,12 +67,12 @@
         }
 
         .cell_tech_title {
-            background-color: #000000; /* Bleu foncé pour "Techniques" */
+            background-color: #000000; /* Noir pour "Techniques" */
             color: white;
             padding: 10px;
             text-align: center;
             font-size: 14px;
-            width: 100px; /* Largeur fixe */
+            width: 120px; /* Ajusté pour correspondre aux cellules */
             height: 50px; /* Hauteur fixe */
             display: flex;
             flex-direction: column;
@@ -84,12 +84,12 @@
         }
 
         .cell_conc_title {
-            background-color: #000000; /* Violet pour "Concepts clés" */
+            background-color: #000000; /* Noir pour "Concepts clés" */
             color: white;
             padding: 10px;
             text-align: center;
             font-size: 14px;
-            width: 100px; /* Largeur fixe */
+            width: 120px; /* Ajusté pour correspondre aux cellules */
             height: 50px; /* Hauteur fixe */
             display: flex;
             flex-direction: column;
@@ -104,7 +104,7 @@
             background-color: transparent; /* Fond transparent */
             border: none; /* Pas de bordure */
             height: 50px; /* Hauteur fixée à 50px pour correspondre à .cell_tech_title */
-            width: 100px; /* Largeur fixée pour cohérence */
+            width: 120px; /* Ajusté pour correspondre aux cellules */
         }
 
         .cell.techniques, .cell.concepts {
