@@ -6,7 +6,7 @@
     <title>Matrice de Réarmement Cognitif</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Impact', Arial, sans-serif; /* Police Impact, avec Arial en fallback */
             background-color: black; /* Fond de la page noir */
             margin: 0;
             padding: 20px;
@@ -37,12 +37,15 @@
             font-size: 24px;
             width: 100%; /* S'assurer que le titre prend toute la largeur du conteneur */
             box-sizing: border-box;
+            border: 2px solid white; /* Bordure blanche */
+            border-radius: 10px; /* Bords arrondis */
+            font-weight: bold; /* Gras pour Impact */
         }
 
         .grid {
             display: grid;
             grid-template-columns: repeat(10, 100px); /* 10 colonnes de 100px */
-            gap: 5px;
+            gap: 5px; /* Réduit pour rapprocher les lignes */
             width: fit-content; /* La grille prend la largeur exacte de son contenu */
         }
 
@@ -58,32 +61,42 @@
             flex-direction: column;
             justify-content: center;
             box-sizing: border-box;
+            border-radius: 10px; /* Bords arrondis */
+            font-weight: bold; /* Gras pour Impact */
         }
+
         .cell_tech_title {
-            background-color: #1e3a5f; /* Bleu foncé par défaut pour lignes 1, 2, 3 */
+            background-color: #1e3a5f; /* Bleu foncé pour "Techniques" */
             color: white;
             padding: 10px;
             text-align: center;
             font-size: 12px;
             width: 100px; /* Largeur fixe */
-            height: 50px; /* Hauteur fixe pour des cellules carrées */
+            height: 50px; /* Hauteur fixe */
             display: flex;
             flex-direction: column;
             justify-content: center;
             box-sizing: border-box;
+            border-radius: 10px; /* Bords arrondis */
+            font-weight: bold; /* Gras pour Impact */
+            margin-bottom: 5px; /* Ajuste l'espace entre "Techniques" et la ligne 1 */
         }
+
         .cell_conc_title {
-            background-color: #6a0dad; /* Bleu foncé par défaut pour lignes 1, 2, 3 */
+            background-color: #6a0dad; /* Violet pour "Concepts clés" */
             color: white;
             padding: 10px;
             text-align: center;
             font-size: 12px;
             width: 100px; /* Largeur fixe */
-            height: 50px; /* Hauteur fixe pour des cellules carrées */
+            height: 50px; /* Hauteur fixe */
             display: flex;
             flex-direction: column;
             justify-content: center;
             box-sizing: border-box;
+            border-radius: 10px; /* Bords arrondis */
+            font-weight: bold; /* Gras pour Impact */
+            margin-top: 5px; /* Ajuste l'espace entre la ligne 6 et "Concepts clés" */
         }
 
         .cell.header {
@@ -107,6 +120,7 @@
         .cell.concept-row {
             background-color: #6a0dad; /* Violet pour les lignes 4, 5, 6 */
             color: white;
+            border-radius: 10px; /* Bords arrondis */
         }
 
         a {
