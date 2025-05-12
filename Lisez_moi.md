@@ -109,6 +109,7 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 - <a href="https://fr.wikipedia.org/wiki/Gaslighting" style="color: red;">Détournement cognitif (Gaslighting)</a>
 - <a href="https://fr.wikipedia.org/wiki/Idiot_utile" style="color: red;">Idiot utile (Useful idiot)</a>
 - <a href="https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics" style="color: red;">Piège à clics (Clickbait)</a>
+- <a href="https://fr.wikipedia.org/wiki/Cybersquattage" style="color: red;">Cyberesquat</a>
 - <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0049.md" style="color: red;">Essaimage (Flood information)</a>
 - <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0009.md" style="color: red;">Faux experts (Fake expert)</a>
 - <a href="https://fr.wikipedia.org/wiki/Double_contrainte" style="color: red;">Injonction contradictoire</a>
