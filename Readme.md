@@ -65,8 +65,8 @@ title: Cognitive-Weaponization-Matrix - Readme
 <br>
 
 <p align="center">
-  <img width="800" height="600" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
-  <a href="https://en.wikipedia.org/wiki/Cognitive_bias" style="color: red;">Cognitive Bias</a>
+  <a href="[https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)" style="color: red;"><img width="800" height="600" src="./Documents/Cognitive_bias_codex_en.svg.png"></a><br>
+  <a href="https://en.wikipedia.org/wiki/Cognitive_bias" style="color: red;">Cognitive Bias (Algorithmique model: John Manoogian III)</a>
 </p>
 
 <br>
