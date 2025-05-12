@@ -63,7 +63,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <br>
 
 <p align="center">
-  <img width="800" height="600" src="./Documents/Cognitive_bias_codex_en.svg.png"><br>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg" style="color: red;"><img width="800" height="600" src="./Documents/Cognitive_bias_codex_en.svg.png"></a><br>
   <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs</a>
 </p>
 
