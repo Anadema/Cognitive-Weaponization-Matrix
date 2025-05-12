@@ -5,7 +5,8 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <link rel="stylesheet" href="/Cognitive-Weaponization-Matrix/assets/style.css">
 <br>
 <p align="center">
-  <a href="/Cognitive-Weaponization-Matrix/Framework/Matrix_fr.html" class="page-link"><img width="100%" height="100%" src="Framework/MRC.jpg"></a><br><br>
+  <a href="/Cognitive-Weaponization-Matrix/Framework/Matrix_fr.html" class="page-link"><img width="100%" height="100%" src="Framework/MRC.jpg"></a><br>
+   <div w3-include-html="/Cognitive-Weaponization-Matrix/Framework/Matrix_fr.html"></div> <br>
   "Si vous pensez que vous n'avez rien à caché, c'est que vous avez déjà tout perdu."<br>
   <i>Arsene White</i>
 </p>
