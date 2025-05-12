@@ -102,6 +102,7 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 - <a href="https://fr.wikipedia.org/wiki/Shadow_banning" style="color: red;">Bannissement furtif (Shadow banning)</a>
 - <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge" style="color: red;">Paternalisme moral (Nudge)</a>
 - <a href="https://fr.wikipedia.org/wiki/Sapage_de_r%C3%A9putation" style="color: red;">Sapage de réputation (Character assassination)</a>
+- <a href="https://fr.wikipedia.org/wiki/Faux-nez" style="color: red;">Faux-nez (Sock puppet)</a>
 - <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Mauvais étiquetage (Bad-jacketing)</a>
 - <a href="https://fr.wikipedia.org/wiki/Kompromat_(renseignement)" style="color: red;">Kompromat</a>
 - <a href="https://fr.wikipedia.org/wiki/Cherry_picking" style="color: red;">Picorage (Cherry picking)</a>
