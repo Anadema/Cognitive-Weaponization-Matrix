@@ -4,7 +4,7 @@ title: Matrice de Réarmement Cognitive / Cognitive Weaponization Matrix
 ---
 <br>
 <p align="center">Cliquez pour accéder à la matrice dynamique<br><br>
-<a href="https://upload.wikimedia.org/wikipedia/commons/1/16/The_Cognitive_Bias_Codex_%28French%29_-_John_Manoogian_III_%28jm3%29.svg" style="color: red;"><img max-width="1200" height="100%" src="Framework/MRC.jpg"></a><br><br>
+<a href="/Cognitive-Weaponization-Matrix/Framework/Matrix_fr.html" style="color: red;"><img max-width="1200" height="100%" src="Framework/MRC.jpg"></a><br><br>
   "La sécurisation d'un système repose sur l'étude des techniques d'attaque connues ou imaginées contre lui.<br>Elles nous révèlent ainsi ses failles et nous offrent la possibilité de les corriger"<br><br>
    <i>Arsène White</i>
 </p><br>
