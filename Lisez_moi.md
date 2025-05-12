@@ -97,8 +97,6 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 
 ## Techniques
 
-<a href="/Cognitive-Weaponization-Matrix/Techniques/Technique_description_fr.html" style="color: red;">Avec description</a><br><br>
-
 - <a href="https://fr.wikipedia.org/wiki/Shadow_banning" style="color: red;">Bannissement furtif (Shadow banning)</a>
 - <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_nudge" style="color: red;">Paternalisme moral (Nudge)</a>
 - <a href="https://fr.wikipedia.org/wiki/Sapage_de_r%C3%A9putation" style="color: red;">Sapage de réputation (Character assassination)</a>
@@ -132,8 +130,6 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 <br>
 
 ## Concepts Clés
-
-<a href="/Cognitive-Weaponization-Matrix/Key_Concepts/Key_Concepts_description_fr.html" style="color: red;">Avec Description</a><br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/La_Fabrication_du_consentement" style="color: red;">Fabrication du consentement (Manufacturing consent)</a>
 - <a href="https://fr.wikipedia.org/wiki/Psychologie_des_masses_et_analyse_du_moi" style="color: red;">Psychologie des masses (Group Psychology)</a>
