@@ -182,7 +182,7 @@ with the sole aim of trying to get closer to the truth, nothing more, nothing le
 Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
 
 You can use it for research and training purposes; however, commercialization is not authorized.<br>
-All documents store here come from Internet and are avalaible in open source access:<br><br>
+All documents are avalaible in open source access:<br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Cognitive Biases - Wikipedia</a>
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf" style="color: red;">Article PMC - Biderman’s Chart of Coercion</a>
