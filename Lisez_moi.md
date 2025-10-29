@@ -178,7 +178,7 @@ Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour
 La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
 
 Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée<br>
-Tous les documents stockés ici proviennent de sources ouvertes accessibles sur Internet :<br><br>
+Tous les documents sont accessibles sur Internet :<br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs - Wikipédia</a>
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf" style="color: red;">Article PMC - Biderman’s Chart of Coercion</a>
