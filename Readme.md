@@ -196,5 +196,8 @@ All documents are avalaible in open source access:<br><br>
 <br><br><br>
 
 
-
+<p align="center">
+<img src="image/athena.jpg" alt="Logo Bone Flag" width="300" height="auto"><br>
+<i>Athena</i>
+</p>
 
