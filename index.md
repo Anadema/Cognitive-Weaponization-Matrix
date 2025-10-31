@@ -11,10 +11,8 @@ title: Matrice de Réarmement Cognitive / Cognitive Weaponization Matrix
 <p align="center">
 <img max-width="1200" height="100%" src="Framework/CWM.jpg"><br><br>
   "The security of a system relies on the study of known or imagined attack techniques against it.<br>These reveal its vulnerabilities and provide us with the opportunity to address them."<br><br>
-  <p align="center">
 <img src="Image/athena.jpg" alt="Logo Bone Flag" width="300" height="auto"><br>
 <i>Athena</i>
-</p>
   Choisissez votre langue | Choose your language<br>
   <a href="/Cognitive-Weaponization-Matrix/Lisez_moi.html" style="color: red;">Compendium FR</a> | 
   <a href="/Cognitive-Weaponization-Matrix/Readme.html" style="color: red;">Compendium EN</a>
