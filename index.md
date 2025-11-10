@@ -18,10 +18,5 @@ title: Matrice de Réarmement Cognitive / Cognitive Weaponization Matrix
   <a href="/Cognitive-Weaponization-Matrix/Readme.html" style="color: red;">Compendium EN</a>
 </p>
 
-<br><br>
-<p align="center">
-<img src="Image/athena.jpg" alt="Logo Bone Flag" width="300" height="auto"><br>
-<i>Metis</i>
-</p>
 
 
