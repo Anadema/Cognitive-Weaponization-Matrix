@@ -194,7 +194,7 @@ Tous les documents sont accessibles sur Internet :<br><br>
 
 <p align="center">
 <img src="Image/athena.jpg" alt="Logo Bone Flag" width="300" height="auto"><br>
-<i>Athena</i>
+<i>Metis</i>
 </p>
 
 <br><br>
