@@ -189,6 +189,7 @@ Tous les documents sont accessibles sur Internet :<br><br>
 ## License
 
 Apache 2.0 — Voir la page de licence.
+
 ---
 
 ## Authors
