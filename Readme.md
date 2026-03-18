@@ -177,11 +177,8 @@ I have no conflicts of interest, meaning I am not acting on behalf of any govern
 with the sole aim of trying to get closer to the truth, nothing more, nothing less. I make mistakes, and I learn as a result. My goal is only to share the knowledge I have gathered, not to position myself as an expert.
 <br><br><br>
 
-# Licence
+# Reference
 
-Cognitive Weaponization Matrix has been released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
-
-You can use it for research and training purposes; however, commercialization is not authorized.<br>
 All documents are avalaible in open source access:<br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Cognitive Biases - Wikipedia</a>
@@ -196,8 +193,12 @@ All documents are avalaible in open source access:<br><br>
 <br><br><br>
 
 
-<p align="center">
-<img src="Image/athena.jpg" alt="Logo Bone Flag" width="300" height="auto"><br>
-<b>METIS</b>
-</p>
+## License
 
+Apache 2.0 — see `LICENSE` file.
+
+---
+
+## Authors
+
+Anadema
