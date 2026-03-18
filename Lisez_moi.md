@@ -173,11 +173,8 @@ L’axe de recherche est à la fois scientifique et militaire, avec l’original
 Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour le compte d’un gouvernement ou d’un groupe politique ou idéologique. C’est une démarche passionnée, et certainement un besoin personnel, dans le seul but de tenter de m’approcher de la vérité, ni plus, ni moins. Je fais des erreurs, et j’apprends en conséquence. Mon objectif est uniquement de partager les connaissances que j’ai rassemblées, et non de me positionner comme un expert.
 <br><br><br>
 
-# Licence
+# Référence
 
-La Matrice d'Armement Cognitif a été publiée sous <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: red;">CC BY-NC-SA 4.0</a> :<br>
-
-Vous pouvez l’utiliser à des fins de recherche et de formation ; cependant, la commercialisation n’est pas autorisée<br>
 Tous les documents sont accessibles sur Internet :<br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs - Wikipédia</a>
@@ -189,12 +186,13 @@ Tous les documents sont accessibles sur Internet :<br><br>
 - <a href="https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth" style="color: red;">The Babe - The Great Meme War</a>
 - <a href="https://disarmframework.herokuapp.com" style="color: red;">DISARM Framework</a>
 
-<br><br><br>
+## License
 
+Apache 2.0 — Voir la page de licence.
+---
 
-<p align="center">
-<img src="Image/athena.jpg" alt="Logo Bone Flag" width="300" height="auto"><br>
-<b>METIS</b>
-</p>
+## Authors
+
+Anadema
 
 <br><br>
