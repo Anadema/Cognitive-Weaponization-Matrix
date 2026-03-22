@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400&display=swap" rel="stylesheet">
+    <title>MRC</title>
+    <style>
+        body {
+            font-family: 'Exo', Arial, sans-serif;
+            background-color: black;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px 0;
+        }
+        .container {
+            border: 4px solid red;
+            background-color: black;
+            padding: 5px;
+            width: 100%;
+            max-width: 1553px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            text-align: center;
+            color: white;
+            padding: 10px;
+            margin: 10px 10px 40px 10px;
+            font-size: 40px;
+            border: 2px solid white;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(10, 140px);
+            gap: 13px;
+            width: fit-content;
+        }
+        .cell {
+            background-color: #002060;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            width: 140px;
+            height: 90px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+        .cell:hover {
+            background-color: black;
+            color: red;
+            text-decoration: underline;
+            border: 2px solid red;
+        }
+        .cell_tech_title {
+            background-color: black;
+            color: white;
+            font-size: 16px;
+            width: 140px;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid red;
+            font-weight: bold;
+        }
+        .cell_conc_title {
+            background-color: black;
+            color: white;
+            font-size: 16px;
+            width: 140px;
+            height: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border: 2px solid #7FFF00;
+            font-weight: bold;
+        }
+        .cell.header {
+            background: transparent;
+            border: none;
+        }
+        .cell.concept-row {
+            background-color: #7030A0;
+        }
+        .cell.concept-row:hover {
+            color: #7FFF00;
+            border: 2px solid #7FFF00;
+        }
+        .parentheses {
+            font-style: italic;
+            font-weight: normal;
+        }
+        a { color: inherit; text-decoration: none; }
+    </style>
+</head>
+
+<body>
+<div class="container"><br>
+
+<h1><span style="color:red">C</span>OGNITIVE <span style="color:red">R</span>EARMAMENT <span style="color:red">M</span>ATRIX</h1>
+
+<div class="grid">
+
+<div class="cell_tech_title">Techniques</div>
+<div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
+<div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
+<div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
+
+<!-- Ligne 1 -->
+<a href="https://en.wikipedia.org/wiki/Shadow_banning" target="_blank"><div class="cell">Shadow Banning<br><span class="parentheses">(Shadowban)</span></div></a>
+<a href="https://en.wikipedia.org/wiki/Nudge_theory" target="_blank"><div class="cell">Nudge<br><span class="parentheses">(Nudge)</span></div></a>
+<a href="https://en.wikipedia.org/wiki/Character_assassination" target="_blank"><div class="cell">Character Assassination</div></a>
+<a href="https://en.wikipedia.org/wiki/Sock_puppet_account" target="_blank"><div class="cell">Sock Puppet</div></a>
+<a href="https://en.wikipedia.org/wiki/Bad-jacketing" target="_blank"><div class="cell">Bad Jacketing</div></a>
+<a href="https://en.wikipedia.org/wiki/Kompromat" target="_blank"><div class="cell">Kompromat</div></a>
+<a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank"><div class="cell">Cherry Picking</div></a>
+<a href="https://en.wikipedia.org/wiki/Gaslighting" target="_blank"><div class="cell">Gaslighting</div></a>
+<a href="https://en.wikipedia.org/wiki/Useful_idiot" target="_blank"><div class="cell">Useful Idiot</div></a>
+<a href="https://en.wikipedia.org/wiki/Clickbait" target="_blank"><div class="cell">Clickbait</div></a>
+
+<!-- Ligne 2 -->
+<a href="https://en.wikipedia.org/wiki/Cybersquatting" target="_blank"><div class="cell">Cybersquatting</div></a>
+<a href="https://disarmframework.herokuapp.com/technique/49/view" target="_blank"><div class="cell">Swarming</div></a>
+<a href="https://disarmframework.herokuapp.com/technique/5/view" target="_blank"><div class="cell">Fake Experts</div></a>
+<a href="https://en.wikipedia.org/wiki/Double_bind" target="_blank"><div class="cell">Double Bind</div></a>
+<a href="https://en.wikipedia.org/wiki/Doxing" target="_blank"><div class="cell">Doxing</div></a>
+<a href="https://en.wikipedia.org/wiki/Cyberbullying" target="_blank"><div class="cell">Cyberbullying</div></a>
+<a href="https://en.wikipedia.org/wiki/Crossposting" target="_blank"><div class="cell">Crossposting</div></a>
+<a href="https://disarmframework.herokuapp.com/technique/35/view" target="_blank"><div class="cell">Seed Distortions</div></a>
+<a href="https://en.wikipedia.org/wiki/Rage-baiting" target="_blank"><div class="cell">Rage Baiting</div></a>
+<a href="https://en.wikipedia.org/wiki/Computer-assisted_web_interviewing" target="_blank"><div class="cell">Online Polls<br><span class="parentheses">(CAWI)</span></div></a>
+
+<!-- Ligne 3 -->
+<a href="https://en.wikipedia.org/wiki/Echo_chamber_(media)" target="_blank"><div class="cell">Echo Chamber</div></a>
+<a href="https://en.wikipedia.org/wiki/Copypasta" target="_blank"><div class="cell">Copypasta</div></a>
+<a href="https://en.wikipedia.org/wiki/Microtargeting" target="_blank"><div class="cell">Microtargeting</div></a>
+<a href="https://en.wikipedia.org/wiki/Infantilization" target="_blank"><div class="cell">Infantilization</div></a>
+<a href="https://en.wikipedia.org/wiki/Deepfake" target="_blank"><div class="cell">Deepfake</div></a>
+<a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" target="_blank"><div class="cell">Firehose of Falsehood</div></a>
+<a href="https://en.wikipedia.org/wiki/Propaganda_techniques" target="_blank"><div class="cell">Dismiss / Distract / Distort / Dismay</div></a>
+<a href="https://en.wikipedia.org/wiki/Bandwagon_effect" target="_blank"><div class="cell">Bandwagon Effect</div></a>
+<a href="https://en.wikipedia.org/wiki/Astroturfing" target="_blank"><div class="cell">Astroturfing</div></a>
+<a href="https://en.wikipedia.org/wiki/Algorithmic_bias" target="_blank"><div class="cell">Algorithm Manipulation</div></a>
+
+<!-- Concepts -->
+<a href="https://en.wikipedia.org/wiki/Manufacturing_Consent" target="_blank"><div class="cell concept-row">Manufacturing Consent</div></a>
+<a href="https://en.wikipedia.org/wiki/Crowd_psychology" target="_blank"><div class="cell concept-row">Crowd Psychology</div></a>
+<a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance" target="_blank"><div class="cell concept-row">Pluralistic Ignorance</div></a>
+<a href="https://disarmframework.herokuapp.com/technique/83/view" target="_blank"><div class="cell concept-row">Audience Vulnerability</div></a>
+<a href="https://en.wikipedia.org/wiki/Information_asymmetry" target="_blank"><div class="cell concept-row">Information Asymmetry</div></a>
+<a href="https://en.wikipedia.org/wiki/Filter_bubble" target="_blank"><div class="cell concept-row">Filter Bubble</div></a>
+<a href="https://en.wikipedia.org/wiki/Scarcity_(social_psychology)" target="_blank"><div class="cell concept-row">Scarcity Effect</div></a>
+<a href="https://en.wikipedia.org/wiki/Data_void" target="_blank"><div class="cell concept-row">Data Voids</div></a>
+<a href="https://en.wikipedia.org/wiki/Spyware" target="_blank"><div class="cell concept-row">Spyware</div></a>
+<a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" target="_blank"><div class="cell concept-row">Framing</div></a>
+
+</div>
+</div>
+</body>
+</html>
