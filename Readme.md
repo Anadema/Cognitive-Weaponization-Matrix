@@ -100,72 +100,77 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 
 ## Techniques
 
-- <a href="https://en.wikipedia.org/wiki/Shadow_banning" style="color: red;">Shadow Ban</a>
+- <a href="https://en.wikipedia.org/wiki/Shadow_banning" style="color: red;">Shadow Banning</a>
 - <a href="https://en.wikipedia.org/wiki/Nudge_theory" style="color: red;">Nudge</a>
 - <a href="https://en.wikipedia.org/wiki/Character_assassination" style="color: red;">Character Assassination</a>
 - <a href="https://en.wikipedia.org/wiki/Sock_puppet_account" style="color: red;">Sock Puppet</a>
 - <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Bad Jacketing</a>
 - <a href="https://en.wikipedia.org/wiki/Kompromat" style="color: red;">Kompromat</a>
 - <a href="https://en.wikipedia.org/wiki/Cherry_picking" style="color: red;">Cherry Picking</a>
-- <a href="https://www.ei-magazine.com/post/what-is-emotional-hijacking-and-how-can-you-prevent-it" style="color: red;">Emotional Hijacking</a>
-- <a href="https://disarmframework.herokuapp.com/technique/7/view" style="color: red;">Ignorant Agent</a>
+- <a href="https://en.wikipedia.org/wiki/Gaslighting" style="color: red;">Emotional/Cognitive Hijacking</a>
+- <a href="https://en.wikipedia.org/wiki/Useful_idiot" style="color: red;">Ignorant Agent (Useful Idiot)</a>
 - <a href="https://en.wikipedia.org/wiki/Clickbait" style="color: red;">Clickbait</a>
-- <a href="https://mediamanipulation.org/definitions/keyword-squatting/" style="color: red;">Keyword Squatting</a>
+
+- <a href="https://en.wikipedia.org/wiki/Cybersquatting" style="color: red;">Keyword Squatting</a>
 - <a href="https://disarmframework.herokuapp.com/technique/49/view" style="color: red;">Swarming</a>
 - <a href="https://disarmframework.herokuapp.com/technique/5/view" style="color: red;">Fake Experts</a>
-- <a href="https://en.wikipedia.org/wiki/Double_bind" style="color: red;">Contradictory Injunction</a>
-- <a href="https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles" style="color: red;">Doxing</a>
-- <a href="https://disarmframework.herokuapp.com/technique/193/view" style="color: red;">Cyberbullying</a>
+- <a href="https://en.wikipedia.org/wiki/Double_bind" style="color: red;">Double Bind</a>
+- <a href="https://en.wikipedia.org/wiki/Doxing" style="color: red;">Doxing</a>
+- <a href="https://en.wikipedia.org/wiki/Cyberbullying" style="color: red;">Cyberbullying</a>
+- <a href="https://en.wikipedia.org/wiki/Crossposting" style="color: red;">Crossposting</a>
 - <a href="https://disarmframework.herokuapp.com/technique/35/view" style="color: red;">Seed Distortions</a>
-- <a href="https://en.wikipedia.org/wiki/Rage-baiting" style="color: red;">Bait Influencer</a>
-- <a href="https://en.wikipedia.org/wiki/Open-access_poll" style="color: red;">Online Polls</a>
+- <a href="https://en.wikipedia.org/wiki/Rage-baiting" style="color: red;">Rage Baiting</a>
+- <a href="https://en.wikipedia.org/wiki/Computer-assisted_web_interviewing" style="color: red;">Online Polls (CAWI)</a>
+
 - <a href="https://en.wikipedia.org/wiki/Echo_chamber_(media)" style="color: red;">Echo Chamber</a>
 - <a href="https://en.wikipedia.org/wiki/Copypasta" style="color: red;">Copypasta</a>
-- <a href="https://uxdesign.cc/5-types-of-scarcity-how-to-influence-anyone-using-these-7f309d328dbb" style="color: red;">Scarcity Manipulation</a>
-- <a href="https://en.wikipedia.org/wiki/Dialectic_of_Enlightenment" style="color: red;">Motivate Mediocrity</a>
-- <a href="https://datasociety.net/library/deepfakes-and-cheap-fakes/" style="color: red;">Develop Deep/Cheap Fakes</a>
+- <a href="https://en.wikipedia.org/wiki/Microtargeting" style="color: red;">Microtargeting</a>
+- <a href="https://en.wikipedia.org/wiki/Infantilization" style="color: red;">Infantilization</a>
+- <a href="https://en.wikipedia.org/wiki/Deepfake" style="color: red;">Deepfake</a>
 - <a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Firehose of Falsehood</a>
-- <a href="https://fromthepenof.com/red-flag-professional-behaviour/discrediting" style="color: red;">Dismiss / Distract / Distort / Dismay</a>
-- <a href="https://en.wikipedia.org/wiki/Gaslighting" style="color: red;">Gaslighting</a>
-- <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" style="color: red;">Illusory Truth Effect</a>
-- <a href="https://www.merriam-webster.com/dictionary/microtarget" style="color: red;">Microtarget</a>
-- <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" style="color: red;">Maintaining Guilt and Ignorance</a>
-- <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Framing</a>
+- <a href="https://en.wikipedia.org/wiki/Propaganda_techniques" style="color: red;">Dismiss / Distract / Distort / Dismay</a>
 - <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Bandwagon Effect</a>
-- <a href="https://disarmframework.herokuapp.com/technique/145/view" style="color: red;">Astroturfing</a>
-- <a href="https://disarmframework.herokuapp.com/technique/134/view" style="color: red;">Butterfly Attacks</a>
+- <a href="https://en.wikipedia.org/wiki/Astroturfing" style="color: red;">Astroturfing</a>
+- <a href="https://en.wikipedia.org/wiki/Algorithmic_bias" style="color: red;">Algorithmic Manipulation</a>
 
 <br>
 
 ## Key Concepts
 
-- <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">5th Generation Warfare</a>
-- <a href="http://www.gandalf.it/arianna/titty.htm" style="color: red;">Titytainment</a>
-- <a href="https://en.wikipedia.org/wiki/The_Society_of_the_Spectacle" style="color: red;">Problem-Reaction-Solution - PRS</a>
-- <a href="https://datasociety.net/library/data-voids/" style="color: red;">Data Voids</a>
-- <a href="https://github.com/DISARMFoundation/DISARMframeworks/blob/main/generated_pages/techniques/T0083.md" style="color: red;">Audience Vulnerability</a>
+- <a href="https://en.wikipedia.org/wiki/Manufacturing_Consent" style="color: red;">Manufacturing Consent</a>
+- <a href="https://en.wikipedia.org/wiki/Crowd_psychology" style="color: red;">Crowd Psychology</a>
+- <a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance" style="color: red;">Pluralistic Ignorance</a>
+- <a href="https://disarmframework.herokuapp.com/technique/83/view" style="color: red;">Audience Vulnerability</a>
 - <a href="https://en.wikipedia.org/wiki/Information_asymmetry" style="color: red;">Information Asymmetry</a>
 - <a href="https://en.wikipedia.org/wiki/Filter_bubble" style="color: red;">Filter Bubble</a>
-- <a href="https://en.wikipedia.org/wiki/Compulsion_loop" style="color: red;">Dopamine Loop</a>
+- <a href="https://en.wikipedia.org/wiki/Scarcity_(social_psychology)" style="color: red;">Scarcity Effect</a>
+- <a href="https://en.wikipedia.org/wiki/Data_void" style="color: red;">Data Voids</a>
+- <a href="https://en.wikipedia.org/wiki/Spyware" style="color: red;">Spyware</a>
+- <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Framing</a>
+
+- <a href="https://en.wikipedia.org/wiki/Problematic_smartphone_use" style="color: red;">Problematic Smartphone Use</a>
 - <a href="https://en.wikipedia.org/wiki/Overton_window" style="color: red;">Overton Window</a>
-- <a href="https://en.wikipedia.org/wiki/VUCA" style="color: red;">VUCA</a>
+- <a href="https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity" style="color: red;">VUCA</a>
 - <a href="https://en.wikipedia.org/wiki/Confirmation_bias" style="color: red;">Confirmation Bias</a>
-- <a href="https://en.wikipedia.org/wiki/Anchoring_effect" style="color: red;">Anchor Bias</a>
-- <a href="https://en.wikipedia.org/wiki/Self-licensing" style="color: red;">Self-licensing</a>
-- <a href="https://en.wikipedia.org/wiki/Milgram_experiment" style="color: red;">Milgram Experiment</a>
+- <a href="https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)" style="color: red;">Anchoring Bias</a>
+- <a href="https://en.wikipedia.org/wiki/Self-licensing" style="color: red;">Moral Self-Licensing</a>
 - <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" style="color: red;">Asch Experiment</a>
-- <a href="https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt" style="color: red;">FUD</a>
-- <a href="https://en.wikipedia.org/wiki/Fear_of_missing_out" style="color: red;">FOMO</a>
+- <a href="https://en.wikipedia.org/wiki/Milgram_experiment" style="color: red;">Milgram Experiment</a>
+- <a href="https://en.wikipedia.org/wiki/Bread_and_circuses" style="color: red;">Tittytainment (Bread & Circuses)</a>
+- <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt" style="color: red;">FUD</a>
+
+- <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">5th Generation Warfare</a>
+- <a href="https://en.wikipedia.org/wiki/False_flag" style="color: red;">False Flag</a>
+- <a href="https://en.wikipedia.org/wiki/Memetics" style="color: red;">Military Memetics</a>
 - <a href="https://en.wikipedia.org/wiki/Psychological_operations_(United_States)" style="color: red;">PSYOPS</a>
-- <a href="https://en.wikipedia.org/wiki/Troll_farm" style="color: red;">Troll/Bot Farm</a>
+- <a href="https://en.wikipedia.org/wiki/Troll_farm" style="color: red;">Troll Farm</a>
 - <a href="https://en.wikipedia.org/wiki/Digital_identity" style="color: red;">Digital Identity</a>
 - <a href="https://en.wikipedia.org/wiki/Open-source_intelligence" style="color: red;">OSINT</a>
-- <a href="https://en.wikipedia.org/wiki/Operations_security" style="color: red;">OPSEC</a>
-- <a href="https://fr.wikipedia.org/wiki/Boucle_OODA" style="color: red;">OODA Loop</a>
+- <a href="https://en.wikipedia.org/wiki/Political_polarization" style="color: red;">Political Polarization</a>
+- <a href="https://en.wikipedia.org/wiki/OODA_loop" style="color: red;">OODA Loop</a>
 - <a href="https://en.wikipedia.org/wiki/Soft_power" style="color: red;">Soft Power</a>
-- <a href="https://www.linkedin.com/posts/gamuchirai-chinamasa-3a0b93142_understand-emotional-manipulation-tactics-activity-7189487683012882432-S-rX" style="color: red;">Emotional Manipulation</a>
-- <a href="https://www.robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf" style="color: red;">Military Memetics</a><br><br>
 
+<br><br>
 # Personal comments
 
 This work aims to compile techniques and key concepts enabling a direct and technical initial immersion into the field of information warfare.
