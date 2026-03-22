@@ -9,7 +9,7 @@ title: Matrice de Réarmement Cognitive / Cognitive Weaponization Matrix
    <a href="https://boneflag.com/bio.html" style="color: red;"><i>Anadem</i></a>
 </p><br>
 <p align="center">
-<img max-width="1200" height="100%" src="Framework/CWM.jpg"><br><br>
+<a href="/Cognitive-Weaponization-Matrix/Framework/Matrix_en.html" style="color: red;"><img max-width="1200" height="100%" src="Framework/CWM.jpg"></a><br><br>
   "The security of a system relies on the study of known or imagined attack techniques against it.<br>These reveal its vulnerabilities and provide us with the opportunity to address them."<br><br>
 <a href="https://boneflag.com/bio.html" style="color: red;"><img src="Image/anadema.jpg" alt="Logo Bone Flag" width="300" height="auto"></a><br><br>
 <a href="https://boneflag.com/bio.html" style="color: red;"><i>Anadem</i></a><br><br>
