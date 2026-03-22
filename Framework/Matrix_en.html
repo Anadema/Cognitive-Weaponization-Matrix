@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="https://fonts.googleapis.com/css2?family=Exo:wght@400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;700&display=swap" rel="stylesheet">
 <title>CWM</title>
 
 <style>
@@ -20,7 +20,6 @@ body {
     padding: 15px;
 }
 
-/* CONTAINER */
 .container {
     border: 4px solid red;
     background-color: black;
@@ -54,13 +53,13 @@ h1 {
     background-color: #002060;
     color: white;
     padding: 10px;
-    text-align: center;
     font-size: 12px;
     width: 140px;
     height: 90px;
     display: flex;
-    flex-direction: column;
+    align-items: center;
     justify-content: center;
+    text-align: center;
     border-radius: 10px;
     font-weight: bold;
 }
@@ -68,26 +67,34 @@ h1 {
 .cell:hover {
     background-color: black;
     color: red;
-    text-decoration: underline;
     border: 2px solid red;
+    text-decoration: underline;
 }
 
-/* TITLES */
-.cell_tech_title {
+/* TITLES (FIX COMPLET) */
+.cell_tech_title,
+.cell_conc_title {
     background-color: black;
     color: white;
+    font-size: 16px;         /* ✔️ plus gros */
+    font-weight: 700;        /* ✔️ bold */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* ✔️ centrage parfait */
+    text-align: center;
+}
+
+.cell_tech_title {
     border: 2px solid red;
     height: 50px;
 }
 
 .cell_conc_title {
-    background-color: black;
-    color: white;
     border: 2px solid #7FFF00;
     height: 50px;
 }
 
-/* EMPTY HEADER CELLS */
+/* EMPTY CELLS */
 .cell.header {
     background: transparent;
     border: none;
@@ -114,15 +121,6 @@ a {
 /* MOBILE */
 @media (max-width: 768px) {
 
-    body { padding: 10px; }
-
-    .container { padding: 10px; }
-
-    h1 {
-        font-size: 24px;
-        margin-bottom: 20px;
-    }
-
     .grid {
         display: flex;
         flex-direction: column;
@@ -141,9 +139,7 @@ a {
         margin: 0 auto;
     }
 
-    .cell.header {
-        display: none;
-    }
+    .cell.header { display: none; }
 }
 </style>
 </head>
@@ -156,13 +152,13 @@ a {
 
 <div class="grid">
 
-<!-- HEADER ROW -->
+<!-- HEADER -->
 <div class="cell_tech_title">Techniques</div>
 <div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
 <div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
 <div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
 
-<!-- LIGNE 1 -->
+<!-- TECHNIQUES 1 -->
 <a href="https://en.wikipedia.org/wiki/Shadow_banning"><div class="cell">Shadow Banning</div></a>
 <a href="https://en.wikipedia.org/wiki/Nudge_theory"><div class="cell">Nudge</div></a>
 <a href="https://en.wikipedia.org/wiki/Character_assassination"><div class="cell">Character Assassination</div></a>
@@ -174,7 +170,7 @@ a {
 <a href="https://en.wikipedia.org/wiki/Useful_idiot"><div class="cell">Ignorant Agent<br><span style="font-weight:normal;font-style:italic">(Useful Idiot)</span></div></a>
 <a href="https://en.wikipedia.org/wiki/Clickbait"><div class="cell">Clickbait</div></a>
 
-<!-- LIGNE 2 -->
+<!-- TECHNIQUES 2 -->
 <a href="https://en.wikipedia.org/wiki/Cybersquatting"><div class="cell">Keyword Squatting</div></a>
 <a href="https://disarmframework.herokuapp.com/technique/49/view"><div class="cell">Swarming</div></a>
 <a href="https://disarmframework.herokuapp.com/technique/5/view"><div class="cell">Fake Experts</div></a>
@@ -186,7 +182,7 @@ a {
 <a href="https://en.wikipedia.org/wiki/Rage-baiting"><div class="cell">Rage Baiting</div></a>
 <a href="https://en.wikipedia.org/wiki/Computer-assisted_web_interviewing"><div class="cell">Online Polls (CAWI)</div></a>
 
-<!-- LIGNE 3 -->
+<!-- TECHNIQUES 3 -->
 <a href="https://en.wikipedia.org/wiki/Echo_chamber_(media)"><div class="cell">Echo Chamber</div></a>
 <a href="https://en.wikipedia.org/wiki/Copypasta"><div class="cell">Copypasta</div></a>
 <a href="https://en.wikipedia.org/wiki/Microtargeting"><div class="cell">Microtargeting</div></a>
@@ -198,7 +194,7 @@ a {
 <a href="https://en.wikipedia.org/wiki/Astroturfing"><div class="cell">Astroturfing</div></a>
 <a href="https://en.wikipedia.org/wiki/Algorithmic_bias"><div class="cell">Algorithmic Manipulation</div></a>
 
-<!-- CONCEPTS -->
+<!-- CONCEPTS 1 -->
 <a href="https://en.wikipedia.org/wiki/Manufacturing_Consent"><div class="cell concept-row">Manufacturing Consent</div></a>
 <a href="https://en.wikipedia.org/wiki/Crowd_psychology"><div class="cell concept-row">Crowd Psychology</div></a>
 <a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance"><div class="cell concept-row">Pluralistic Ignorance</div></a>
@@ -210,7 +206,31 @@ a {
 <a href="https://en.wikipedia.org/wiki/Spyware"><div class="cell concept-row">Spyware</div></a>
 <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)"><div class="cell concept-row">Framing</div></a>
 
-<!-- FOOTER ROW -->
+<!-- CONCEPTS 2 -->
+<a href="https://en.wikipedia.org/wiki/Problematic_smartphone_use"><div class="cell concept-row">Problematic Smartphone Use</div></a>
+<a href="https://en.wikipedia.org/wiki/Overton_window"><div class="cell concept-row">Overton Window</div></a>
+<a href="https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity"><div class="cell concept-row">VUCA</div></a>
+<a href="https://en.wikipedia.org/wiki/Confirmation_bias"><div class="cell concept-row">Confirmation Bias</div></a>
+<a href="https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)"><div class="cell concept-row">Anchoring Bias</div></a>
+<a href="https://en.wikipedia.org/wiki/Self-licensing"><div class="cell concept-row">Moral Self-Licensing</div></a>
+<a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments"><div class="cell concept-row">Asch Experiment</div></a>
+<a href="https://en.wikipedia.org/wiki/Milgram_experiment"><div class="cell concept-row">Milgram Experiment</div></a>
+<a href="https://en.wikipedia.org/wiki/Bread_and_circuses"><div class="cell concept-row">Tittytainment</div></a>
+<a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt"><div class="cell concept-row">FUD</div></a>
+
+<!-- CONCEPTS 3 -->
+<a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare"><div class="cell concept-row">5th Gen Warfare</div></a>
+<a href="https://en.wikipedia.org/wiki/False_flag"><div class="cell concept-row">False Flag</div></a>
+<a href="https://en.wikipedia.org/wiki/Memetics"><div class="cell concept-row">Military Memetics</div></a>
+<a href="https://en.wikipedia.org/wiki/Psychological_operations_(United_States)"><div class="cell concept-row">PSYOPS</div></a>
+<a href="https://en.wikipedia.org/wiki/Troll_farm"><div class="cell concept-row">Troll Farm</div></a>
+<a href="https://en.wikipedia.org/wiki/Digital_identity"><div class="cell concept-row">Digital Identity</div></a>
+<a href="https://en.wikipedia.org/wiki/Open-source_intelligence"><div class="cell concept-row">OSINT</div></a>
+<a href="https://en.wikipedia.org/wiki/Political_polarization"><div class="cell concept-row">Political Polarization</div></a>
+<a href="https://en.wikipedia.org/wiki/OODA_loop"><div class="cell concept-row">OODA Loop</div></a>
+<a href="https://en.wikipedia.org/wiki/Soft_power"><div class="cell concept-row">Soft Power</div></a>
+
+<!-- FOOTER -->
 <div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
 <div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
 <div class="cell header"></div><div class="cell header"></div><div class="cell header"></div>
