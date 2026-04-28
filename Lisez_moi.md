@@ -178,6 +178,8 @@ Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour
 Tous les documents sont accessibles sur Internet :<br><br>
 
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs - Wikipédia</a>
+- <a href="https://cybercercle.com/parole-d-expert-colonel-bertrand-boyer-28112025/" style="color: red;">Colonel Bertrand Boyer - Guerre cognitive algorithmique</a>
+- <a href="https://scsp222.substack.com/p/algorithmic-cognitive-warfare-the" style="color: red;">Algorithmic Cognitive Warfare</a>
 - <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1806204/pdf/bullnyacadmed00378-0046.pdf" style="color: red;">Article PMC - Biderman’s Chart of Coercion</a>
 - <a href="https://apps.dtic.mil/sti/citations/ADA507172" style="color: red;">DTIC - Cognitive Warfare Study</a>
 - <a href="https://aorcompiegne.fr/cognitive-warfare-la-guerre-cognitique" style="color: red;">AOR Compiègne - La Guerre Cognitique</a>
