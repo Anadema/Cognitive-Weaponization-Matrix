@@ -186,6 +186,8 @@ with the sole aim of trying to get closer to the truth, nothing more, nothing le
 
 All documents are avalaible in open source access:<br><br>
 
+- <a href="https://en.wikipedia.org/wiki/Biderman%27s_Chart_of_Coercion" style="color: red;">Biderman's Chart of Coercion</a>
+- <a href="https://en.shortcogs.com/" style="color: red;">A handy guide of cognitive biaises</a>
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Cognitive Biases - Wikipedia</a>
 - <a href="https://cybercercle.com/parole-d-expert-colonel-bertrand-boyer-28112025/" style="color: red;">Colonel Bertrand Boyer - Guerre cognitive algorithmique</a>
 - <a href="https://scsp222.substack.com/p/algorithmic-cognitive-warfare-the" style="color: red;">Algorithmic Cognitive Warfare</a>
