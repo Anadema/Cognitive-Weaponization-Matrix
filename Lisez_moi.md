@@ -177,6 +177,7 @@ Je n’ai aucun conflit d’intérêts, ce qui signifie que je n’agis pas pour
 
 Tous les documents sont accessibles sur Internet :<br><br>
 
+- <a href="https://www.shortcogs.com/" style="color: red;">Guide pratique des biais cognitifs</a>
 - <a href="https://fr.wikipedia.org/wiki/Biais_cognitif" style="color: red;">Biais Cognitifs - Wikipédia</a>
 - <a href="https://cybercercle.com/parole-d-expert-colonel-bertrand-boyer-28112025/" style="color: red;">Colonel Bertrand Boyer - Guerre cognitive algorithmique</a>
 - <a href="https://scsp222.substack.com/p/algorithmic-cognitive-warfare-the" style="color: red;">Algorithmic Cognitive Warfare</a>
@@ -186,6 +187,7 @@ Tous les documents sont accessibles sur Internet :<br><br>
 - <a href="https://www.philocite.eu/blog/wp-content/uploads/2017/11/PhiloCite_Autodefense_intellectuelle.pdf" style="color: red;">PhiloCité - Autodéfense Intellectuelle</a>
 - <a href="https://robotictechnologyinc.com/images/upload/file/Presentation%20Military%20Memetics%20Tutorial%2013%20Dec%2011.pdf" style="color: red;">Robotic Technology Inc - Military Memetics Tutorial</a>
 - <a href="https://thebabe.home.blog/2020/03/04/the-great-meme-war-by-morgoth" style="color: red;">The Babe - The Great Meme War</a>
+- <a href="https://fr.wikipedia.org/wiki/Charte_de_Biderman_de_la_torture_psychologique" style="color: red;">Charte de Biderman de la torture psychologique</a>
 - <a href="https://disarmframework.herokuapp.com" style="color: red;">DISARM Framework</a>
 
 ## License
