@@ -7,7 +7,7 @@ title: Cognitive-Weaponization-Matrix - Lisez-moi
 <p align="center">Cliquez pour accéder à la matrice dynamique<br><br>
   <a href="/Cognitive-Weaponization-Matrix/Framework/Matrix_fr.html" class="page-link"><img width="100%" height="100%" src="Framework/MRC.jpg"></a><br>
   "Si vous pensez que vous n'avez rien à caché, c'est que vous avez déjà tout perdu."<br>
-  <a href="https://boneflag.com/bio.html" style="color: red;"><i>Anadem</i></a>
+  Anadema
 </p>
 
 <br>
