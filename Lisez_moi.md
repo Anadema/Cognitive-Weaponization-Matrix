@@ -196,8 +196,8 @@ Apache 2.0 — Voir la page de licence.
 
 ---
 
-## Authors
+## Auteur
 
-<a href="https://boneflag.com/bio.html" style="color: red;"><i>Anadem</i></a>
+Anadema
 
 <br><br>
