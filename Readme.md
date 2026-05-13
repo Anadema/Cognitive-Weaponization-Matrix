@@ -210,4 +210,4 @@ Apache 2.0 — see `LICENSE` file.
 
 ## Authors
 
-<a href="https://boneflag.com/bio.html" style="color: red;"><i>Anadem</i></a>
+Anadema
