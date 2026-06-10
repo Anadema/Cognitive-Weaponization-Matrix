@@ -107,13 +107,12 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 - <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Bad Jacketing</a>
 - <a href="https://en.wikipedia.org/wiki/Kompromat" style="color: red;">Kompromat</a>
 - <a href="https://en.wikipedia.org/wiki/Cherry_picking" style="color: red;">Cherry Picking</a>
-- <a href="https://en.wikipedia.org/wiki/Gaslighting" style="color: red;">Emotional/Cognitive Hijacking</a>
-- <a href="https://en.wikipedia.org/wiki/Useful_idiot" style="color: red;">Ignorant Agent (Useful Idiot)</a>
+- <a href="https://en.wikipedia.org/wiki/Gaslighting" style="color: red;">Emotional / Cognitive Hijacking</a>
+- <a href="https://en.wikipedia.org/wiki/Useful_idiot" style="color: red;">Ignorant Agent</a>
 - <a href="https://en.wikipedia.org/wiki/Clickbait" style="color: red;">Clickbait</a>
-
-- <a href="https://en.wikipedia.org/wiki/Cybersquatting" style="color: red;">Keyword Squatting</a>
+- <a href="https://mediamanipulation.org/definitions/keyword-squatting/" style="color: red;">Keyword Squatting</a>
 - <a href="https://disarmframework.herokuapp.com/technique/49/view" style="color: red;">Swarming</a>
-- <a href="https://disarmframework.herokuapp.com/technique/5/view" style="color: red;">Fake Experts</a>
+- <a href="https://disarmframework.herokuapp.com/technique/36/view" style="color: red;">Fake Experts</a>
 - <a href="https://en.wikipedia.org/wiki/Double_bind" style="color: red;">Double Bind</a>
 - <a href="https://en.wikipedia.org/wiki/Doxing" style="color: red;">Doxing</a>
 - <a href="https://en.wikipedia.org/wiki/Cyberbullying" style="color: red;">Cyberbullying</a>
@@ -121,18 +120,26 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 - <a href="https://disarmframework.herokuapp.com/technique/35/view" style="color: red;">Seed Distortions</a>
 - <a href="https://en.wikipedia.org/wiki/Rage-baiting" style="color: red;">Rage Baiting</a>
 - <a href="https://en.wikipedia.org/wiki/Computer-assisted_web_interviewing" style="color: red;">Online Polls (CAWI)</a>
-
 - <a href="https://en.wikipedia.org/wiki/Echo_chamber_(media)" style="color: red;">Echo Chamber</a>
 - <a href="https://en.wikipedia.org/wiki/Copypasta" style="color: red;">Copypasta</a>
 - <a href="https://en.wikipedia.org/wiki/Microtargeting" style="color: red;">Microtargeting</a>
 - <a href="https://en.wikipedia.org/wiki/Infantilization" style="color: red;">Infantilization</a>
 - <a href="https://en.wikipedia.org/wiki/Deepfake" style="color: red;">Deepfake</a>
 - <a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Firehose of Falsehood</a>
-- <a href="https://en.wikipedia.org/wiki/Propaganda_techniques" style="color: red;">Dismiss / Distract / Distort / Dismay</a>
+- <a href="https://en.hive-mind.community/blog/212,the-4ds-model-to-recognize-disinformation" style="color: red;">Dismiss / Distract / Distort / Dismay</a>
 - <a href="https://en.wikipedia.org/wiki/Bandwagon_effect" style="color: red;">Bandwagon Effect</a>
 - <a href="https://en.wikipedia.org/wiki/Astroturfing" style="color: red;">Astroturfing</a>
 - <a href="https://en.wikipedia.org/wiki/Algorithmic_bias" style="color: red;">Algorithmic Manipulation</a>
-
+- <a href="https://disarmframework.herokuapp.com/technique/48/view" style="color: red;">Spamouflage</a>
+- <a href="https://en.wikipedia.org/wiki/Content_farm" style="color: red;">Content Farm</a>
+- <a href="https://disarmframework.herokuapp.com/technique/29/view" style="color: red;">Influencer Baiting</a>
+- <a href="https://en.wikipedia.org/wiki/Cooptation" style="color: red;">Coopting Trusted Sources</a>
+- <a href="https://en.wikipedia.org/wiki/Pseudoscience" style="color: red;">Pseudo-scientific Justifications</a>
+- <a href="https://en.wikipedia.org/wiki/A/B_testing" style="color: red;">A/B Testing Content</a>
+- <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Deceptive Labeling</a>
+- <a href="https://en.wikipedia.org/wiki/Psychographics" style="color: red;">Psychographic Segmentation</a>
+- <a href="https://en.wikipedia.org/wiki/Dark_money" style="color: red;">Dark Money</a>
+- <a href="https://en.wikipedia.org/wiki/Bulletproof_hosting" style="color: red;">Bulletproof Hosting</a>
 <br>
 
 ## Key Concepts
@@ -140,14 +147,13 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 - <a href="https://en.wikipedia.org/wiki/Manufacturing_Consent" style="color: red;">Manufacturing Consent</a>
 - <a href="https://en.wikipedia.org/wiki/Crowd_psychology" style="color: red;">Crowd Psychology</a>
 - <a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance" style="color: red;">Pluralistic Ignorance</a>
-- <a href="https://disarmframework.herokuapp.com/technique/83/view" style="color: red;">Audience Vulnerability</a>
+- <a href="https://en.wikipedia.org/wiki/Media_manipulation" style="color: red;">Audience Vulnerability</a>
 - <a href="https://en.wikipedia.org/wiki/Information_asymmetry" style="color: red;">Information Asymmetry</a>
 - <a href="https://en.wikipedia.org/wiki/Filter_bubble" style="color: red;">Filter Bubble</a>
 - <a href="https://en.wikipedia.org/wiki/Scarcity_(social_psychology)" style="color: red;">Scarcity Effect</a>
 - <a href="https://en.wikipedia.org/wiki/Data_void" style="color: red;">Data Voids</a>
 - <a href="https://en.wikipedia.org/wiki/Spyware" style="color: red;">Spyware</a>
 - <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" style="color: red;">Framing</a>
-
 - <a href="https://en.wikipedia.org/wiki/Problematic_smartphone_use" style="color: red;">Problematic Smartphone Use</a>
 - <a href="https://en.wikipedia.org/wiki/Overton_window" style="color: red;">Overton Window</a>
 - <a href="https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity" style="color: red;">VUCA</a>
@@ -156,9 +162,8 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 - <a href="https://en.wikipedia.org/wiki/Self-licensing" style="color: red;">Moral Self-Licensing</a>
 - <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" style="color: red;">Asch Experiment</a>
 - <a href="https://en.wikipedia.org/wiki/Milgram_experiment" style="color: red;">Milgram Experiment</a>
-- <a href="https://en.wikipedia.org/wiki/Bread_and_circuses" style="color: red;">Tittytainment (Bread & Circuses)</a>
+- <a href="https://en.wikipedia.org/wiki/Bread_and_circuses" style="color: red;">Tittytainment</a>
 - <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt" style="color: red;">FUD</a>
-
 - <a href="https://en.wikipedia.org/wiki/Fifth-generation_warfare" style="color: red;">5th Generation Warfare</a>
 - <a href="https://en.wikipedia.org/wiki/False_flag" style="color: red;">False Flag</a>
 - <a href="https://en.wikipedia.org/wiki/Memetics" style="color: red;">Military Memetics</a>
@@ -169,6 +174,18 @@ Unlike <a href="https://www.disarm.foundation/" style="color: red;">DISARM frame
 - <a href="https://en.wikipedia.org/wiki/Political_polarization" style="color: red;">Political Polarization</a>
 - <a href="https://en.wikipedia.org/wiki/OODA_loop" style="color: red;">OODA Loop</a>
 - <a href="https://en.wikipedia.org/wiki/Soft_power" style="color: red;">Soft Power</a>
+- <a href="https://en.wikipedia.org/wiki/Negativity_bias" style="color: red;">Negativity Bias</a>
+- <a href="https://en.wikipedia.org/wiki/Social_proof" style="color: red;">Social Proof</a>
+- <a href="https://en.wikipedia.org/wiki/Surveillance_capitalism" style="color: red;">Surveillance Capitalism</a>
+- <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" style="color: red;">Illusory Truth Effect</a>
+- <a href="https://en.wikipedia.org/wiki/Halo_effect" style="color: red;">Halo Effect</a>
+- <a href="https://en.wikipedia.org/wiki/Learned_helplessness" style="color: red;">Learned Helplessness</a>
+- <a href="https://en.wikipedia.org/wiki/Behavioral_economics" style="color: red;">Behavioral Economics</a>
+- <a href="https://en.wikipedia.org/wiki/Lawfare" style="color: red;">Lawfare</a>
+- <a href="https://en.wikipedia.org/wiki/Association_fallacy" style="color: red;">Guilt by Association</a>
+- <a href="https://en.wikipedia.org/wiki/Front_organization" style="color: red;">Front Organizations</a>
+<br>
+
 
 <br><br>
 # Personal comments
