@@ -105,63 +105,84 @@ Contrairement au <a href="https://www.disarm.foundation/" style="color: red;">ca
 - <a href="https://fr.wikipedia.org/wiki/Kompromat_(renseignement)" style="color: red;">Matériel compromettant (Kompromat)</a>
 - <a href="https://fr.wikipedia.org/wiki/Cherry_picking" style="color: red;">Picorage (Cherry picking)</a>
 - <a href="https://fr.wikipedia.org/wiki/Gaslighting" style="color: red;">Détournement cognitif (Gaslighting)</a>
-- <a href="https://fr.wikipedia.org/wiki/Idiot_utile" style="color: red;">Idiot utile (Useful idiot)</a>
+- <a href="https://fr.wikipedia.org/wiki/Idiot_utile" style="color: red;">Agent ignorant (Useful idiot)</a>
 - <a href="https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics" style="color: red;">Piège à clics (Clickbait)</a>
-- <a href="https://fr.wikipedia.org/wiki/Cybersquattage" style="color: red;">Cyberesquat (Cybersquatting)</a>
-- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0049.md" style="color: red;">Essaimage (Flood information)</a>
-- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0009.md" style="color: red;">Faux experts (Fake expert)</a>
+- <a href="https://mediamanipulation.org/definitions/keyword-squatting/" style="color: red;">Occupation de mots-clés (Keyword squatting)</a>
+- <a href="https://disarmframework.herokuapp.com/technique/49/view" style="color: red;">Essaimage (Swarming)</a>
+- <a href="https://disarmframework.herokuapp.com/technique/36/view" style="color: red;">Faux experts (Fake experts)</a>
 - <a href="https://fr.wikipedia.org/wiki/Double_contrainte" style="color: red;">Double contrainte (Double bind)</a>
-- <a href="https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles" style="color: red;">Divulgation de données personnelles (Doxing)</a>
+- <a href="https://fr.wikipedia.org/wiki/Divulgation_de_donn%C3%A9es_personnelles" style="color: red;">Doxing (Doxing)</a>
 - <a href="https://fr.wikipedia.org/wiki/Cyberharc%C3%A8lement" style="color: red;">Cyberharcèlement (Cyberbullying)</a>
 - <a href="https://fr.wikipedia.org/wiki/Crosspostage" style="color: red;">Crosspostage (Crossposting)</a>
-- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0044.md" style="color: red;">Distorsions des graines</a>
-- <a href="https://fr.wikipedia.org/wiki/Rage-baiting" style="color: red;">Incitation à la colère (Rage-baiting)</a>
-- <a href="https://fr.wikipedia.org/wiki/Sondage_en_ligne" style="color: red;">Sondages en ligne (CAWI)</a>
-- <a href="https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)" style="color: red;">Chambre d’écho (Echo chamber)</a>
+- <a href="https://disarmframework.herokuapp.com/technique/35/view" style="color: red;">Distorsions semées (Seed distortions)</a>
+- <a href="https://fr.wikipedia.org/wiki/Rage-baiting" style="color: red;">Appât à la colère (Rage-baiting)</a>
+- <a href="https://fr.wikipedia.org/wiki/Sondage_en_ligne" style="color: red;">Sondage en ligne (CAWI)</a>
+- <a href="https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias)" style="color: red;">Chambre d'écho (Echo chamber)</a>
 - <a href="https://fr.wikipedia.org/wiki/Copypasta" style="color: red;">Copie-pâtes (Copypasta)</a>
 - <a href="https://fr.wikipedia.org/wiki/Ciblage_comportemental" style="color: red;">Microciblage (Microtargeting)</a>
 - <a href="https://fr.wikipedia.org/wiki/Infantilisation" style="color: red;">Infantilisation (Infantilization)</a>
 - <a href="https://fr.wikipedia.org/wiki/Deepfake" style="color: red;">Hypertrucage (Deepfake)</a>
-- <a href="https://fr.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Tuyau d’incendie de mensonge (Firehose of falsehood)</a>
-- <a href="https://fromthepenof.com/red-flag-professional-behaviour/discrediting" style="color: red;">Rejeter / Distraire / Distordre / Consternation</a>
+- <a href="https://fr.wikipedia.org/wiki/Firehose_of_falsehood" style="color: red;">Déluge de mensonges (Firehose of falsehood)</a>
+- <a href="https://en.hive-mind.community/blog/212,the-4ds-model-to-recognize-disinformation" style="color: red;">Nier · Distraire · Déformer · Effrayer (4D)</a>
 - <a href="https://fr.wikipedia.org/wiki/Effet_de_mode" style="color: red;">Effet de mode (Bandwagon effect)</a>
-- <a href="https://fr.wikipedia.org/wiki/Astroturfing" style="color: red;">Désinformation populaire planifiée (Astroturfing)</a>
-- <a href="https://www.ojim.fr/manipulation-algorithmes-information" style="color: red;">Manipulation des algorythmes (Algorithm manipulation)</a>
+- <a href="https://fr.wikipedia.org/wiki/Astroturfing" style="color: red;">Astroturfing (Astroturfing)</a>
+- <a href="https://www.ojim.fr/manipulation-algorithmes-information" style="color: red;">Manipulation algorithmique (Algorithmic manipulation)</a>
+- <a href="https://www.france24.com/fr/%C3%A9co-tech/20230830-op%C3%A9ration-spamouflage-beaucoup-de-propagande-chinoise-pour-presque-rien" style="color: red;">Spamouflage (Spamouflage)</a>
+- <a href="https://fr.wikipedia.org/wiki/Ferme_de_contenus" style="color: red;">Ferme à contenus (Content farm)</a>
+- <a href="https://disarmframework.herokuapp.com/technique/29/view" style="color: red;">Appâter les influenceurs (Influencer baiting)</a>
+- <a href="https://fr.wikipedia.org/wiki/Cooptation" style="color: red;">Coopter les sources fiables (Coopting sources)</a>
+- <a href="https://fr.wikipedia.org/wiki/Pseudoscience" style="color: red;">Justifications pseudo-scientifiques (Pseudoscience)</a>
+- <a href="https://fr.wikipedia.org/wiki/Test_A/B" style="color: red;">Contenu test A/B (A/B testing)</a>
+- <a href="https://en.wikipedia.org/wiki/Bad-jacketing" style="color: red;">Faux étiquetage (Deceptive labeling)</a>
+- <a href="https://fr.wikipedia.org/wiki/Psychographie" style="color: red;">Segmentation psychographique (Psychographics)</a>
+- <a href="https://fr.wikipedia.org/wiki/Financement_occulte" style="color: red;">Financement occulte (Dark money)</a>
+- <a href="https://fr.abcdef.wiki/wiki/Bulletproof_hosting" style="color: red;">Hébergement blindé (Bulletproof hosting)</a>
 <br>
 
 ## Concepts Clés
 
 - <a href="https://fr.wikipedia.org/wiki/La_Fabrication_du_consentement" style="color: red;">Fabrication du consentement (Manufacturing consent)</a>
-- <a href="https://fr.wikipedia.org/wiki/Psychologie_des_masses_et_analyse_du_moi" style="color: red;">Psychologie des masses (Group Psychology)</a>
+- <a href="https://fr.wikipedia.org/wiki/Psychologie_des_masses_et_analyse_du_moi" style="color: red;">Psychologie des masses (Crowd psychology)</a>
 - <a href="https://fr.wikipedia.org/wiki/Ignorance_pluraliste" style="color: red;">Ignorance pluraliste (Pluralistic ignorance)</a>
-- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0083.md" style="color: red;">Intégrer les vulnérabilités du public (Integrate audience vulnerabilities)</a>
+- <a href="https://github.com/Anadema/REARMframeworks/blob/main/generated_pages/techniques/T0083.md" style="color: red;">Vulnérabilité du public (Audience vulnerability)</a>
 - <a href="https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d%27information" style="color: red;">Asymétrie d'information (Information asymmetry)</a>
 - <a href="https://fr.wikipedia.org/wiki/Bulle_de_filtres" style="color: red;">Bulle de filtres (Filter bubble)</a>
-- <a href="https://misterfanjo.com/index.php/2021/11/12/leffet-de-rarete" style="color: red;">L'effet de rareté (Scarcity effect)</a>
-- <a href="https://datasociety.net/library/data-voids" style="color: red;">Vide de donnée (Data voids)</a>
+- <a href="https://fr.wikipedia.org/wiki/Raret%C3%A9_(psychologie_sociale)" style="color: red;">Effet de rareté (Scarcity effect)</a>
+- <a href="https://datasociety.net/library/data-voids" style="color: red;">Vides de données (Data voids)</a>
 - <a href="https://fr.wikipedia.org/wiki/Logiciel_espion" style="color: red;">Logiciel espion (Spyware)</a>
 - <a href="https://fr.wikipedia.org/wiki/Cadrage_(d%C3%A9cision)" style="color: red;">Cadrage (Framing)</a>
-- <a href="https://fr.wikipedia.org/wiki/D%C3%A9pendance_au_smartphone" style="color: red;">Dépendance au smartphone (Problematic smartphase use)</a>
+- <a href="https://fr.wikipedia.org/wiki/D%C3%A9pendance_au_smartphone" style="color: red;">Dépendance au smartphone (Problematic smartphone use)</a>
 - <a href="https://fr.wikipedia.org/wiki/Fen%C3%AAtre_d%27Overton" style="color: red;">Fenêtre d'Overton (Overton window)</a>
-- <a href="https://fr.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity" style="color: red;">Volatilité, incertitude, complexité et ambiguïté</a>
+- <a href="https://fr.wikipedia.org/wiki/Volatilit%C3%A9,_incertitude,_complexit%C3%A9_et_ambigu%C3%AFt%C3%A9" style="color: red;">Volatilité, incertitude, complexité et ambiguïté (VUCA)</a>
 - <a href="https://fr.wikipedia.org/wiki/Biais_de_confirmation" style="color: red;">Biais de confirmation (Confirmation bias)</a>
-- <a href="https://fr.wikipedia.org/wiki/Ancrage_(psychologie)" style="color: red;">Biais d'ancrage (Anchor bias)</a>
-- <a href="https://fr.wikipedia.org/wiki/Hypocrisie_morale" style="color: red;">Biais d'hypocrisie morale (Moral self-licensing bias)</a>
-- <a href="https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch" style="color: red;">Expérience de Asch (Asch experience)</a>
-- <a href="https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Milgram" style="color: red;">Expérience de Milgram (Milgram experience)</a>
-- <a href="https://miscellanees.me/2015/09/11/jean-claude-michea-le-tittytainment-et-lenseignement-de-lignorance" style="color: red;">Divertissement abrutissant (Tittytainment)</a>
+- <a href="https://fr.wikipedia.org/wiki/Ancrage_(psychologie)" style="color: red;">Biais d'ancrage (Anchoring bias)</a>
+- <a href="https://fr.wikipedia.org/wiki/Hypocrisie_morale" style="color: red;">Biais moral (Moral self-licensing)</a>
+- <a href="https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Asch" style="color: red;">Expérience de Asch (Asch experiment)</a>
+- <a href="https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Milgram" style="color: red;">Expérience de Milgram (Milgram experiment)</a>
+- <a href="https://fr.wikipedia.org/wiki/Panem_et_circenses" style="color: red;">Tittytainment (Bread and circuses)</a>
 - <a href="https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt" style="color: red;">Peur, incertitude et doute (FUD)</a>
-- <a href="https://odysee.com/@JeanneTraduction:a/5th-Generation-Warfare:9" style="color: red;">Guerre de 5ème génération (5th generation warfare)</a>
-- <a href="https://fr.wikipedia.org/wiki/Fausse_banni%C3%A8re" style="color: red;">Attaque sous faux pavillon (False flag)</a>
-- <a href="https://apps.dtic.mil/sti/pdfs/ADA507172.pdf" style="color: red;">La militarisation mémétique (Military Memetic)</a>
-- <a href="https://fr.wikipedia.org/wiki/Op%C3%A9rations_psychologiques" style="color: red;">Opération psychologique (Psyops)</a>
-- <a href="https://fr.wikipedia.org/wiki/Usine_%C3%A0_trolls" style="color: red;">Ferme à trolls (Troll farm)</a>
+- <a href="https://fr.wikipedia.org/wiki/Guerre_de_cinqui%C3%A8me_g%C3%A9n%C3%A9ration" style="color: red;">Guerre de 5e génération (5th gen warfare)</a>
+- <a href="https://fr.wikipedia.org/wiki/Fausse_banni%C3%A8re" style="color: red;">Fausse bannière (False flag)</a>
+- <a href="https://apps.dtic.mil/sti/pdfs/ADA507172.pdf" style="color: red;">Mémétique militaire (Military memetics)</a>
+- <a href="https://fr.wikipedia.org/wiki/Op%C3%A9rations_psychologiques" style="color: red;">PSYOPS (Psychological operations)</a>
+- <a href="https://fr.wikipedia.org/wiki/Usine_%C3%A0_trolls" style="color: red;">Usine à trolls (Troll farm)</a>
 - <a href="https://fr.wikipedia.org/wiki/Identit%C3%A9_num%C3%A9rique" style="color: red;">Identité numérique (Digital identity)</a>
-- <a href="https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes" style="color: red;">Renseignement d'origine sources ouvertes (OSINT)</a>
-- <a href="https://fr.wikipedia.org/wiki/Polarisation_politique" style="color: red;">Polarisation politique (Troll farm)</a>
-- <a href="https://fr.wikipedia.org/wiki/Boucle_OODA" style="color: red;">Observation, Orientation, Décision, Action (OODA loop)</a>
-- <a href="https://fr.wikipedia.org/wiki/Soft_power" style="color: red;">Pouvoir de convaincre (Soft power)</a>
+- <a href="https://fr.wikipedia.org/wiki/Renseignement_d%27origine_sources_ouvertes" style="color: red;">OSINT (Open-source intelligence)</a>
+- <a href="https://fr.wikipedia.org/wiki/Polarisation_politique" style="color: red;">Polarisation politique (Political polarization)</a>
+- <a href="https://fr.wikipedia.org/wiki/Boucle_OODA" style="color: red;">Boucle OODA (OODA loop)</a>
+- <a href="https://fr.wikipedia.org/wiki/Soft_power" style="color: red;">Soft power (Soft power)</a>
+- <a href="https://fr.wikipedia.org/wiki/Biais_de_n%C3%A9gativit%C3%A9" style="color: red;">Biais de négativité (Negativity bias)</a>
+- <a href="https://fr.wikipedia.org/wiki/Preuve_sociale" style="color: red;">Preuve sociale (Social proof)</a>
+- <a href="https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_surveillance" style="color: red;">Économie de la surveillance (Surveillance capitalism)</a>
+- <a href="https://fr.wikipedia.org/wiki/Effet_de_v%C3%A9rit%C3%A9_illusoire" style="color: red;">Effet de vérité illusoire (Illusory truth effect)</a>
+- <a href="https://fr.wikipedia.org/wiki/Effet_de_halo" style="color: red;">Effet de halo (Halo effect)</a>
+- <a href="https://fr.wikipedia.org/wiki/Impuissance_apprise" style="color: red;">Impuissance apprise (Learned helplessness)</a>
+- <a href="https://fr.wikipedia.org/wiki/%C3%89conomie_comportementale" style="color: red;">Économie comportementale (Behavioral economics)</a>
+- <a href="https://fr.wikipedia.org/wiki/Guerre_juridique" style="color: red;">Guerre juridique (Lawfare)</a>
+- <a href="https://fr.wikipedia.org/wiki/Sophisme_par_association" style="color: red;">Culpabilité par association (Guilt by association)</a>
+- <a href="https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_%C3%A9cran" style="color: red;">Sociétés écrans (Front organizations)</a>
 <br>
+
 
 # Commentaires personnels
 
